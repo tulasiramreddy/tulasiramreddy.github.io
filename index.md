@@ -2,7 +2,7 @@
 
 D.No:5-418, Atmakuru Road
 
-Mangalagiri Mandal,Guntur District
+Mangalagiri Mandal, Guntur District
 
 Andhra Pradesh
 
