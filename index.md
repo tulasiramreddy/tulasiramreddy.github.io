@@ -1,4 +1,4 @@
-##Tulasi Ram Reddy (తులసీ రామ రెడ్డి)
+Tulasi Ram Reddy (తులసీ రామ రెడ్డి)
 
 
 D.No:5-418, Atmakuru Road
@@ -20,10 +20,10 @@ I was a postdoctoral associate at New York University, Abu Dhabi hosted by Feder
 
 
 CV     MathSciNet    zbMATH    Google Scholar    ORCiD    NYUAD Profile   
-##Publications and preprints
+Publications and preprints
 
 
-      #  Pre-prints:
+       Pre-prints:
 
     Limit theorems for loop soup random variables  (with Federico Camia, Yves Le Jan) Submitted. arXiv:2002.00347 
     Sums of random polynomials with independent roots. (with Sean O'Rourke) arXiv:1909:07939
