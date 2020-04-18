@@ -10,13 +10,7 @@ Andhra Pradesh
 
 India - 522503
 
-
-
-
-
 tulasimath *'at'* gmail *'dot'* com
-
-
 
 
 
@@ -24,9 +18,7 @@ I was a postdoctoral associate at New York University, Abu Dhabi hosted by [Fede
 
 
 
-
-
-[CV](https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2Fs%2F1q9w97twvrhotrn%2FTulasi_cv.pdf%3Fdl%3D0&sa=D&sntz=1&usg=AFQjCNEjyodjUncQ2pItMG-pcNWJHHD2mw)     [MathSciNet](https://www.google.com/url?q=https%3A%2F%2Fmathscinet.ams.org%2Fmathscinet%2FMRAuthorID%2F1144801&sa=D&sntz=1&usg=AFQjCNG0LKjNsO49t2IxU8-UP5NvFDdDKA)    [zbMATH](https://www.google.com/url?q=https%3A%2F%2Fzbmath.org%2Fauthors%2F%3Fq%3Dreddy.tulasi-ram&sa=D&sntz=1&usg=AFQjCNGSDkk1Ou7bQAWQrP6mrPnS565jsg)    [Google Scholar](https://scholar.google.com/citations?user=n7yu3-8AAAAJ&hl=en)    [ORCiD](https://www.google.com/url?q=https%3A%2F%2Forcid.org%2F0000-0001-8068-4657&sa=D&sntz=1&usg=AFQjCNH8QOEdDgWZudNU7cpfc7_v0Q_UWg)    [NYUAD Profile](https://www.google.com/url?q=https%3A%2F%2Fnyuad.nyu.edu%2Fen%2Fresearch%2Fpostdoctoral-research%2Fresearchers%2Fresearch-bios%2Ftulasi-ram-reddy-annapareddy.html&sa=D&sntz=1&usg=AFQjCNFTy8ElJRZ4dD5fyftKFgXfkbF1HA)   
+​                                          [CV](https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2Fs%2F1q9w97twvrhotrn%2FTulasi_cv.pdf%3Fdl%3D0&sa=D&sntz=1&usg=AFQjCNEjyodjUncQ2pItMG-pcNWJHHD2mw)     [MathSciNet](https://www.google.com/url?q=https%3A%2F%2Fmathscinet.ams.org%2Fmathscinet%2FMRAuthorID%2F1144801&sa=D&sntz=1&usg=AFQjCNG0LKjNsO49t2IxU8-UP5NvFDdDKA)    [zbMATH](https://www.google.com/url?q=https%3A%2F%2Fzbmath.org%2Fauthors%2F%3Fq%3Dreddy.tulasi-ram&sa=D&sntz=1&usg=AFQjCNGSDkk1Ou7bQAWQrP6mrPnS565jsg)    [Google Scholar](https://scholar.google.com/citations?user=n7yu3-8AAAAJ&hl=en)    [ORCiD](https://www.google.com/url?q=https%3A%2F%2Forcid.org%2F0000-0001-8068-4657&sa=D&sntz=1&usg=AFQjCNH8QOEdDgWZudNU7cpfc7_v0Q_UWg)  
 
 ## Publications and preprints
 
