@@ -10,7 +10,6 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <h2>Publications and preprints</h2>
-<p>&nbsp;</p>
 <p>        <strong><em>Pre-prints:</em></strong></p>
 <ol>
 <li><strong>Limit theorems for loop soup random variables</strong>  (with <a href='https://www.google.com/url?q=https%3A%2F%2Fnyuad.nyu.edu%2Fen%2Facademics%2Fdivisions%2Fscience%2Ffaculty%2Ffederico-camia.html&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGdLM53KwUnDPq5L63yI6JWUP9cVw'>Federico Camia</a>, <a href='https://www.google.com/url?q=https%3A%2F%2Fwww.imo.universite-paris-saclay.fr%2F~lejan%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEKXqM8-SZgjPIs1tkWe365hj8Uag'>Yves Le Jan</a>) <em>Submitted.</em> <a href='https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fabs%2F2002.00347&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNFMB5ibIdUZ2gOcDSPguqrxnqSBlA'>arXiv:2002.00347</a> </li>
