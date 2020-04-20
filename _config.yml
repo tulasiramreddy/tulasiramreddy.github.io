@@ -1,7 +1,6 @@
 name: Tulasi Ram Reddy
 title: null
 
-plugins:
-- mathjax:
-inlineMath: [['$','$'], ['\\(','\\)']]
-processEscapes: true
+markdown: kramdown
+kramdown:
+    math_engine: katex
