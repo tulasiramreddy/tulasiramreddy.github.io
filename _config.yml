@@ -1,6 +1,3 @@
 name: Tulasi Ram Reddy
 title: null
 
-markdown: kramdown
-kramdown:
-    math_engine: katex
