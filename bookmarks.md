@@ -18,10 +18,14 @@
 
 [http://www.ams.org/about-us/governance/policy-statements/sec-ethics](http://www.google.com/url?q=http%3A%2F%2Fwww.ams.org%2Fabout-us%2Fgovernance%2Fpolicy-statements%2Fsec-ethics&sa=D&sntz=1&usg=AFQjCNGpHGLAVa6eFFVYn65sj_QIEMLXjA)
 
-**Others**
+**News**
 
-[DeTeXify](http://detexify.kirelabs.org/classify.html) / [OEIS](https://oeis.org/)
+[Gaurdian](https://www.theguardian.com/international) / [Vox](https://www.vox.com) / [Economist](https://www.economist.com) / [Financial Times](https://www.ft.com) / [Bloomberg](https://www.bloomberg.com)
+/ [Bloomberg Quint](https://www.bloombergquint.com) / [The Quint](https://www.thequint.com/) / [The Wire](https://www.thewire.com) / [The Hindu](https://www.thehindu.com) / [Scroll.in](https://www.scroll.in)
 
+**Fact Checkers**
+
+[Factly](https://factly.in/) / [Fact Check](https://www.factcheck.org/)  
 
 
 **ML/AI Books**
@@ -47,14 +51,10 @@
 [NN and DL web book by Michael Nielsen](http://neuralnetworksanddeeplearning.com/index.html)
 
 
-**News**
+**Others**
 
-[Gaurdian](https://www.theguardian.com/international) / [Vox](https://www.vox.com) / [Economist](https://www.economist.com) / [Financial Times](https://www.ft.com) / [Bloomberg](https://www.bloomberg.com)
-/ [Bloomberg Quint](https://www.bloombergquint.com) / [The Quint](https://www.thequint.com/) / [The Wire](https://www.thewire.com) / [The Hindu](https://www.thehindu.com) / [Scroll.in](https://www.scroll.in)
+[DeTeXify](http://detexify.kirelabs.org/classify.html) / [OEIS](https://oeis.org/)
 
-**Fact Checkers**
-
-[Factly](https://factly.in/) / [Fact Check](https://www.factcheck.org/)  
 
 
 
