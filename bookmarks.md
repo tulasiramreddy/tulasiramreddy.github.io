@@ -22,28 +22,6 @@
 [Factly](https://factly.in/) / [Fact Check](https://www.factcheck.org/)  
 
 
-**ML/AI Books**
-[DL book by Ian Goodfellow, Yoshua Bengio, Aaron Courville](https://www.deeplearningbook.org/)
-
-[RL book by Sutton and Barto](http://incompleteideas.net/book/RLbook2018.pdf)
-
-[Foundations of Data Science by Blum, Hopcraft, Kannan](https://www.cs.cornell.edu/jeh/book.pdf)
-
-[Spectral Algorithms by Kannan, Vempala](https://www.cc.gatech.edu/~vempala/spectralbook.pdf)
-
-[PR and ML by Chris Bishop](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
-
- [ML Theory to Algos by Shwartz and David](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
-
- [Elements of Statistical Learning by Hastie, Friedman, Tibshirani](https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12.pdf)
-
-[ML: Probability Perspective by Murphy](https://github.com/jonesgithub/book-1/blob/master/ML%20Machine%20Learning-A%20Probabilistic%20Perspective.pdf)
-
-[Learning theory econometrics by Bousquet, Bouchereon, Lugosi](http://www.econ.upf.edu/~lugosi/mlss_slt.pdf)
-
-[NN and DL web book by Michael Nielsen](http://neuralnetworksanddeeplearning.com/index.html)
-
-
 **Others**
 [DeTeXify](http://detexify.kirelabs.org/classify.html) / [OEIS](https://oeis.org/)
 
