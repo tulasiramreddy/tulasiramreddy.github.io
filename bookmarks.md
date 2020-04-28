@@ -58,7 +58,7 @@
 
 **Fact Checkers**
 
-[Factly](https://factly.in/) / [Fact Check](https://www.factcheck.org/) / 
+[Factly](https://factly.in/) / [Fact Check](https://www.factcheck.org/)  
 
 
 
