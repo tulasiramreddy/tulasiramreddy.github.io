@@ -10,7 +10,7 @@
 
 [McTutor History of Mathematics](http://www-history.mcs.st-and.ac.uk/) / [History of Statistics and Probability](http://mnstats.morris.umn.edu/introstat/history/indexhistory.shtml) / [Dynkin Collection](http://dynkincollection.library.cornell.edu/)
 
-**Popular Math books**
+**Popular Mathematics**
 
 [Promenade by Ghys](http://perso.ens-lyon.fr/ghys/promenade/) / [Proofs from the Book](https://proofsfromthebook.github.io/) / 
 
