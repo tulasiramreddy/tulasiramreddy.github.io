@@ -58,7 +58,7 @@
 **News**
 
 [Gaurdian](https://www.theguardian.com/international) / [Vox](https://www.vox.com) / [Economist](https://www.economist.com) / [Financial Times](https://www.ft.com) / [Bloomberg](https://www.bloomberg.com)
-/ [Bloomberg Quint](https://www.bloombergquint.com) / [The Quint](https://www.thequint.com/) / [The Wire](https://www.thewire.com) / [The Hindu](https://www.thehindu.com) 
+/ [Bloomberg Quint](https://www.bloombergquint.com) / [The Quint](https://www.thequint.com/) / [The Wire](https://www.thewire.com) / [The Hindu](https://www.thehindu.com) / [Scroll.in](https://www.scroll.in)
 
 **Fact Checkers**
 
