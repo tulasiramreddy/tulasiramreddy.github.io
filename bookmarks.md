@@ -1,8 +1,10 @@
-# Links
+# Bookmarks 
 
 **Blogs**
 
-[https://terrytao.wordpress.com/](https://www.google.com/url?q=https%3A%2F%2Fterrytao.wordpress.com%2F&sa=D&sntz=1&usg=AFQjCNF42V3PelL3jV1TrrTjx-TLA1K0Wg)
+[Terence Tao](https://terrytao.wordpress.com/) / [Scott Aaronson](https://www.scottaaronson.com/blog/) / [David Mumford](http://www.dam.brown.edu/people/mumford/blog.html) / [Djalil Chafaii](http://djalil.chafai.net/blog/) / [Timothy Gowers](https://gowers.wordpress.com/) / [Gil Kalai](https://gilkalai.wordpress.com/) / [Windows on Theory](https://windowsontheory.org/)
+
+
 
 **History**
 
@@ -55,13 +57,7 @@
 
 **News**
 
-[Gaurdian](https://www.theguardian.com/international)
-
-[Vox](https://www.vox.com)
-
-[Economist](https://www.economist.com)
-
-[Financial Times](https://www.ft.com)
+[Gaurdian](https://www.theguardian.com/international) / [Vox](https://www.vox.com) / [Economist](https://www.economist.com) / [Financial Times](https://www.ft.com)
 
 
 
