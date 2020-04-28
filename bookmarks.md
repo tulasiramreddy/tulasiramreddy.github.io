@@ -24,7 +24,7 @@
 
 **Others**
 
-[DeTeXify](http://detexify.kirelabs.org/classify.html) / [OIES](https://oeis.org/)
+[DeTeXify](http://detexify.kirelabs.org/classify.html) / [OEIS](https://oeis.org/)
 
 
 
