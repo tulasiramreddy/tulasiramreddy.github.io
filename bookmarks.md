@@ -2,7 +2,7 @@
 
 **Blogs**
 
-[Terence Tao](https://terrytao.wordpress.com/) / [Scott Aaronson](https://www.scottaaronson.com/blog/) / [David Mumford](http://www.dam.brown.edu/people/mumford/blog.html) / [Djalil Chafaii](http://djalil.chafai.net/blog/) / [Timothy Gowers](https://gowers.wordpress.com/) / [Gil Kalai](https://gilkalai.wordpress.com/) / [Windows on Theory](https://windowsontheory.org/)
+[Terence Tao](https://terrytao.wordpress.com/) / [Scott Aaronson](https://www.scottaaronson.com/blog/) / [David Mumford](http://www.dam.brown.edu/people/mumford/blog.html) / [Djalil Chafaii](http://djalil.chafai.net/blog/) / [Timothy Gowers](https://gowers.wordpress.com/) / [Gil Kalai](https://gilkalai.wordpress.com/) / [Windows on Theory](https://windowsontheory.org/) / [Igor Pak](https://igorpak.wordpress.com/)
 
 
 
@@ -57,7 +57,11 @@
 
 **News**
 
-[Gaurdian](https://www.theguardian.com/international) / [Vox](https://www.vox.com) / [Economist](https://www.economist.com) / [Financial Times](https://www.ft.com)
+[Gaurdian](https://www.theguardian.com/international) / [Vox](https://www.vox.com) / [Economist](https://www.economist.com) / [Financial Times](https://www.ft.com) / (Bloomberg)[https://www.bloomberg.com]
+/ [Bloomberg Quint](https://www.bloombergquint.com) / [The Quint](https://www.thequint.com/) / [The Wire](https://www.thewire.com) / [The Hindu](https://www.thehindu.com) / 
+**Fact Checkers**
+
+[Factly](https://factly.in/) / [Fact Check](https://www.factcheck.org/) / 
 
 
 
