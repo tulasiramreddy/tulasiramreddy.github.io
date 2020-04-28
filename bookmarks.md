@@ -40,7 +40,7 @@
 
  [Elements of Statistical Learning by Hastie, Friedman, Tibshirani](https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12.pdf)
 
-[https://github.com/jonesgithub/book-1/blob/master/ML%20Machine%20Learning-A%20Probabilistic%20Perspective.pdf](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fjonesgithub%2Fbook-1%2Fblob%2Fmaster%2FML%20Machine%20Learning-A%20Probabilistic%20Perspective.pdf&sa=D&sntz=1&usg=AFQjCNEAphHF-ycWWsrGl7XQ5R3BqsujuQ) (ML: Probability Perspective by Murphy)
+[ML: Probability Perspective by Murphy](https://github.com/jonesgithub/book-1/blob/master/ML%20Machine%20Learning-A%20Probabilistic%20Perspective.pdf)
 
 [Learning theory econometrics by Bousquet, Bouchereon, Lugosi](http://www.econ.upf.edu/~lugosi/mlss_slt.pdf)
 
