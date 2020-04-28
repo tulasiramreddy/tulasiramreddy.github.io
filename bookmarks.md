@@ -12,7 +12,7 @@
 
 **Popular Math books**
 
-[Promenade by Ghys](http://perso.ens-lyon.fr/ghys/promenade/)
+[Promenade by Ghys](http://perso.ens-lyon.fr/ghys/promenade/) / [Proofs from the Book](https://proofsfromthebook.github.io/) / 
 
 **Research Ethics**
 
