@@ -22,13 +22,9 @@
 
 [http://www.ams.org/about-us/governance/policy-statements/sec-ethics](http://www.google.com/url?q=http%3A%2F%2Fwww.ams.org%2Fabout-us%2Fgovernance%2Fpolicy-statements%2Fsec-ethics&sa=D&sntz=1&usg=AFQjCNGpHGLAVa6eFFVYn65sj_QIEMLXjA)
 
-**Latex**
-
-[http://detexify.kirelabs.org/classify.html](http://www.google.com/url?q=http%3A%2F%2Fdetexify.kirelabs.org%2Fclassify.html&sa=D&sntz=1&usg=AFQjCNGFFeQOdZ1f2TNizcJUwC4w1JHDLg)
-
 **Others**
 
-[https://oeis.org/](https://www.google.com/url?q=https%3A%2F%2Foeis.org%2F&sa=D&sntz=1&usg=AFQjCNEK9IOMOtnBYJXvcFDMP-WM2oU0GQ)
+[DeTeXify](http://detexify.kirelabs.org/classify.html) / [OIES](https://oeis.org/)
 
 
 
