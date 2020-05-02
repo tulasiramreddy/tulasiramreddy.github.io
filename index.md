@@ -3,7 +3,7 @@
 ​    [CV](https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2Fs%2F1q9w97twvrhotrn%2FTulasi_cv.pdf%3Fdl%3D0&sa=D&sntz=1&usg=AFQjCNEjyodjUncQ2pItMG-pcNWJHHD2mw)     /   [Google Scholar](https://scholar.google.com/citations?user=n7yu3-8AAAAJ&hl=en)/  [MathSciNet](https://www.google.com/url?q=https%3A%2F%2Fmathscinet.ams.org%2Fmathscinet%2FMRAuthorID%2F1144801&sa=D&sntz=1&usg=AFQjCNG0LKjNsO49t2IxU8-UP5NvFDdDKA)
 
 
-[![Motivation](https://raw.githubusercontent.com/tulasiramreddy/tulasiramreddy.github.io/master/motivation.png)](https://xkcd.com/2154/)
+[![Motivation](https://raw.githubusercontent.com/tulasiramreddy/tulasiramreddy.github.io/master/motivation.png)](https://xkcd.com/2154/ "What's even worse is, a month ago they transferred me to work on the game I was already playing, and suddenly I found myself procrastinating by playing the one I'd been assigned before. It's possible they're onto me and this is all part of the plan.")
 
 
 I am working as an analyst in the market risk domain with Deutsche Bank.
