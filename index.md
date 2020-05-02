@@ -8,7 +8,7 @@
 
 I am working as an analyst in the market risk domain with Deutsche Bank.
 
-My research interests are broadly in probability theory and its applications. Specifically, I have worked/working in random matrices, random polynomials, loop measures, conformal fields, discrete probability, random graphs and systematic risks. I also explore aspects of machine learning theory and its various applications.
+My research interests are broadly in probability theory and its applications. Specifically, my works are in the topics comprising random matrices, random polynomials, loop measures, conformal fields, discrete probability, random graphs and systematic risks. I also explore aspects of machine learning theory and its various applications.
 
 
 ## Positions held
