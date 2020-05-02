@@ -4,7 +4,7 @@
 
 
 ![Motivation](https://imgs.xkcd.com/comics/motivation.png)
-[`https://xkcd.com/2154/`](https://xkcd.com/2154/)
+[<sub><sup>https://xkcd.com/2154/</sup></sub>](https://xkcd.com/2154/)
 
 I am working as an analyst in the market risk domain with Deutsche Bank.
 
