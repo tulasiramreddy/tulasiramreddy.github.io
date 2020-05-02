@@ -23,19 +23,19 @@ My research interests are broabdly in probability theory and its applications. S
 
 ## Positions held
 
-Postdoctoral Associate at New York University, Abu Dhabi, UAE  (October, 2016 - December, 2019)
+**Postdoctoral Associate** *at* **New York University**, Abu Dhabi, UAE  (October, 2016 - December, 2019)
 
-Visiting Scientist at Indian Statistical Institute, Bangalore, India (March, 2016 - September, 2016) 
+**Visiting Scientist** *at* **Indian Statistical Institute**, Bangalore, India (March, 2016 - September, 2016) 
 
-Research Associate at Indian Institute of Science, Bangalore, India (August, 2015 - February, 2016)
+**Research Associate** *at* **Indian Institute of Science**, Bangalore, India (August, 2015 - February, 2016)
 
 ## Education
 
-PhD at Indian Institute of Science, Bangalore, India (2010-2015)
+**Ph.D.** *at* **Indian Institute of Science**, Bangalore, India (2010-2015)
 
-M.Stat at Indian Statistical Institute, Kolkata, India (2008-2010)
+**M.Stat** *at* **Indian Statistical Institute**, Kolkata, India (2008-2010)
 
-B.Stat (Hons.) at Indian Statistical Institute, Kolkata, India (2005-2008)
+**B.Stat (Hons.)** *at* **Indian Statistical Institute**, Kolkata, India (2005-2008)
 
 
 ## Publications and preprints
