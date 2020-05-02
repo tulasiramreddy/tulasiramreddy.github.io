@@ -19,7 +19,7 @@
 / [Bloomberg Quint](https://www.bloombergquint.com) / [The Quint](https://www.thequint.com/) / [The Wire](https://www.thewire.com) / [The Hindu](https://www.thehindu.com) / [Scroll.in](https://www.scroll.in)
 
 **Fact Checkers**
-[Factly](https://factly.in/) / [Fact Check](https://www.factcheck.org/)  
+[Factly](https://factly.in/) / [Fact Check](https://www.factcheck.org/) / [AltNews](https://www.altnews.in/)
 
 
 **Others**
