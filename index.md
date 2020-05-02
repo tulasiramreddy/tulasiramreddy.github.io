@@ -15,11 +15,12 @@ tulasi.math *'at'* gmail *'dot'* com
 
 
 
-
-I was a postdoctoral associate at [New York University, Abu Dhabi](https://nyuad.nyu.edu/en/) hosted by [Federico Camia](https://www.google.com/url?q=https%3A%2F%2Fnyuad.nyu.edu%2Fen%2Facademics%2Fdivisions%2Fscience%2Ffaculty%2Ffederico-camia.html&sa=D&sntz=1&usg=AFQjCNGdLM53KwUnDPq5L63yI6JWUP9cVw). I also had a brief stint as a postdoctoral visiting scientist at [Indian Statistical Institute, Bangalore](http://www.google.com/url?q=http%3A%2F%2Fwww.isibang.ac.in%2F&sa=D&sntz=1&usg=AFQjCNEScl8qTlGMQgClYj3MZpUZHnnPTw) center hosted by [Siva Athreya](http://www.google.com/url?q=http%3A%2F%2Fwww.isibang.ac.in%2F~athreya%2F&sa=D&sntz=1&usg=AFQjCNG0nBlGEsO-Rwn--p4v3w5YRiCtEg). Prior to this, I obtained PhD in Mathematics at the [Indian Institute of Science](http://www.google.com/url?q=http%3A%2F%2Fwww.iisc.ac.in%2F&sa=D&sntz=1&usg=AFQjCNHfBEObh5iqoVDWUIX8tssN0PwxIQ), Bangalore under the supervision of [Manjunath Krishnapur](http://www.google.com/url?q=http%3A%2F%2Fmath.iisc.ac.in%2F~manju%2F&sa=D&sntz=1&usg=AFQjCNFqjMJOQNyDmEYEGK6Bz9354ZfGfw). Earlier, I obtained Bachelors in Statistics (Hons.) and Masters in Statistics degrees at the [Indian Statistical Institute, Kolkata](http://www.google.com/url?q=http%3A%2F%2Fwww.isical.ac.in%2F&sa=D&sntz=1&usg=AFQjCNH4XOwfX7NoJSxTWA8Qp1N5J5MmXA).
-
+I am working as an analyst in the market risk domain with Deutsche Bank.
 
 
+My research interests are broabdly in probability theory and its applications. Specifically, I have worked/working in random matrices, random polynomials, loop measures, conformal fields, discrete probability, random graphs and systematic risks. I also explore aspects of machine learning theory and its various applications.
+
+Previously I was a postdoctoral associate at [New York University, Abu Dhabi](https://nyuad.nyu.edu/en/) hosted by [Federico Camia](https://www.google.com/url?q=https%3A%2F%2Fnyuad.nyu.edu%2Fen%2Facademics%2Fdivisions%2Fscience%2Ffaculty%2Ffederico-camia.html&sa=D&sntz=1&usg=AFQjCNGdLM53KwUnDPq5L63yI6JWUP9cVw). I also had a brief stint as a postdoctoral visiting scientist at [Indian Statistical Institute, Bangalore](http://www.google.com/url?q=http%3A%2F%2Fwww.isibang.ac.in%2F&sa=D&sntz=1&usg=AFQjCNEScl8qTlGMQgClYj3MZpUZHnnPTw) center hosted by [Siva Athreya](http://www.google.com/url?q=http%3A%2F%2Fwww.isibang.ac.in%2F~athreya%2F&sa=D&sntz=1&usg=AFQjCNG0nBlGEsO-Rwn--p4v3w5YRiCtEg). Prior to this, I obtained PhD in Mathematics at the [Indian Institute of Science](http://www.google.com/url?q=http%3A%2F%2Fwww.iisc.ac.in%2F&sa=D&sntz=1&usg=AFQjCNHfBEObh5iqoVDWUIX8tssN0PwxIQ), Bangalore under the supervision of [Manjunath Krishnapur](http://www.google.com/url?q=http%3A%2F%2Fmath.iisc.ac.in%2F~manju%2F&sa=D&sntz=1&usg=AFQjCNFqjMJOQNyDmEYEGK6Bz9354ZfGfw). Earlier, I obtained Bachelors in Statistics (Hons.) and Masters in Statistics degrees at the [Indian Statistical Institute, Kolkata](http://www.google.com/url?q=http%3A%2F%2Fwww.isical.ac.in%2F&sa=D&sntz=1&usg=AFQjCNH4XOwfX7NoJSxTWA8Qp1N5J5MmXA).
 
 
 ## Publications and preprints
