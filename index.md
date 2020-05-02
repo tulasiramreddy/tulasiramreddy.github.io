@@ -3,11 +3,10 @@
 ​    [CV](https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2Fs%2F1q9w97twvrhotrn%2FTulasi_cv.pdf%3Fdl%3D0&sa=D&sntz=1&usg=AFQjCNEjyodjUncQ2pItMG-pcNWJHHD2mw)     /   [Google Scholar](https://scholar.google.com/citations?user=n7yu3-8AAAAJ&hl=en)/  [MathSciNet](https://www.google.com/url?q=https%3A%2F%2Fmathscinet.ams.org%2Fmathscinet%2FMRAuthorID%2F1144801&sa=D&sntz=1&usg=AFQjCNG0LKjNsO49t2IxU8-UP5NvFDdDKA)
 
 
-![Motivation](https://imgs.xkcd.com/comics/motivation.png)
-[<sub><sup>https://xkcd.com/2154/</sup></sub>](https://xkcd.com/2154/)
+![https://xkcd.com/2154/](https://raw.githubusercontent.com/tulasiramreddy/tulasiramreddy.github.io/master/motivation.png)
+
 
 I am working as an analyst in the market risk domain with Deutsche Bank.
-
 
 My research interests are broadly in probability theory and its applications. Specifically, I have worked/working in random matrices, random polynomials, loop measures, conformal fields, discrete probability, random graphs and systematic risks. I also explore aspects of machine learning theory and its various applications.
 
