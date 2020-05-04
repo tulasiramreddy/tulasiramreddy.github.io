@@ -1,3 +1,21 @@
+<style TYPE="text/css">code.has-jax {font: inherit; font-size: 100%; background: inherit; border: inherit;}</style>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+    tex2jax: {
+        inlineMath: [['$','$'], ['\\(','\\)']],
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'] // removed 'code' entry
+             }
+                   });
+MathJax.Hub.Queue(function() {
+    var all = MathJax.Hub.getAllJax(), i;
+    for(i = 0; i < all.length; i += 1) {
+        all[i].SourceElement().parentNode.className += ' has-jax';
+    }
+});
+</script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_HTML-full"></script>
+  
+  
 ### Tulasi Ram Reddy (తులసీ రామ రెడ్డి)
 
 ​    [CV](https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2Fs%2F1q9w97twvrhotrn%2FTulasi_cv.pdf%3Fdl%3D0&sa=D&sntz=1&usg=AFQjCNEjyodjUncQ2pItMG-pcNWJHHD2mw)     /   [Google Scholar](https://scholar.google.com/citations?user=n7yu3-8AAAAJ&hl=en) /  [MathSciNet](https://www.google.com/url?q=https%3A%2F%2Fmathscinet.ams.org%2Fmathscinet%2FMRAuthorID%2F1144801&sa=D&sntz=1&usg=AFQjCNG0LKjNsO49t2IxU8-UP5NvFDdDKA)
