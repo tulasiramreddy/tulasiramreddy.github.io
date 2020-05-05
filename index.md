@@ -63,11 +63,11 @@ In the past, I was teaching assistant for the following courses.
 
 - MATH-UH 3213 Advanced Probability *at  NYUAD (September -December 2019)*
 - MATH-UH 1003Q Introduction to Probability and Statistics *at NYUAD (February - May 2019)*
-- *MATH-UH 4650 Directed Study in Mathematics at NYUAD (September -December 2017)*
-- *MA-261 Probability Models at IISc  (August - December 2014)*
-- *MA-361 Probability Theory at IISc (January - April 2014)*
-- *MA-261 Probability Models at IISc (August - December 2013)*
-- *UM-201 Probability and Statistics at IISc (August - December 2012)*
+- MATH-UH 4650 Directed Study in Mathematics at *NYUAD (September -December 2017)*
+- MA-261 Probability Models at *IISc  (August - December 2014)*
+- MA-361 Probability Theory at *IISc (January - April 2014)*
+- MA-261 Probability Models at *IISc (August - December 2013)*
+- UM-201 Probability and Statistics at *IISc (August - December 2012)*
 
 ## Contact
 D.No:5-418, Atmakuru Road
