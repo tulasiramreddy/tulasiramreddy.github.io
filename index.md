@@ -1,7 +1,7 @@
   
   
 ### Tulasi Ram Reddy (తులసీ రామ రెడ్డి)
-D.No:5-418, Atmakuru Road, Mangalagiri Mandal, Guntur District, Andhra Pradesh, India - 522503
+D.No: 5-418, Atmakuru Road, Mangalagiri Mandal, Guntur District, Andhra Pradesh, India - 522503
 
 tulasi.math *'at'* gmail *'dot'* com
 
