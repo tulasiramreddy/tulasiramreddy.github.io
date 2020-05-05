@@ -1,8 +1,13 @@
   
   
 ### Tulasi Ram Reddy (తులసీ రామ రెడ్డి)
+D.No:5-418, Atmakuru Road, Mangalagiri Mandal, Guntur District, Andhra Pradesh, India - 522503
+
+tulasi.math *'at'* gmail *'dot'* com
+
 
 ​    [CV](https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2Fs%2F1q9w97twvrhotrn%2FTulasi_cv.pdf%3Fdl%3D0&sa=D&sntz=1&usg=AFQjCNEjyodjUncQ2pItMG-pcNWJHHD2mw)     /   [Google Scholar](https://scholar.google.com/citations?user=n7yu3-8AAAAJ&hl=en) /  [MathSciNet](https://www.google.com/url?q=https%3A%2F%2Fmathscinet.ams.org%2Fmathscinet%2FMRAuthorID%2F1144801&sa=D&sntz=1&usg=AFQjCNG0LKjNsO49t2IxU8-UP5NvFDdDKA) / [Linkedin](https://www.linkedin.com/in/tulasiramreddy/)
+
 
 
 [![Motivation](https://raw.githubusercontent.com/tulasiramreddy/tulasiramreddy.github.io/master/motivation.png)](https://xkcd.com/2154/ "What's even worse is, a month ago they transferred me to work on the game I was already playing, and suddenly I found myself procrastinating by playing the one I'd been assigned before. It's possible they're onto me and this is all part of the plan.")
@@ -69,15 +74,5 @@ In the past, I was teaching assistant for the following courses.
 - MA-261 Probability Models at *IISc (August - December 2013)*
 - UM-201 Probability and Statistics at *IISc (August - December 2012)*
 
-## Contact
-D.No:5-418, Atmakuru Road
-
-Mangalagiri Mandal, Guntur District
-
-Andhra Pradesh
-
-India - 522503
-
-tulasi.math *'at'* gmail *'dot'* com
 
 
