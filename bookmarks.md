@@ -12,7 +12,7 @@
 [Promenade by Ghys](http://perso.ens-lyon.fr/ghys/promenade/) / [Proofs from the Book](https://proofsfromthebook.github.io/) / 
 
 **Research Ethics**
-[http://www.ams.org/about-us/governance/policy-statements/sec-ethics](http://www.google.com/url?q=http%3A%2F%2Fwww.ams.org%2Fabout-us%2Fgovernance%2Fpolicy-statements%2Fsec-ethics&sa=D&sntz=1&usg=AFQjCNGpHGLAVa6eFFVYn65sj_QIEMLXjA)
+[AMS Statement](http://www.ams.org/about-us/governance/policy-statements/sec-ethics)
 
 **News**
 [Gaurdian](https://www.theguardian.com/international) / [Vox](https://www.vox.com) / [Economist](https://www.economist.com) / [Financial Times](https://www.ft.com) / [Bloomberg](https://www.bloomberg.com)
@@ -21,6 +21,8 @@
 **Fact Checkers**
 [Factly](https://factly.in/) / [Fact Check](https://www.factcheck.org/) / [AltNews](https://www.altnews.in/)
 
+**Time sinkers**
+[Reddit](https://www.reddit.com) / [xkcd](https://xkcd.com/)
 
 **Others**
 [DeTeXify](http://detexify.kirelabs.org/classify.html) / [OEIS](https://oeis.org/)
