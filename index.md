@@ -1,4 +1,6 @@
   
+  <meta name="google-site-verification" content="XF4iQxFwQJpEJ0squr-5fYpfg33quOLuxM6ART_Wf0Y" />
+  
   
 ### Tulasi Ram Reddy (తులసీ రామ రెడ్డి)
     D.No: 5-418, Atmakuru Road
