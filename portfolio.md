@@ -21,7 +21,7 @@
 
 
 
-#### Health Tech, B2C
+#### Health-Tech, B2C
 
 [Sova.Health](https://www.sova.health/), 
 [Remedico](https://remedicohealth.com/)
