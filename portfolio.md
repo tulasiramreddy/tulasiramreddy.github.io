@@ -1,12 +1,12 @@
 
-D2C, F&B
+#### D2C, F&B
 
 [Teamonk](https://teamonk.com/)
 
 
 
 
-FinTech, DeepTech
+#### FinTech, DeepTech
 
 [Niveshi](http://niveshi.com/)
 
@@ -14,14 +14,14 @@ FinTech, DeepTech
 
 
 
-SaaS, Enterprise, B2B
+#### SaaS, Enterprise, B2B
 
 [Zuddl](https://www.zuddl.com/)
 
 
 
 
-Health Tech, B2C
+#### Health Tech, B2C
 
 [Sova.Health](https://www.sova.health/), 
 [Remedico](https://remedicohealth.com/)
