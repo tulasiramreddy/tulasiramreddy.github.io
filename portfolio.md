@@ -1,5 +1,28 @@
-[Sova.Health](https://www.sova.health/)
+
+D2C, F&B
+
 [Teamonk](https://teamonk.com/)
+
+
+
+
+FinTech, DeepTech
+
 [Niveshi](http://niveshi.com/)
-[Remedico](https://remedicohealth.com/)
+
+
+
+
+
+SaaS, Enterprise, B2B
+
 [Zuddl](https://www.zuddl.com/)
+
+
+
+
+Health Tech, B2C
+
+[Sova.Health](https://www.sova.health/), 
+[Remedico](https://remedicohealth.com/)
+
