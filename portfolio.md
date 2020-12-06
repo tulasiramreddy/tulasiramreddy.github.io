@@ -1,14 +1,14 @@
 
 ####  F&B
 
-[Teamonk](https://teamonk.com/)(D2C)
+[Teamonk](https://teamonk.com/) (D2C)
 
 
 
 
 #### FinTech, DeepTech
 
-[Niveshi](http://niveshi.com/)(B2B)
+[Niveshi](http://niveshi.com/) (B2B)
 
 
 
