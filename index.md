@@ -68,8 +68,7 @@ My research interests are broadly in probability theory and its applications. Sp
 - **A recurrent Rotor-Router configuration in ℤ<sup>3</sup>**. *Master's dissertation submitted in May 2010 at Indian Statistical Institute, Kolkata.*  [arXiv:1005.3962](http://www.google.com/url?q=http%3A%2F%2Farxiv.org%2Fabs%2F1005.3962&sa=D&sntz=1&usg=AFQjCNEzRfCKeL1N9B8jbwuu4yFsW5NZEg)
 
 
-     ***Misc***:
-
+ ***Misc***:
 - **My Hero is You, Storybook for Children on COVID-19** ([Transalted into Telugu](https://interagencystandingcommittee.org/system/files/2020-06/My%20Hero%20is%20You%2C%20Storybook%20for%20Children%20on%20COVID-19%20%28Telegu%29.pdf), Reviewers: Vani Vemparala, Rakesh Vadnala)  by the Inter-Agency Standing Committee Reference Group on Mental Health and Psychosocial Support in Emergency Settings (IASC MHPSS RG). 
 
 
