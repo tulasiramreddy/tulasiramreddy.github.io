@@ -70,7 +70,7 @@ My research interests are broadly in probability theory and its applications. Sp
 
 ***Misc***:
 
-My Hero is You, Storybook for Children on COVID-19 ([Transalted into Telugu] (https://interagencystandingcommittee.org/system/files/2020-06/My%20Hero%20is%20You%2C%20Storybook%20for%20Children%20on%20COVID-19%20%28Telegu%29.pdf), Reviewers: Vani Vemparala, Rakesh Vadnala)  by the Inter-Agency Standing Committee Reference Group on Mental Health and Psychosocial Support in Emergency Settings (IASC MHPSS RG). 
+My Hero is You, Storybook for Children on COVID-19 ([Transalted into Telugu](https://interagencystandingcommittee.org/system/files/2020-06/My%20Hero%20is%20You%2C%20Storybook%20for%20Children%20on%20COVID-19%20%28Telegu%29.pdf), Reviewers: Vani Vemparala, Rakesh Vadnala)  by the Inter-Agency Standing Committee Reference Group on Mental Health and Psychosocial Support in Emergency Settings (IASC MHPSS RG). 
 
 
 ## Teaching
