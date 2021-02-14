@@ -28,5 +28,6 @@
 [Remedico](https://remedicohealth.com/) (B2C)
 
 
-#### Hygine
-[Sanfe](https://sanfe.in/) (D2C)
+#### Hygine and Cosmetics
+[Sanfe](https://sanfe.in/) (D2C),
+[Earth Rhythm](https://www.earthrhythm.com/) (D2C)
