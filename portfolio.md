@@ -1,14 +1,17 @@
 
-####  F&B
+####  D2C
 
-[Teamonk](https://teamonk.com/) (D2C)
+[Teamonk](https://teamonk.com/) (F&B),
+[Sanfe](https://sanfe.in/) (Hygine and Cosmetics),
+[Earth Rhythm](https://www.earthrhythm.com/) (Cosmetics)
 
 
 
 
-#### FinTech, DeepTech
+#### DeepTech
 
-[Niveshi](http://niveshi.com/) (B2B)
+[Ati Motors](https://www.atimotors.com/) (Automation, B2B),
+[Niveshi](http://niveshi.com/) (Automation, Fintech, B2B)
 
 
 
@@ -28,6 +31,3 @@
 [Remedico](https://remedicohealth.com/) (B2C)
 
 
-#### Hygine and Cosmetics
-[Sanfe](https://sanfe.in/) (D2C),
-[Earth Rhythm](https://www.earthrhythm.com/) (D2C)
