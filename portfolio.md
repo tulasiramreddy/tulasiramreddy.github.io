@@ -10,7 +10,7 @@
 
 #### DeepTech
 
-[Ati Motors](https://www.atimotors.com/) (Automation, B2B),
+[Ati Motors](https://www.atimotors.com/) (Automation, Robotics, B2B),
 [Niveshi](http://niveshi.com/) (Automation, Fintech, B2B)
 
 
