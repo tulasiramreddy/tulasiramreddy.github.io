@@ -20,7 +20,7 @@
 #### SaaS, Enterprise
 
 [Zuddl](https://www.zuddl.com/) (B2B),
-[Rocketium](https://rocketium.com/) (B2B)
+[Rocketium](https://rocketium.com/) (Automation, B2B)
 
 
 
