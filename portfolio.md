@@ -16,7 +16,7 @@
 
 #### Fintech
 
-[Bueno Finance](https://buenofinance.in/)(B2C)
+[Bueno Finance](https://buenofinance.in/)(B2C),
 [Niveshi](http://niveshi.com/) (Automation, Deeptech, B2B)
 
 
