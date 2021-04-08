@@ -36,3 +36,6 @@
 [Remedico](https://remedicohealth.com/) (B2C)
 
 
+#### Ed-Tech
+
+[Saarthi Pedagogy](https://www.saarthipedagogy.com/)(B2B2C)
