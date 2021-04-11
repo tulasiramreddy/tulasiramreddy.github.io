@@ -38,4 +38,8 @@
 
 #### Ed-Tech
 
-[Saarthi Pedagogy](https://www.saarthipedagogy.com/)(B2B2C)
+[Saarthi Pedagogy](https://www.saarthipedagogy.com/) (B2B2C)
+
+#### Agritech
+
+[Helikrofter](https://helicrofter.com/) (B2B, B2B2C)
