@@ -11,8 +11,8 @@
 #### DeepTech
 
 [Ati Motors](https://www.atimotors.com/) (Automation, Robotics, B2B),
-[Niveshi](http://niveshi.com/) (Automation, Fintech, B2B)
-[kwh Bikes](https://www.kwhbikes.com/) (Automobile, battery-tech, B2B2b)
+[Niveshi](http://niveshi.com/) (Automation, Fintech, B2B),
+[kwh Bikes](https://www.kwhbikes.com/) (Automobile, Battery-tech, B2B2b)
 
 
 #### Fintech
