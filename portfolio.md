@@ -2,7 +2,6 @@
 ####  D2C
 
 [Teamonk](https://teamonk.com/) (F&B),
-[Earth Rhythm](https://www.earthrhythm.com/) (Cosmetics)
 
 
 
