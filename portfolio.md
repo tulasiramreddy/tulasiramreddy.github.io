@@ -10,13 +10,8 @@
 
 [Ati Motors](https://www.atimotors.com/) (Automation, Robotics, B2B),
 [Niveshi](http://niveshi.com/) (Automation, Fintech, B2B),
-[kwh Bikes](https://www.kwhbikes.com/) (Automobile, Battery-tech, B2B2b)
-
-
-#### Fintech
-
-[Bueno Finance](https://buenofinance.in/)(B2C),
-[Niveshi](http://niveshi.com/) (Automation, Deeptech, B2B)
+[kwh Bikes](https://www.kwhbikes.com/) (Automobile, Battery-Tech, B2B2b),
+[Mynvax](http://mynvax.com/) (Bio-Tech, Vaccines)
 
 
 
