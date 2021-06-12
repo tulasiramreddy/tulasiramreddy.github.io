@@ -13,9 +13,9 @@
 
 [Ati Motors](https://www.atimotors.com/) (Automation, Robotics, B2B),
 [Niveshi](http://niveshi.com/) (Automation, Fintech, B2B),
-[kwh Bikes](https://www.kwhbikes.com/) (Automobile, Battery-Tech, B2B2b),
+[kwh Bikes](https://www.kwhbikes.com/) (Automobile, Battery-Tech, Climate-Tech B2B2b),
 [Mynvax](http://mynvax.com/) (Bio-Tech, Vaccines),
-[The ePlane Co.](https://www.eplane.ai/) (eVOTL, Aerospace)
+[The ePlane Co.](https://www.eplane.ai/) (eVOTL, Aerospace, Climate-Tech)
 
 
 #### Ed-Tech
