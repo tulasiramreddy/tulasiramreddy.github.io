@@ -11,11 +11,11 @@
 
 #### DeepTech
 
-[Ati Motors](https://www.atimotors.com/) (Automation, Robotics, B2B),
+[Ati Motors](https://www.atimotors.com/) (Automation, Robotics, Frontier-Tech, B2B),
 [Niveshi](http://niveshi.com/) (Automation, Fintech, B2B),
-[kwh Bikes](https://www.kwhbikes.com/) (Automobile, Battery-Tech, Climate-Tech B2B2b),
-[Mynvax](http://mynvax.com/) (Bio-Tech, Vaccines),
-[The ePlane Co.](https://www.eplane.ai/) (eVOTL, Aerospace, Climate-Tech)
+[kwh Bikes](https://www.kwhbikes.com/) (Automobile, Battery-Tech, Climate-Tech, B2B2b),
+[Mynvax](http://mynvax.com/) (Bio-Tech, Vaccines, Frontier-Tech),
+[The ePlane Co.](https://www.eplane.ai/) (eVOTL, Aerospace, Climate-Tech,Frontier-Tech)
 
 
 #### Ed-Tech
