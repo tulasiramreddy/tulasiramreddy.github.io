@@ -10,6 +10,7 @@
 #### DeepTech
 
 [Ati Motors](https://www.atimotors.com/) (Automation, Robotics, Frontier-Tech, B2B)\
+[Ethereal Machines](https://www.etherealmachines.com/) (Manufacturing, Frontier-Tech, B2B)\
 [kwh Bikes](https://www.kwhbikes.com/) (Automobile, Battery-Tech, Climate-Tech, B2B2b)\
 [Mynvax](http://mynvax.com/) (Bio-Tech, Vaccines)\
 [Niveshi](http://niveshi.com/) (Automation, Fintech, B2B)\
