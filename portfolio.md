@@ -1,6 +1,3 @@
-#### Agritech
-
-[Helikrofter](https://helicrofter.com/) (B2B, B2B2C)
 
 ####  D2C
 
@@ -16,6 +13,11 @@
 [Niveshi](http://niveshi.com/) (Automation, Fintech, B2B)\
 [The ePlane Co.](https://www.eplane.ai/) (eVOTL, Aerospace, Climate-Tech, Frontier-Tech)
 
+#### E-Commerce/Retail-tech
+
+[Helikrofter](https://helicrofter.com/) (B2B, B2B2C)\
+[Dukaan](https://mydukaan.io/) (B2B, B2B2C, SaaS)
+
 
 #### Ed-Tech
 
@@ -25,7 +27,6 @@
 
 [Remedico](https://remedicohealth.com/) (B2C)\
 [Sova.Health](https://www.sova.health/) (B2C)
-
 
 
 #### SaaS, Enterprise
