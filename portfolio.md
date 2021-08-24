@@ -28,6 +28,9 @@
 [Remedico](https://remedicohealth.com/) (B2C)\
 [Sova.Health](https://www.sova.health/) (B2C)
 
+#### Insurance
+
+[Even](https://even.in/)(B2C)
 
 #### SaaS, Enterprise
 
