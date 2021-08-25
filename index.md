@@ -66,6 +66,7 @@ My research interests are broadly in probability theory and its applications. Sp
 
 - **On critical points of random polynomials and spectrum of certain products of random matrices.** [*Ph.D. Thesis*]( http://etd.iisc.ac.in/handle/2005/4001 ) *submitted in July 2015 at Indian Institute of Science, Bangalore*.  [arXiv:1602.05298](http://www.google.com/url?q=http%3A%2F%2Farxiv.org%2Fabs%2F1602.05298&sa=D&sntz=1&usg=AFQjCNEF7KG1i8z9DTwQwKRwUGyc44OIRw)
 - **A recurrent Rotor-Router configuration in ℤ<sup>3</sup>**. *Master's dissertation submitted in May 2010 at Indian Statistical Institute, Kolkata.*  [arXiv:1005.3962](http://www.google.com/url?q=http%3A%2F%2Farxiv.org%2Fabs%2F1005.3962&sa=D&sntz=1&usg=AFQjCNEzRfCKeL1N9B8jbwuu4yFsW5NZEg)
+- **A short note on applications of Hypercontractivity** [pdf](http://math.iisc.ac.in/~manju/GP/TRR.pdf)
 
 
  ***Misc***:
