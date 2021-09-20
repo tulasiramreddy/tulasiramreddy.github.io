@@ -15,27 +15,27 @@
 
 #### E-Commerce/Retail-tech
 
-[Helikrofter](https://helicrofter.com/) (B2B, B2B2C)\
-[Dukaan](https://mydukaan.io/) (B2B, B2B2C, SaaS)
+[Helikrofter](https://helicrofter.com/) (B2B, B2B2C, [Playstore](https://play.google.com/store/apps/developer?id=Helicrofter+Private+Limited))\
+[Dukaan](https://mydukaan.io/) (B2B, B2B2C, SaaS, [Playstore](https://play.google.com/store/apps/dev?id=8375257734492435347))
 
 
 #### Ed-Tech
 
-[Saarthi Pedagogy](https://www.saarthipedagogy.com/) (B2B2C)
+[Saarthi Pedagogy](https://www.saarthipedagogy.com/) (B2B2C, [Playstore](https://play.google.com/store/apps/developer?id=Saarthi+Pedagogy))
 
 #### Health-Tech
 
-[Remedico](https://remedicohealth.com/) (B2C)\
+[Remedico](https://remedicohealth.com/) (B2C, [Playstore](https://play.google.com/store/apps/details?id=com.remedicoapp))\
 [Sova.Health](https://www.sova.health/) (B2C)
 
 #### Insurance
 
-[Even](https://even.in/)(B2C)
+[Even](https://even.in/) (B2C)
 
 #### SaaS, Enterprise
 
 [Rocketium](https://rocketium.com/) (Automation, B2B)\
-[Zuddl](https://www.zuddl.com/) (B2B)
+[Zuddl](https://www.zuddl.com/) (B2B, [Playstore](https://play.google.com/store/apps/dev?id=9113605584002937849))
 
 
 
