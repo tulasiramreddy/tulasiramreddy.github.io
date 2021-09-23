@@ -15,7 +15,6 @@
 
 #### E-Commerce/Retail-tech
 
-[Helikrofter](https://helicrofter.com/) (B2B, B2B2C, [Playstore](https://play.google.com/store/apps/developer?id=Helicrofter+Private+Limited))\
 [Dukaan](https://mydukaan.io/) (B2B, B2B2C, SaaS, [Playstore](https://play.google.com/store/apps/dev?id=8375257734492435347))
 
 
