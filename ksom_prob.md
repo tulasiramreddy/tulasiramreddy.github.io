@@ -1,7 +1,7 @@
 
 **Course:** Probability Theory (KSMIC04)
 
-**Timings:** Mondays and Saturs 9:00 am to 11:00 am.
+**Timings:** Mondays and Saturdays 9:00 am to 11:00 am.
 
 **Teaching Assistant:** 
 
