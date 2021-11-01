@@ -50,3 +50,5 @@ Useful inequalities: Markov, Chebyshev, Cauchy-Schwarz, Bonferroni. IID random v
 | 22| 22 January 2022 |   |
 | 23|   24 January 2022  |  |
 | 24| 29 January 2022 |   |
+
+**Assignments:**
