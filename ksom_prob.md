@@ -8,12 +8,11 @@
 **Course meeting venue:** [Google meet link](https://meet.google.com/vdm-pjic-knb)
 
 **Syllabus:** Probability space, events. Axioms of probability. Inclusion exclusion principle. Combinatorial examples. 
-Independence and conditioning. Bayes formula. Random variables. Distribution function. Simulation.
-Examples: Binomial, Geometric, Poisson, Hypergeometric etc. Expectation, variance and covariance, generating functions. 
+Independence and conditioning. Bayes formula. Random variables. Distribution functions.
+Examples: Binomial, Geometric, Poisson, Hypergeometric etc. Expectation, variance and covariance, generating functions and characteristic function. 
 Independence and conditioning of random variables. Joint disribution, Distribution of the sum.  
-Working rules for continuous distributions and densities. Examples: Normal, exponential and gamma, uniform and beta, etc. 
-Useful inequalities: Markov, Chebyshev, Cauchy-Schwarz, Bonferroni. IID random variables (existential issues overlooked). 
-Weak law of large numbers, CLT. Simple symmetric rrandom walk, Ballot Theorem. 
+Continous distributions and densities. Examples: Normal, exponential and gamma, uniform and beta, etc. 
+Useful inequalities: Markov, Chebyshev, Cauchy-Schwarz, Bonferroni. IID random variables. Weak law of large numbers, CLT. Simple symmetric rrandom walk, Ballot Theorem. 
 
 
 **References and Resources:**
