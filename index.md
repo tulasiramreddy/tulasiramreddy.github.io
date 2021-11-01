@@ -74,7 +74,9 @@ My research interests are broadly in probability theory and its applications. Sp
 
 
 ## Teaching
-- [KSMIC04 Probability Theory](ksom_prob) *at Kerala School of Mathematics (November 2021 - February 2022)*
+- [KSMIC04 Probability Theory](https://tulasiramreddy.github.io/ksom_prob) *at Kerala School of Mathematics (November 2021 - February 2022)*
+
+
 In the past, I was teaching assistant for the following courses.
 
 - MATH-UH 3213 Advanced Probability *at  NYUAD (September -December 2019)*
