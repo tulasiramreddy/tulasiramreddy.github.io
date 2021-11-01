@@ -5,7 +5,7 @@
 
 **Teaching Assistant:** 
 
-**Course meeting:** [Google meet link](https://meet.google.com/vdm-pjic-knb)
+**Course meeting venue:** [Google meet link](https://meet.google.com/vdm-pjic-knb)
 
 **Syllabus:** Probability space, events. Axioms of probability. Inclusion exclusion principle. Combinatorial examples. 
 Independence and conditioning. Bayes formula. Random variables. Distribution function. Simulation.
