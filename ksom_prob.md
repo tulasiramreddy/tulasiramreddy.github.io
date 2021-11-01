@@ -1,11 +1,11 @@
 
 **Course:** Probability Theory (KSMIC04)
 
-**Class Timings:** Mondays and Saturs 9:00 am to 11:00 am.
+**Timings:** Mondays and Saturs 9:00 am to 11:00 am.
 
 **Teaching Assistant:** 
 
-**Course meeting link:** [Google meet link](https://meet.google.com/vdm-pjic-knb)
+**Course meeting:** [Google meet link](https://meet.google.com/vdm-pjic-knb)
 
 **Syllabus:** Probability space, events. Axioms of probability. Inclusion exclusion principle. Combinatorial examples. 
 Independence and conditioning. Bayes formula. Random variables. Distribution function. Simulation.
