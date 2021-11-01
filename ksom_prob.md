@@ -16,8 +16,11 @@ Useful inequalities: Markov, Chebyshev, Cauchy-Schwarz, Bonferroni. IID random v
 Weak law of large numbers, CLT. Simple symmetric rrandom walk, Ballot Theorem. 
 
 
-**Resources:**
-[Manjunath Krishnapur's Lecture Notes](http://math.iisc.ac.in/~manju/UGstatprob18/Prob.pdf)
+**References and Resources:**
+- [Manjunath Krishnapur's Lecture Notes](http://math.iisc.ac.in/~manju/UGstatprob18/Prob.pdf)
+- **William Feller** An introduction to probability theory and its applications - Vol. 1
+- **Sheldon Ross** A first course in probability
+
 
 
 | Lecture   | Date   | Contents     |
