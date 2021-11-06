@@ -12,7 +12,7 @@ Independence and conditioning. Bayes formula. Random variables. Distribution fun
 Examples: Binomial, Geometric, Poisson, Hypergeometric etc. Expectation, variance and covariance, generating functions and characteristic function. 
 Independence and conditioning of random variables. Joint disribution, Distribution of the sum.  
 Continous distributions and densities. Examples: Normal, exponential and gamma, uniform and beta, etc. 
-Useful inequalities: Markov, Chebyshev, Cauchy-Schwarz, Bonferroni. IID random variables. Weak law of large numbers, CLT. Simple symmetric rrandom walk, Ballot Theorem. 
+Inequalities: Markov, Chebyshev, Cauchy-Schwarz, Bonferroni. IID random variables. Weak law of large numbers, CLT. Simple symmetric random walk, Ballot Theorem. 
 
 **Grading:** Biweekly quiz (20%), Mid-term test (30%), End-term test (50%)
 
@@ -22,6 +22,7 @@ Useful inequalities: Markov, Chebyshev, Cauchy-Schwarz, Bonferroni. IID random v
 - **Sheldon Ross** A first course in probability
 - [Seeing Theory: A visual introduction to probability and statistics](https://seeing-theory.brown.edu/) Has several interactive illustrations.
 
+**Classroom Scribes**
 
 
 | Lecture   | Date   | Contents     |
@@ -29,7 +30,7 @@ Useful inequalities: Markov, Chebyshev, Cauchy-Schwarz, Bonferroni. IID random v
 | 1|   1 November 2021  | Introduction, Examples, Probability Spaces |
 | 2| 6 November 2021 |  Axioms of probability and illustrations |
 | 3|   8 November 2021  | Inclusion-exclusion principle and examples |
-| 4| 13 November 2021 |   |
+| 4| 13 November 2021 | Random Variables and examples |
 | 5|   15 November 2021  |  |
 | 6| 20 November 2021 |   |
 | 7|   22 November 2021  |  |
