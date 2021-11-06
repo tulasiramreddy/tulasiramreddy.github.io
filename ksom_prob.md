@@ -14,6 +14,7 @@ Independence and conditioning of random variables. Joint disribution, Distributi
 Continous distributions and densities. Examples: Normal, exponential and gamma, uniform and beta, etc. 
 Useful inequalities: Markov, Chebyshev, Cauchy-Schwarz, Bonferroni. IID random variables. Weak law of large numbers, CLT. Simple symmetric rrandom walk, Ballot Theorem. 
 
+**Grading:** Biweekly quiz (20%), Mid-term test (30%), End-term test (50%)
 
 **References and Resources:**
 - [Manjunath Krishnapur's Lecture Notes](http://math.iisc.ac.in/~manju/UGstatprob18/Prob.pdf)
@@ -52,4 +53,4 @@ Useful inequalities: Markov, Chebyshev, Cauchy-Schwarz, Bonferroni. IID random v
 | 23|   24 January 2022  |  |
 | 24| 29 January 2022 |   |
 
-**Assignments:**
+**Problem Sets:**
