@@ -54,4 +54,4 @@ Inequalities: Markov, Chebyshev, Cauchy-Schwarz, Bonferroni. IID random variable
 | 23|   24 January 2022  |  |
 | 24| 29 January 2022 |   |
 
-**Problem Sets:**
+**Problem Sets:** [Set-1](https://www.dropbox.com/s/p37u4kr4bwzd1j7/Set-1.pdf?dl=0)
