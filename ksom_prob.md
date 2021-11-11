@@ -30,15 +30,15 @@ Inequalities: Markov, Chebyshev, Cauchy-Schwarz, Bonferroni. IID random variable
 | 1|   1 November 2021  | Introduction, Examples, Probability Spaces |
 | 2| 6 November 2021 |  Axioms of probability and illustrations |
 | 3|   8 November 2021  | Inclusion-exclusion principle and examples |
-| 4| 13 November 2021 | Discrete random variables and examples |
-| 5|   15 November 2021  |  Continuos random variables and examples |
-| 6| 20 November 2021 | Expectation, moments and generating functions  |
-| 7|   22 November 2021  |  |
-| 8| 27 November 2021 |   |
-| 9|   29 November 2021  |  |
-| 10| 4 December 2021 |   |
-| 11|   6 December 2021  |  |
-| 12| 11 December 2021 |   |
+| 4| 13 November 2021 | Bonferroni Inequalities |
+| 5|   15 November 2021  | Independence and conditional probability  |
+| 6| 20 November 2021 | Beyes' rule and applications  |
+| 7|   22 November 2021  | Paradoxes, resolutions and other issues |
+| 8| 27 November 2021 |  Discrete probability distributions and examples |
+| 9|   29 November 2021  | Continuos probability distributions and examples |
+| 10| 4 December 2021 | Joint distributions and change of variable formula  |
+| 11|   6 December 2021  | Expectation, moments and generating functions |
+| 12| 11 December 2021 | Inequalities (Cauchy-Shwarz, Markov, Chebyshev, Chernoff )  |
 | |   13 December 2021  | Mid-Semester |
 | | 18 December 2021 |  Mid-Semester |
 | 13|   20 December 2021  |  |
