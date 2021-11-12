@@ -32,7 +32,7 @@ Inequalities: Markov, Chebyshev, Cauchy-Schwarz, Bonferroni. IID random variable
 | 3|   8 November 2021  | Inclusion-exclusion principle and examples |
 | 4| 13 November 2021 | Bonferroni Inequalities |
 | 5|   15 November 2021  | Independence and conditional probability  |
-| 6| 20 November 2021 | Beyes' rule and applications  |
+| 6| 20 November 2021 | Bayes' rule and applications  |
 | 7|   22 November 2021  | Paradoxes, resolutions and other issues |
 | 8| 27 November 2021 |  Discrete probability distributions and examples |
 | 9|   29 November 2021  | Continuos probability distributions and examples |
