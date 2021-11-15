@@ -3,7 +3,7 @@
 
 **Timings:** Mondays and Saturdays 9:00 am to 11:00 am.
 
-**Teaching Assistant:** 
+**Teaching Assistant:** Arunkumar
 
 **Course meeting venue:** [Google meet link](https://meet.google.com/vdm-pjic-knb)
 
