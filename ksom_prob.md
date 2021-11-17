@@ -18,7 +18,7 @@ Inequalities: Markov, Chebyshev, Cauchy-Schwarz, Bonferroni. IID random variable
 
 **References and Resources:**
 - [Manjunath Krishnapur's Lecture Notes](http://math.iisc.ac.in/~manju/UGstatprob18/Prob.pdf)
-- **William Feller** An introduction to probability theory and its applications - Vol. 1
+- **William Feller** An introduction to probability theory and its applications - Vol. 1, 2
 - **Sheldon Ross** A first course in probability
 - [Seeing Theory: A visual introduction to probability and statistics](https://seeing-theory.brown.edu/) Has several interactive illustrations.
 
