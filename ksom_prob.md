@@ -41,9 +41,9 @@ Inequalities: Markov, Chebyshev, Cauchy-Schwarz, Bonferroni. IID random variable
 | 12| 11 December 2021 | Inequalities (Cauchy-Shwarz, Markov, Chebyshev, Chernoff )  |
 | |   13 December 2021  | Mid-Semester |
 | | 18 December 2021 |  Mid-Semester |
-| 13|   20 December 2021  |  |
-| 14| 25 December 2021 |   |
-| 15|   27 December 2021  |  |
+| 13|   20 December 2021  | Characteristic function and properties |
+| 14| 25 December 2021 | Gaussian random variables and properties  |
+| 15|   27 December 2021  | |
 | 16| 1 January 2022 |   |
 | 17|   3 January 2022  |  |
 | 18| 8 January 2022 |   |
