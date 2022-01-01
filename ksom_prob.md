@@ -48,10 +48,10 @@ Inequalities: Markov, Chebyshev, Cauchy-Schwarz, Bonferroni. IID random variable
 | 17|   3 January 2022  | Gaussian random variables and properties |
 | 18| 8 January 2022 |  Poisson limits and Gaussian limits |
 | 19|   10 January 2022  | Central limit theorem |
-| 20| 15 January 2022 |   |
-| 21|   17 January 2022  |  |
-| 22| 22 January 2022 |   |
-| 23|   24 January 2022  |  |
-| 24| 29 January 2022 |   |
+| 20| 15 January 2022 |  Simulation |
+| 21|   17 January 2022  | Simple symmetric random walk |
+| 22| 22 January 2022 | Gambler's ruin  |
+| 23|   24 January 2022  | Recurrence and transience |
+| 24| 29 January 2022 | Ballot theorem  |
 
 **Problem Sets:** | [Set-1](https://www.dropbox.com/s/p37u4kr4bwzd1j7/Set-1.pdf?dl=0) | [Set-2](https://www.dropbox.com/s/y20p904x36jlw1u/Set-2.pdf?dl=0) | [Set-3](https://www.dropbox.com/s/cff54r8citjgqi4/Set-3.pdf?dl=0) |  [Set-4](https://www.dropbox.com/s/7oqrizah45uckwn/Set-4.pdf?dl=0) | [Set-5](https://www.dropbox.com/s/7lpvyd8x7y5ulx4/Set-5.pdf?dl=0) |
