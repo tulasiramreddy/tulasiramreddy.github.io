@@ -48,7 +48,7 @@ Inequalities: Markov, Chebyshev, Cauchy-Schwarz, Bonferroni. IID random variable
 | 17|   3 January 2022  | Gaussian random variables and properties |
 | 18| 8 January 2022 |  Poisson limits and Gaussian limits |
 | 19|   10 January 2022  | Central limit theorem |
-| 20| 15 January 2022 |  Simulation |
+| 20| 15 January 2022 |  Central limit theorem (contd.) |
 | 21|   17 January 2022  | Simple symmetric random walk |
 | 22| 22 January 2022 | Gambler's ruin  |
 | 23|   24 January 2022  | Recurrence and transience |
