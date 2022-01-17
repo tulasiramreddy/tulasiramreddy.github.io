@@ -46,7 +46,7 @@ Inequalities: Markov, Chebyshev, Cauchy-Schwarz, Bonferroni. IID random variable
 | 15|   27 December 2021  | Characteristic function and properties |
 | 16| 1 January 2022 |  Law of large numbers |
 | 17|   3 January 2022  | Gaussian random variables and properties |
-| 18| 8 January 2022 |  Poisson limits and Gaussian limits |
+| 18| 8 January 2022 |  Poisson limits  |
 | 19|   10 January 2022  | Central limit theorem |
 | 20| 15 January 2022 |  Central limit theorem (contd.) |
 | 21|   17 January 2022  | Simulation |
