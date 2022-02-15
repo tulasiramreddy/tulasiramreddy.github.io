@@ -54,6 +54,6 @@ Inequalities: Markov, Chebyshev, Cauchy-Schwarz, Bonferroni. IID random variable
 | 22| 22 January 2022 | Simple symmetric random walk  |
 | 23|   24 January 2022  | Recurrence and transience |
 | 24| 29 January 2022 | Reflection Principle |
-|   | 6 February 2022 | End Semester |
+|   | 12 February 2022 | End Semester |
 
 **Problem Sets:** | [Set-1](https://www.dropbox.com/s/p37u4kr4bwzd1j7/Set-1.pdf?dl=0) | [Set-2](https://www.dropbox.com/s/y20p904x36jlw1u/Set-2.pdf?dl=0) | [Set-3](https://www.dropbox.com/s/cff54r8citjgqi4/Set-3.pdf?dl=0) |  [Set-4](https://www.dropbox.com/s/7oqrizah45uckwn/Set-4.pdf?dl=0) | [Set-5](https://www.dropbox.com/s/7lpvyd8x7y5ulx4/Set-5.pdf?dl=0) | [Set-6](https://www.dropbox.com/s/78rnex4wev3k9gj/Set-6.pdf?dl=0) | [Set-7](https://www.dropbox.com/s/wmzwy90brt3oe1y/Set-7.pdf?dl=0) | [Set-8](https://www.dropbox.com/s/nfqwsqelzkrs5sj/Set-8.pdf?dl=0) |
