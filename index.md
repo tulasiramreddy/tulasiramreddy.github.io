@@ -45,7 +45,7 @@ My research interests are broadly in probability theory and its applications. Sp
 
 ​        ***Pre-prints:***
 
-1. **Zeros of random polynomials and their higher derivatives.** (with [Sung-Soo Byun](https://scholar.google.com/citations?user=d6ybGvMAAAAJ&hl=en), [Jaehun Lee](https://scholar.google.com/citations?user=0GYBWZIAAAAJ&hl=en)). *To appear in Transactions of American Mathematical Society.* [arXiv:1801.08974](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fabs%2F1801.08974&sa=D&sntz=1&usg=AFQjCNF-j1ShNbl3AhQmkTz94go02ZQeww) 
+1. **Zeros of random polynomials and their higher derivatives.** (with [Sung-Soo Byun](https://scholar.google.com/citations?user=d6ybGvMAAAAJ&hl=en), [Jaehun Lee](https://scholar.google.com/citations?user=0GYBWZIAAAAJ&hl=en)). To appear in *Transactions of American Mathematical Society.* [arXiv:1801.08974](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fabs%2F1801.08974&sa=D&sntz=1&usg=AFQjCNF-j1ShNbl3AhQmkTz94go02ZQeww) 
 
 
 ​        ***Published articles:***
