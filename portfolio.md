@@ -10,8 +10,8 @@
 [kwh Bikes](https://www.kwhbikes.com/) (Automobile, Battery-Tech, Climate-Tech, B2B2b)\
 [Mynvax](http://mynvax.com/) (Bio-Tech, Vaccines)\
 [Niveshi](http://niveshi.com/) (Automation, Fintech, B2B)\
-[The ePlane Co.](https://www.eplane.ai/) (eVOTL, Aerospace, Climate-Tech, Frontier-Tech)
-[https://galaxeye.space/](https://galaxeye.space/) (Space-tech, Frontier-tech)
+[The ePlane Co.](https://www.eplane.ai/) (eVOTL, Aerospace, Climate-Tech, Frontier-Tech)\
+[GalaxyEye Space](https://galaxeye.space/) (Space-tech, Frontier-tech)
 
 #### E-Commerce/Retail-tech
 
