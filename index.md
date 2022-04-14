@@ -17,12 +17,13 @@
 [![Motivation](https://raw.githubusercontent.com/tulasiramreddy/tulasiramreddy.github.io/master/motivation.png)](https://xkcd.com/2154/ "What's even worse is, a month ago they transferred me to work on the game I was already playing, and suddenly I found myself procrastinating by playing the one I'd been assigned before. It's possible they're onto me and this is all part of the plan.")
 
 
-I am working for Deutsche Bank in the market risk domain.
+I am working for Barclays  in the market risk domain.
 
 My research interests are broadly in probability theory and its applications. Specifically, my works are in the topics comprising random matrices, random polynomials, loop measures, conformal fields, discrete probability, random graphs and systematic risks. I also explore aspects of machine learning theory and its various applications.
 
 
-## Positions held
+## Employment
+**Assistant Vice President** *at* Deutsche India, Mumbai, India (April, 2020 - April, 2022)
 
 **Postdoctoral Associate** *at* New York University, Abu Dhabi, UAE  (October, 2016 - December, 2019)
 
