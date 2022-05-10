@@ -34,7 +34,7 @@
 #### SaaS, Enterprise
 
 [Rocketium](https://rocketium.com/) (Creatives automation, B2B)\
-[Zuddl](https://www.zuddl.com/) (B2B, [Playstore](https://play.google.com/store/apps/dev?id=9113605584002937849))
+[Zuddl](https://www.zuddl.com/) (B2B, [Playstore](https://play.google.com/store/apps/dev?id=9113605584002937849))\
 [CoverSelf](https://www.coverself.com/) (Payments integrity, B2B)
 
 
