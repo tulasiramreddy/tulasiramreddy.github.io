@@ -25,7 +25,8 @@
 #### Health-Tech
 
 [Remedico](https://remedicohealth.com/) (B2C, [Playstore](https://play.google.com/store/apps/details?id=com.remedicoapp))\
-[Sova.Health](https://www.sova.health/) (B2C)
+[Sova.Health](https://www.sova.health/) (B2C)\
+[Mykare Health](https://mykarehealth.com/) (B2B, B2C, [Playstore](https://play.google.com/store/apps/developer?id=Mykare))
 
 #### Insurance
 
