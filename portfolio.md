@@ -1,7 +1,7 @@
 
 ####  D2C
 
-[Teamonk](https://teamonk.com/) (F&B)
+[Teamonk](https://teamonk.com/) (F&B, D2C, [Playstore](https://play.google.com/store/apps/details?id=com.teamonk))
 
 
 #### DeepTech
