@@ -30,7 +30,7 @@
 
 #### Insurance
 
-[Even](https://even.in/) (B2C)
+[Even](https://even.in/) (B2C, [Playstore](https://play.google.com/store/apps/developer?id=Even+Tech))
 
 #### SaaS, Enterprise
 
