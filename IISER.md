@@ -1,5 +1,5 @@
 
-**Course:** 
+**Course:** Time Series Analysis and Forecasting
 
 **Timings:** 
 
@@ -9,9 +9,16 @@
 
 **Syllabus:**  
 
+**Prerequisites:**
+
 **Grading:** 
 
 **References and Resources:**
+
+-  **Introduction to Time Series Analysis** by P.J. Brockwell and R.A. Davis
+-  **Time Series Analysis and Its Applications** by R.H. Shumway and D.S. Stoffer
+-  **Time Series Analysis: Forecasting and Control** by G.E.P. Box, G.M. Jenkins and G.C. Reinsel
+
 
 **Classroom Scribes**
 
