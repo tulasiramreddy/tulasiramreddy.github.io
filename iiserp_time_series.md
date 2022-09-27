@@ -20,6 +20,7 @@ Further topics (will be covered depending on the time): Hidden Markov Models, Ka
 -  **Introduction to Time Series Analysis** by P.J. Brockwell and R.A. Davis
 -  **Time Series Analysis and Its Applications** by R.H. Shumway and D.S. Stoffer
 -  **Time Series Analysis: Forecasting and Control** by G.E.P. Box, G.M. Jenkins and G.C. Reinsel
+-  **Forecasting: Principles and Practice** by R. J. Hyndman and G. Athanasopoulos
 
 
 **Classroom Scribes**
