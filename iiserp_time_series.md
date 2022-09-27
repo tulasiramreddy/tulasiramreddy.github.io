@@ -1,4 +1,3 @@
-
 **Course:** Time Series Analysis and Forecasting
 
 **Timings:** 
@@ -7,7 +6,10 @@
 
 **Course meeting venue:** 
 
-**Syllabus:**  
+**Syllabus:**  Stationarity, White Noise, Auto-correlations, Seasonality; Auto Regression (AR), Moving Average (MA); ARIMA, ARIMAX, SARIMA models; Exponential Smoothing; G/ARCH models; Vector Auto Regression Models, Neural Network Models.
+Further topics (will be covered depending on the time): Hidden Markov Models, Kalman Filtering, Spectral Analysis, Granger Causality.
+
+
 
 **Prerequisites:**
 
