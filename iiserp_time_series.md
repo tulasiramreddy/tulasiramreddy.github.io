@@ -11,7 +11,7 @@ Further topics (will be covered depending on the time): Hidden Markov Models, Ka
 
 
 
-**Prerequisites:**
+**Prerequisites:** Familiarity with the following concepts is expected. Calculus, Statistics (Linear Regression, Estimation, MLE, Hypothesis Testing), Probability (Random Variables, Properties of named distributions)
 
 **Grading:** 
 
