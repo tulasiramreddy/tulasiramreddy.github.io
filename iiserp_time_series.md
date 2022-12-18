@@ -2,7 +2,7 @@
 
 **Timings:** 
 
-**Teaching Assistant:** 
+**Teaching Assistant:** Ajit Mahata, Shashank Roy
 
 **Course meeting venue:** 
 
@@ -13,7 +13,7 @@ Further topics (will be covered depending on the time): Hidden Markov Models, Ka
 
 **Prerequisites:** Familiarity with the following concepts is expected. Calculus, Statistics (Linear Regression, Estimation, MLE, Hypothesis Testing), Probability (Random Variables, Properties of normal distribution and other named distributions.) Coding (any language or software, preferably R/Python, should be able to implement concepts on the own).
 
-**Grading:** Assignments (20%), Class tests (30%), End semester(50%)
+**Grading:** Assignments (20%), Mid semester (30%), End semester(50%)
 
 **References and Resources:**
 
@@ -28,8 +28,8 @@ Further topics (will be covered depending on the time): Hidden Markov Models, Ka
 
 | Lecture   | Date   | Contents     |
 | :------------- | :----------: | -----------: |
-| 1|  7 January 2023  | Introduction, Examples,  |
-| 2| 7 January 2023|   |
+| 1|  7 January 2023  | Introduction, Examples  |
+| 2| 7 January 2023 |Review: Linear regression, Multivariate Gaussian distribution|
 | 3|  14 January 2023  |  |
 | 4| 14 January 2023 |  |
 | 5|  21 January 2023  |   |
@@ -40,19 +40,21 @@ Further topics (will be covered depending on the time): Hidden Markov Models, Ka
 | 10|5 February 2023 |   |
 | 11| 12  February 2023  |  |
 | 12| 12 February 2023 |   |
-| |   February 2023  |  |
-| 13| 19  February 2023  |  |
-| 14| 19 February 2023 |   |
-| 15| 25  February 2023  |  |
-| 16| 25 February 2023 |   |
-| 17|  4 March 2023  |  |
-| 18| 4 March 2023 |    |
-| 19|  11 March 2023  |  |
-| 20| 11 March 2023 |   |
-| 21|  18 March 2023  |  |
-| 22| 18 March 2023 |   |
-| 23|  25 March 2023  |  |
-| 24| 25 March 2023 |  |
+| |   February 2023  | Mid Semester |
+| 13| 25  February 2023  |  |
+| 14| 25 February 2023 |   |
+| 15| 4  March 2023  |  |
+| 16| 4 March 2023 |   |
+| 17|  11 March 2023  |  |
+| 18| 11 March 2023 |    |
+| 19|  18 March 2023  |  |
+| 20| 18 March 2023 |   |
+| 21|  1 April 2023  |  |
+| 22| 1 April 2023 |   |
+| 23|  8 April 2023  |  |
+| 24| 8 April 2023 |  |
+| 25| 16 April 2023|  |
+| 26| 16 April 2023|  |
 |   | April 2023 | End Semester |
 
 **Problem Sets:** | [Set-1]() | [Set-2]() | 
