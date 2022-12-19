@@ -26,35 +26,35 @@ Further topics (will be covered depending on the time): Hidden Markov Models, Ka
 **Classroom Scribes**
 
 
-| Lecture   | Date   | Contents     |
-| :------------- | :----------: | -----------: |
-| 1|  7 January 2023  | Introduction, Examples  |
-| 2| 7 January 2023 |Review: Linear regression, Multivariate Gaussian distribution|
-| 3|  14 January 2023  |  |
-| 4| 14 January 2023 |  |
-| 5|  21 January 2023  |   |
-| 6| 21 January 2023 |   |
-| 7|  28 January 2023  |  |
-| 8| 28 January 2023 |   |
-| 9|  5 February 2023  |  |
-| 10|5 February 2023 |   |
-| 11| 12  February 2023  |  |
-| 12| 12 February 2023 |   |
-| |   February 2023  | Mid Semester |
-| 13| 25  February 2023  |  |
-| 14| 25 February 2023 |   |
-| 15| 4  March 2023  |  |
-| 16| 4 March 2023 |   |
-| 17|  11 March 2023  |  |
-| 18| 11 March 2023 |    |
-| 19|  18 March 2023  |  |
-| 20| 18 March 2023 |   |
-| 21|  1 April 2023  |  |
-| 22| 1 April 2023 |   |
-| 23|  8 April 2023  |  |
-| 24| 8 April 2023 |  |
-| 25| 16 April 2023|  |
-| 26| 16 April 2023|  |
+| Lecture   | Date   | Contents     | Supplementary material |
+| :------------- | :----------: | -----------: | -----------: |
+| 1|  7 January 2023  | Introduction, Examples  | |
+| 2| 7 January 2023 |Review: Linear regression, Multivariate Gaussian distribution| |
+| 3|  14 January 2023  |  | |
+| 4| 14 January 2023 |  | |
+| 5|  21 January 2023  |   |  |
+| 6| 21 January 2023 |   |  |
+| 7|  28 January 2023  |  | |
+| 8| 28 January 2023 |   |  |
+| 9|  5 February 2023  |  | |
+| 10|5 February 2023 |   |  |
+| 11| 12  February 2023  |  | |
+| 12| 12 February 2023 |   |  |
+| |   February 2023  | Mid Semester | 
+| 13| 25  February 2023  |  | |
+| 14| 25 February 2023 |   |  |
+| 15| 4  March 2023  |  | |
+| 16| 4 March 2023 |   |  |
+| 17|  11 March 2023  |  |  |
+| 18| 11 March 2023 |    |  |
+| 19|  18 March 2023  |  |  |
+| 20| 18 March 2023 |   | |
+| 21|  1 April 2023  |  | |
+| 22| 1 April 2023 |   |  |
+| 23|  8 April 2023  |  | |
+| 24| 8 April 2023 |  | |
+| 25| 16 April 2023|  | |
+| 26| 16 April 2023|  | |
 |   | April 2023 | End Semester |
 
 **Problem Sets:** | [Set-1]() | [Set-2]() | 
