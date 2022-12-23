@@ -1,6 +1,6 @@
 **Course:** Time Series Analysis and Forecasting
 
-**Timings:** 
+**Timings:** Saturdays 2:00pm - 4:00pm, with a short break.
 
 **Teaching Assistant:** Ajit Mahata, Shashank Roy
 
