@@ -4,7 +4,7 @@
 
 **Teaching Assistant:** Ajit Mahata, Shashank Roy
 
-**Course meeting venue:** Meeting link will be updated soon.
+**Course meeting venue:** Meeting link will be posted soon.
 
 **Syllabus:**  Stationarity, White Noise, Auto-correlations, Seasonality; Tests for stationarity, Auto Regression (AR), Moving Average (MA); ARIMA, ARIMAX, SARIMA models; Exponential Smoothing; G/ARCH models; Anamoly detection, Multivariate Time Series Models, Neural Network Models.
 Further topics (will be covered depending on the time): Hidden Markov Models, Kalman Filtering, Spectral Analysis, Granger Causality, Functional Time Series.
