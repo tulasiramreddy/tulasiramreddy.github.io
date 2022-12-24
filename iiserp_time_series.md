@@ -15,7 +15,7 @@ Further topics (will be covered depending on the time): Hidden Markov Models, Ka
 
 **Prerequisites:** Familiarity with the following concepts is expected. Calculus, Statistics (Linear Regression, Estimation, MLE, Hypothesis Testing), Probability (Random Variables, Properties of normal distribution and other named distributions.) Coding (any language or software, preferably R/Python, should be able to implement concepts on the own).
 
-**Grading:** Continous assessment (50%, includes assignments, class tests and mid-semester examination), End semester(50%)
+**Grading:** Continuous assessment (50%, includes assignments, class tests and mid-semester examination), End semester(50%)
 
 **References and Resources:**
 
