@@ -2,9 +2,9 @@
 
 **Timings:** Saturdays 2:00pm - 4:00pm, with a short break.
 
-**Teaching Assistant:** Ajit Mahata (IISER Pune), Shashank Roy (ICTS-TIFR Bengaluru).
+**Teaching Assistants:** Ajit Mahata (IISER Pune), Shashank Roy (ICTS-TIFR Bengaluru).
 
-**TA session:**
+**TA sessions:**
 
 **Course meeting venue:** Meeting link will be posted soon.
 
