@@ -2,7 +2,9 @@
 
 **Timings:** Saturdays 2:00pm - 4:00pm, with a short break.
 
-**Teaching Assistant:** Ajit Mahata, Shashank Roy
+**Teaching Assistant:** Ajit Mahata (IISER Pune), Shashank Roy (ICTS Bengaluru).
+
+**TA session:**
 
 **Course meeting venue:** Meeting link will be posted soon.
 
@@ -13,7 +15,7 @@ Further topics (will be covered depending on the time): Hidden Markov Models, Ka
 
 **Prerequisites:** Familiarity with the following concepts is expected. Calculus, Statistics (Linear Regression, Estimation, MLE, Hypothesis Testing), Probability (Random Variables, Properties of normal distribution and other named distributions.) Coding (any language or software, preferably R/Python, should be able to implement concepts on the own).
 
-**Grading:** Assignments (20%), Mid semester (30%), End semester(50%)
+**Grading:** Continous assessment (50%, includes assignments, class tests and mid-semester examination), End semester(50%)
 
 **References and Resources:**
 
