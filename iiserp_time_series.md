@@ -61,4 +61,4 @@ Further topics (will be covered depending on the time): Hidden Markov Models, Ka
 
 **Problem Sets:** | [Set-1]() | [Set-2]() | 
 
-**Data Sources:** |[Historical National Accounts](https://www.rug.nl/ggdc/historicaldevelopment/na/)| |[Data Bank (World Bank)](https://databank.worldbank.org/home.aspx)| |[Global Health Observatory data repository (WHO)](https://apps.who.int/gho/data/node.home)|
+**Data Sources:** [Historical National Accounts](https://www.rug.nl/ggdc/historicaldevelopment/na/),  [Data Bank (World Bank)](https://databank.worldbank.org/home.aspx),   [Global Health Observatory data repository (WHO)](https://apps.who.int/gho/data/node.home),  [Air Quality Database](https://aqicn.org/historical/)
