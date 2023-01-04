@@ -80,7 +80,7 @@ My research interests are broadly in probability theory and its applications. Sp
 
 
 ## Teaching
-- [DS4 Time Series Analysis and Forecasting](https://tulasiramreddy.github.io/iiserp_time_series) *at IISER Pune (January 2023 - April 2023)*
+- [DS4233 Time Series Analysis and Forecasting](https://tulasiramreddy.github.io/iiserp_time_series) *at IISER Pune (January 2023 - April 2023)*
 - [KSMIC04 Probability Theory](https://tulasiramreddy.github.io/ksom_prob) *at Kerala School of Mathematics (November 2021 - February 2022)*
 
 
