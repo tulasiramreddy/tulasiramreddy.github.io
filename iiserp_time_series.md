@@ -1,5 +1,7 @@
 **Course:** Time Series Analysis and Forecasting
 
+**Instructor's Office:** 406 (from 4-14 January)
+
 **Timings:** Saturdays 2:00pm - 4:00pm, with a short break.
 
 **Teaching Assistants:** [Ajit Mahata](https://www.iiserpune.ac.in/research/department/data-science/people/postdoctoral-fellows/post-doctoral-fellows) (IISER Pune), [Shashank Roy](https://icts.res.in/people/shashank-kumar-roy) (ICTS-TIFR Bengaluru).
