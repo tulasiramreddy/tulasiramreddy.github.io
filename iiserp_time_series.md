@@ -4,9 +4,8 @@
 
 **Timings:** Saturdays 2:00pm - 4:00pm, with a short break.
 
-**Teaching Assistants:** [Ajit Mahata](https://www.iiserpune.ac.in/research/department/data-science/people/postdoctoral-fellows/post-doctoral-fellows) (IISER Pune), [Shashank Roy](https://icts.res.in/people/shashank-kumar-roy) (ICTS-TIFR Bengaluru).
+**Teaching Sessions:** Fridays 5:30pm - 6:30pm; [Ajit Mahata](https://www.iiserpune.ac.in/research/department/data-science/people/postdoctoral-fellows/post-doctoral-fellows) (IISER Pune : Discussion room 35) , [Shashank Roy](https://icts.res.in/people/shashank-kumar-roy) (ICTS-TIFR Bengaluru : [Google meet link](https://meet.google.com/mar-rfwk-edm)).
 
-**TA sessions:**
 
 **Course meeting venue:** [Meeting link (Zoom)](https://us04web.zoom.us/j/72561104965?pwd=ZCNMr7tcBqAagNw4t2oIQSvxCinXBP.1)
 
