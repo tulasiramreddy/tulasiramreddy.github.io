@@ -7,7 +7,7 @@
 **TA Sessions:** Fridays 5:30pm - 6:30pm; [Ajit Mahata](mailto:ajitnonlinear@gmail.com) (IISER Pune : Discussion room 35) , [Shashank Roy](mailto:shashank.roy@icts.res.in) (ICTS-TIFR Bengaluru : [Google meet link](https://meet.google.com/mar-rfwk-edm)).
 
 
-**Course meeting venue:** [Meeting link (Zoom)](https://us04web.zoom.us/j/72561104965?pwd=ZCNMr7tcBqAagNw4t2oIQSvxCinXBP.1)
+**Course meeting venue:** LHC 107 [Meeting link (Zoom)](https://us04web.zoom.us/j/72561104965?pwd=ZCNMr7tcBqAagNw4t2oIQSvxCinXBP.1)
 
 **Syllabus:**  Stationarity, White Noise, Auto-correlations, Seasonality; Tests for stationarity, Auto Regression (AR), Moving Average (MA); ARIMA, ARIMAX, SARIMA models; Exponential Smoothing; G/ARCH models; Anamoly detection, Multivariate Time Series Models, Neural Network Models.
 Further topics (will be covered depending on the time): Hidden Markov Models, Kalman Filtering, Spectral Analysis, Granger Causality, Functional Time Series.
