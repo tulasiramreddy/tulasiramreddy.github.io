@@ -32,10 +32,10 @@ Further topics (will be covered depending on the time): Hidden Markov Models, Ka
 | Lecture   | Date   | Contents     | Supplementary material |
 | :------------- | :----------: | -----------: | -----------: |
 | 1|  7 January 2023  | Introduction, Examples  | |
-| 2| 7 January 2023 |Review: Linear regression, Multivariate Gaussian distribution| |
-| 3|  14 January 2023  | White noise, Stationarity | |
-| 4| 14 January 2023 | Testing for stationarity, Transformations of time series | |
-| 5|  21 January 2023  |   |  |
+| 2| 7 January 2023 |Review: Linear regression| |
+| 3|  14 January 2023  | Multivariate Gaussian distribution, White noise  | |
+| 4| 14 January 2023 | Stationarity, Testing for stationarity | |
+| 5|  21 January 2023  |   Transformations of time series |  |
 | 6| 21 January 2023 |   |  |
 | 7|  28 January 2023  |  | |
 | 8| 28 January 2023 |   |  |
