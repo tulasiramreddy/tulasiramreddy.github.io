@@ -31,7 +31,7 @@ Further topics (will be covered depending on the time): Hidden Markov Models, Ka
 
 | Lecture   | Date   | Contents     | Supplementary material |
 | :------------- | :----------: | -----------: | -----------: |
-| 1|  7 January 2023  | Introduction, Examples  | [Jupyter Notebook](https://colab.research.google.com/drive/1wM3n_2U6fu0rYWZt_RZf_JK8Scyv2Z1M?usp=sharing)|
+| 1|  7 January 2023  | Introduction, Examples  | [Jupyter Notebook](https://colab.research.google.com/drive/1wM3n_2U6fu0rYWZt_RZf_JK8Scyv2Z1M?usp=sharing) for exploratory data analysis. Corresponding [data file.](https://drive.google.com/file/d/11tcdqJk3chKA9i-i80AmW26H-uaU_Iye/view?usp=sharing)|
 | 2| 7 January 2023 |Review: Linear regression| |
 | 3|  14 January 2023  | Multivariate Gaussian distribution, White noise  | |
 | 4| 14 January 2023 | Stationarity, Testing for stationarity | |
