@@ -37,12 +37,12 @@ Further topics (will be covered depending on the time): Hidden Markov Models, Ka
 | 4| 14 January 2023 | White noise, Stationarity | *Class Test-I on 20-Jan*|
 | 5|  21 January 2023  | Tests for white noise, Moving averages   |  |
 | 6| 21 January 2023 | Auto-correltions, Partial auto-correlations   |  |
-| 7|  28 January 2023  |  | |
+| 7|  28 January 2023  |  |*Class Test-II on 3-Feb* |
 | 8| 28 January 2023 |   |  |
-| 9|  5 February 2023  |  | |
-| 10|5 February 2023 |   |  |
-| 11| 12  February 2023  |  | |
-| 12| 12 February 2023 |   |  |
+| 9|  4 February 2023  |  |*Class Test-III on 10-Feb* |
+| 10|4 February 2023 |   |  |
+| 11| 11  February 2023  |  | |
+| 12| 11 February 2023 |   |  |
 | |   February 2023  | Mid Semester | 
 | 13| 25  February 2023  |  | |
 | 14| 25 February 2023 |   |  |
