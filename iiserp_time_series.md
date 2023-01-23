@@ -33,7 +33,7 @@ Further topics (will be covered depending on the time): Hidden Markov Models, Ka
 | :------------- | :----------: | -----------: | -----------: |
 | 1|  7 January 2023  | Introduction, Examples  | [Jupyter Notebook](https://colab.research.google.com/drive/1wM3n_2U6fu0rYWZt_RZf_JK8Scyv2Z1M?usp=sharing) for exploratory data analysis. Corresponding [data file.](https://drive.google.com/file/d/11tcdqJk3chKA9i-i80AmW26H-uaU_Iye/view?usp=sharing)|
 | 2| 7 January 2023 |Review: Linear regression| |
-| 3|  14 January 2023  | Multivariate Gaussian distribution  | |
+| 3|  14 January 2023  | Multivariate Gaussian distribution  |  [A note on Gaussian random variables](http://math.iisc.ac.in/~manju/GP/1-Gaussian%20random%20variables.pdf) (by Manjunath Krishnapur )|
 | 4| 14 January 2023 | White noise, Stationarity | *Class Test-I on 20-Jan*|
 | 5|  21 January 2023  | Tests for white noise, Moving averages   |  |
 | 6| 21 January 2023 | Auto-correltions, Partial auto-correlations   |  |
