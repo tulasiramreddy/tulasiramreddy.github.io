@@ -37,9 +37,9 @@ Further topics (will be covered depending on the time): Hidden Markov Models, Ka
 | 4| 14 January 2023 | White noise, Stationarity | *Class Test-I on 20-Jan*|
 | 5|  21 January 2023  | Auto-regressive (AR) processes and Moving average (MA) processes   |  |
 | 6| 21 January 2023 | Auto-correlations, Partial auto-correlations   |  |
-| 7|  28 January 2023  | Computing ACF and PACF |*Class Test-II on 3-Feb* |
-| 8| 28 January 2023 | Lag operator, Invertibility and Integrated Processes  |  |
-| 9|  4 February 2023  |  |*Class Test-III on 10-Feb* |
+| 7|  28 January 2023  | Lag operator, Invertibility and Integrated Processes |*Class Test-II on 3-Feb* |
+| 8| 28 January 2023 |  Properties of ARMA processes |  |
+| 9|  4 February 2023  | Computing ACF and PACF  |*Class Test-III on 10-Feb* |
 | 10|4 February 2023 |   |  |
 | 11| 11  February 2023  |  | |
 | 12| 11 February 2023 |   |  |
