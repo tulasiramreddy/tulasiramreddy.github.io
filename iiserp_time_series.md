@@ -35,10 +35,10 @@ Further topics (will be covered depending on the time): Hidden Markov Models, Ka
 | 2| 7 January 2023 |Review: Linear regression| |
 | 3|  14 January 2023  | Multivariate Gaussian distribution  |  [Properties of Gaussian random variables](http://math.iisc.ac.in/~manju/GP/1-Gaussian%20random%20variables.pdf) (From a lecture notes by Manjunath Krishnapur )|
 | 4| 14 January 2023 | White noise, Stationarity | *Class Test-I on 20-Jan*|
-| 5|  21 January 2023  | Tests for white noise, Moving averages   |  |
-| 6| 21 January 2023 | Auto-correltions, Partial auto-correlations   |  |
-| 7|  28 January 2023  |  |*Class Test-II on 3-Feb* |
-| 8| 28 January 2023 |   |  |
+| 5|  21 January 2023  | Auto-regressive (AR) processes and Moving average (MA) processes   |  |
+| 6| 21 January 2023 | Auto-correlations, Partial auto-correlations   |  |
+| 7|  28 January 2023  | Computing ACF and PACF |*Class Test-II on 3-Feb* |
+| 8| 28 January 2023 | Lag operator, Invertibility and Integrated Processes  |  |
 | 9|  4 February 2023  |  |*Class Test-III on 10-Feb* |
 | 10|4 February 2023 |   |  |
 | 11| 11  February 2023  |  | |
