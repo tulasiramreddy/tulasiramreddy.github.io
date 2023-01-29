@@ -48,7 +48,7 @@ Further topics (will be covered depending on the time): Hidden Markov Models, Ka
 | 14| 25 February 2023 |   |  |
 | 15| 4  March 2023  |  | *Class Test-V on 10-March* |
 | 16| 4 March 2023 |   |  |
-| 17|  11 March 2023  |  | |*Class Test-VI on 17-March* |
+| 17|  11 March 2023  |  | *Class Test-VI on 17-March* |
 | 18| 11 March 2023 |    |  |
 | 19|  18 March 2023  |  |  |
 | 20| 18 March 2023 |   | |
