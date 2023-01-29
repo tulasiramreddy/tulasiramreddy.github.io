@@ -41,8 +41,8 @@ Further topics (will be covered depending on the time): Hidden Markov Models, Ka
 | 8| 28 January 2023 |  Properties of ARMA processes |  |
 | 9|  4 February 2023  | Computing ACF and PACF  |*Class Test-III on 10-Feb* |
 | 10|4 February 2023 | Properties of ACF and PACF  |  |
-| 11| 11  February 2023  |  | |
-| 12| 11 February 2023 |   |  |
+| 11| 11  February 2023  | Parameter estimation | |
+| 12| 11 February 2023 | Paramter estimation  |  |
 | |   February 2023  | Mid Semester | 
 | 13| 25  February 2023  |  | |
 | 14| 25 February 2023 |   |  |
