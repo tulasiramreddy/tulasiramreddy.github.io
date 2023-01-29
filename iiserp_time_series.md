@@ -44,18 +44,18 @@ Further topics (will be covered depending on the time): Hidden Markov Models, Ka
 | 11| 11  February 2023  | Parameter estimation | |
 | 12| 11 February 2023 | Paramter estimation  |  |
 | |   February 2023  | Mid Semester | 
-| 13| 25  February 2023  |  |*Class Test-IV on 3-March* |
-| 14| 25 February 2023 |   |  |
-| 15| 4  March 2023  |  | *Class Test-V on 10-March* |
-| 16| 4 March 2023 |   |  |
-| 17|  11 March 2023  |  | *Class Test-VI on 17-March* |
-| 18| 11 March 2023 |    |  |
-| 19|  18 March 2023  |  |  |
-| 20| 18 March 2023 |   | |
-| 21|  1 April 2023  |  | |
-| 22| 1 April 2023 |   |  |
-| 23|  8 April 2023  |  | |
-| 24| 8 April 2023 |  | |
+| 13| 25  February 2023  | Smoothing |*Class Test-IV on 3-March* |
+| 14| 25 February 2023 |  Forecsting |  |
+| 15| 4  March 2023  | (G)ARCH models | *Class Test-V on 10-March* |
+| 16| 4 March 2023 |  (G)ARCH models   |  |
+| 17|  11 March 2023  |Neural Network Models| *Class Test-VI on 17-March* |
+| 18| 11 March 2023 |  LSTMs  |  |
+| 19|  18 March 2023  | Multivariate time series |  |
+| 20| 18 March 2023 |  Vector Autoregression (VAR) models  | |
+| 21|  1 April 2023  | Co-integration | |
+| 22| 1 April 2023 | Co-integration  |  |
+| 23|  8 April 2023  | Causality | |
+| 24| 8 April 2023 | Causality | |
 | 25| 16 April 2023|  | |
 | 26| 16 April 2023|  | |
 |   | April 2023 | End Semester |
