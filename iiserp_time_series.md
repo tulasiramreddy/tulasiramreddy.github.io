@@ -40,7 +40,7 @@ Further topics (will be covered depending on the time): Hidden Markov Models, Ka
 | 7|  28 January 2023  | Lag operator, Invertibility and Integrated Processes |*Class Test-II on 3-Feb* |
 | 8| 28 January 2023 |  Properties of ARMA processes |  |
 | 9|  4 February 2023  | Computing ACF and PACF  |*Class Test-III on 10-Feb* |
-| 10|4 February 2023 | Properties of ACF and PACF  |  |
+| 10|4 February 2023 | Tests for White noise and unit roots  |  |
 | 11| 11  February 2023  | Parameter estimation | |
 | 12| 11 February 2023 | Paramter estimation  |  |
 | |   February 2023  | Mid Semester | 
