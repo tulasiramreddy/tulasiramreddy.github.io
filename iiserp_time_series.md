@@ -44,11 +44,11 @@ Further topics (will be covered depending on the time): Hidden Markov Models, Ka
 | 11| 11  February 2023  | Parameter estimation | |
 | 12| 11 February 2023 | Paramter estimation  |  |
 | |   February 2023  | Mid Semester | 
-| 13| 25  February 2023  |  | |
+| 13| 25  February 2023  |  |*Class Test-IV on 3-March* |
 | 14| 25 February 2023 |   |  |
-| 15| 4  March 2023  |  | |
+| 15| 4  March 2023  |  | *Class Test-V on 10-March* |
 | 16| 4 March 2023 |   |  |
-| 17|  11 March 2023  |  |  |
+| 17|  11 March 2023  |  | |*Class Test-VI on 17-Feb* |
 | 18| 11 March 2023 |    |  |
 | 19|  18 March 2023  |  |  |
 | 20| 18 March 2023 |   | |
