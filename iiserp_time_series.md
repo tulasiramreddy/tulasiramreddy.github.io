@@ -45,7 +45,7 @@ Further topics (will be covered depending on the time): Hidden Markov Models, Ka
 | 12| 11 February 2023 | Paramter estimation  |  |
 | |   February 2023  | Mid Semester | 
 | 13| 25  February 2023  | Smoothing |*Class Test-IV on 3-March* |
-| 14| 25 February 2023 |  Forecsting |  |
+| 14| 25 February 2023 |  Forecasting |  |
 | 15| 4  March 2023  | (G)ARCH models | *Class Test-V on 10-March* |
 | 16| 4 March 2023 |  (G)ARCH models   |  |
 | 17|  11 March 2023  |Neural Network Models| *Class Test-VI on 17-March* |
