@@ -43,7 +43,7 @@ Further topics (will be covered depending on the time): Hidden Markov Models, Ka
 | 10|4 February 2023 | Makeup lecture  |  |
 | 11| 11  February 2023  | Computing ACF and PACF | |
 | 12| 11 February 2023 | Tests for White noise and unit roots  |  |
-| |   February 2023  | Mid Semester | 
+| |  24 February 2023  | Mid Semester | 
 | 13| 25  February 2023  | Smoothing |*Class Test-IV on 3-March* |
 | 14| 25 February 2023 |  Forecasting |  |
 | 15| 4  March 2023  | (G)ARCH models | *Class Test-V on 10-March* |
