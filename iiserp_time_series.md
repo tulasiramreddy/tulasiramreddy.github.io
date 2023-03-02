@@ -42,20 +42,20 @@ Further topics (will be covered depending on the time): Hidden Markov Models, Ka
 | 9|  4 February 2023  | Makeup lecture  |*Class Test-III on 10-Feb* |
 | 10|4 February 2023 | Makeup lecture  |  |
 | 11| 11  February 2023  | Computing ACF and PACF | |
-| 12| 11 February 2023 | Tests for White noise and unit roots  |  |
+| 12| 11 February 2023 | Computing ACF and PACF  |  |
 | |  24 February 2023  | Mid Semester | 
-| 13| 25  February 2023  | Smoothing |*Class Test-IV on 3-March* |
-| 14| 25 February 2023 |  Forecasting |  |
-| 15| 4  March 2023  | (G)ARCH models | *Class Test-V on 10-March* |
-| 16| 4 March 2023 |  (G)ARCH models   |  |
-| 17|  11 March 2023  |Neural Network Models| *Class Test-VI on 17-March* |
-| 18| 11 March 2023 |  LSTMs  |  |
-| 19|  18 March 2023  | Multivariate time series |  |
-| 20| 18 March 2023 |  Vector Autoregression (VAR) models  | |
-| 21|  1 April 2023  | Co-integration | |
-| 22| 1 April 2023 | Co-integration  |  |
-| 23|  8 April 2023  | Causality | |
-| 24| 8 April 2023 | Causality | |
+| 13| 25  February 2023  |Tests for White noise and unit roots  |*Class Test-IV on 3-March* |
+| 14| 25 February 2023 |  Tests for White noise and unit roots |  |
+| 15| 4  March 2023  | Makeup lecture  | *Class Test-IV on 10-March* |
+| 16| 4 March 2023 |   Smoothing  |  |
+| 17|  11 March 2023  |Forecasting| *Class Test-V on 17-March* |
+| 18| 11 March 2023 |  Forecasting  |  |
+| 19|  18 March 2023  | (G)ARCH models | *Class Test-VI on 24-March* |
+| 20| 18 March 2023 | (G)ARCH models   | |
+| 21|  1 April 2023  | Neural Network Models | |
+| 22| 1 April 2023 | LSTMs  |  |
+| 23|  8 April 2023  | Multivariate time series | |
+| 24| 8 April 2023 | Vector Autoregression (VAR) models | |
 | 25| 16 April 2023|  | |
 | 26| 16 April 2023|  | |
 |   | April 2023 | End Semester |
