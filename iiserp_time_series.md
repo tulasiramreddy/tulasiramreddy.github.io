@@ -56,9 +56,9 @@ Further topics (will be covered depending on the time): Hidden Markov Models, Ka
 | 22| 1 April 2023 | LSTMs  |  |
 | 23|  8 April 2023  | Multivariate time series | |
 | 24| 8 April 2023 | Vector Autoregression (VAR) models | |
-| 25| 16 April 2023|  | |
-| 26| 16 April 2023|  | |
-|   | April 2023 | End Semester |
+| 25| 15 April 2023| Project Presentations | |
+| 26| 15 April 2023| Project Presentations | |
+|   | 21 April 2023 | End Semester |
 
 **Problem Sets:** | [Set-1](https://www.dropbox.com/s/r2bgslnyb0q0nl6/Set-1.pdf?dl=0) | [Set-2](https://www.dropbox.com/s/w2h0bmyauvx5eg8/Set-2.pdf?dl=0) | [Set-3](https://www.dropbox.com/s/qefp8htpmlacd72/Set-3.pdf?dl=0) | [Set-4](https://www.dropbox.com/s/6laxqdn4dr1h5vd/Set-4.pdf?dl=0) |
 
