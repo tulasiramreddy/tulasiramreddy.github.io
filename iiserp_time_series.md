@@ -51,7 +51,7 @@ Further topics (will be covered depending on the time): Hidden Markov Models, Ka
 | 17|  11 March 2023  |Smoothing| *Class Test-V on 17-March* |
 | 18| 11 March 2023 |  Forecasting  |  |
 | 19|  18 March 2023  | (G)ARCH models | *Class Test-VI on 24-March* |
-| 20| 18 March 2023 | (G)ARCH models   | |
+| 20| 18 March 2023 | (G)ARCH models   |Refer Section 4.3 in [Quantitative Risk Management: Concepts, Techniques and Tools](https://press.princeton.edu/books/hardcover/9780691166278/quantitative-risk-management) by  Alexander J. McNeil, Rüdiger Frey, and Paul Embrechts |
 | 21|  1 April 2023  | Neural Network Models | |
 | 22| 1 April 2023 | LSTMs  |  |
 | 23|  8 April 2023  | Multivariate time series | |
