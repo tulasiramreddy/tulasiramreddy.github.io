@@ -55,7 +55,7 @@ Further topics (will be covered depending on the time): Hidden Markov Models, Ka
 | 21|  1 April 2023  | Neural Network Models | |
 | 22| 1 April 2023 | LSTMs  |  |
 | 23|  8 April 2023  | Multivariate time series | |
-| 24| 8 April 2023 | Vector Autoregression (VAR) models | |
+| 24| 8 April 2023 | Vector Autoregression (VAR) models |Refer Section 2.1 in [New introduction to multiple time series analysis](https://link.springer.com/book/10.1007/978-3-540-27752-1?page=2) by Helmut Lütkepohl |
 | 25| 15 April 2023| Project Presentations | |
 | 26| 15 April 2023| Project Presentations | |
 |   | 21 April 2023 | End Semester |
