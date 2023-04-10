@@ -52,8 +52,8 @@ Further topics (will be covered depending on the time): Hidden Markov Models, Ka
 | 18| 11 March 2023 |  Forecasting  |  |
 | 19|  18 March 2023  | (G)ARCH models |  |
 | 20| 18 March 2023 | (G)ARCH models   |Refer Section 4.3 in [Quantitative Risk Management: Concepts, Techniques and Tools](https://press.princeton.edu/books/hardcover/9780691166278/quantitative-risk-management) by  Alexander J. McNeil, Rüdiger Frey, and Paul Embrechts |
-| 21|  1 April 2023  | Neural Network Models | |
-| 22| 1 April 2023 | LSTMs  |  |
+| 21|  1 April 2023  | Makeup Lecture | |
+| 22| 1 April 2023 | Functional forms  |  |
 | 23|  8 April 2023  | Multivariate time series | |
 | 24| 8 April 2023 | Vector Autoregression (VAR) models |Refer Section 2.1 in [New introduction to multiple time series analysis](https://link.springer.com/book/10.1007/978-3-540-27752-1?page=2) by Helmut Lütkepohl |
 | 25| 15 April 2023| Project Presentations | |
