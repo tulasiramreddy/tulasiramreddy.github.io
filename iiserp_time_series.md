@@ -1,6 +1,6 @@
 **Course:** Time Series Analysis and Forecasting
 
-**Instructor's Office:** 406 (available during 4-14 January, 2023)
+**Instructor's Office:** 406 (available during 4-14 January, 2023) 449 (available during 10-22 April, 2023)
 
 **Timings:** Saturdays 2:00pm - 4:00pm, with a short break.
 
