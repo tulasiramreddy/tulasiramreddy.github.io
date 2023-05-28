@@ -1,4 +1,4 @@
-**Course:** Time Series Analysis and Forecasting
+**Course:** (DS4233/DS6233) Time Series Analysis 
 
 **Instructor's Office:** 406 (available during 4-14 January, 2023) 449 (available during 10-22 April, 2023)
 
