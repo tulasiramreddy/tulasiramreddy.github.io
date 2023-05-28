@@ -4,6 +4,12 @@
 
 **Prerequisites**
 
+| Lecture   | Date   | Contents     | Supplementary material |
+| :------------- | :----------: | -----------: | -----------: |
+| 1|   2023  | Introduction, Simpson's Paradox  |  |
+| 2|  2023 | | |
+
+
 **References:**
 - [Causal Inference in Statistics](http://bayes.cs.ucla.edu/PRIMER/) by J. Pearl, M. Glymour, N. P. Jewell
 - [Causality: Models, Reasoning and Inference](http://bayes.cs.ucla.edu/BOOK-2K/) by Judea Pearl
