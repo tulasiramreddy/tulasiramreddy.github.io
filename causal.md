@@ -11,6 +11,7 @@
 
 
 **References:**
+- [Elements of Causal Inference: Foundations and Learning Algorithms](https://mitpress.mit.edu/9780262037310/elements-of-causal-inference/) by J. Peters, D. Janzing and B. Schölkopf
 - [Causal Inference in Statistics](http://bayes.cs.ucla.edu/PRIMER/) by J. Pearl, M. Glymour, N. P. Jewell
 - [Causality: Models, Reasoning and Inference](http://bayes.cs.ucla.edu/BOOK-2K/) by Judea Pearl
 - [Causal Inference for Statistics, Social, and Biomedical Sciences](https://www.cambridge.org/core/books/causal-inference-for-statistics-social-and-biomedical-sciences/71126BE90C58F1A431FE9B2DD07938AB) by G. W. Imbens and D. B. Rubin
