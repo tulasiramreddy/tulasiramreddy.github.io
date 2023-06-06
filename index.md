@@ -23,6 +23,8 @@ My research interests are broadly in probability theory and its applications. Sp
 
 
 ## Employment
+**Guest Faculty** *at* Indian Institute of Science and Education Research (IISER)- Pune, India (January - May 2022)
+
 **Analyst (AVP)** *at* Deutsche India, Mumbai, India (April, 2020 - April, 2022)
 
 **Postdoctoral Associate** *at* New York University, Abu Dhabi, UAE  (October, 2016 - December, 2019)
