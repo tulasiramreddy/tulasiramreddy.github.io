@@ -23,9 +23,11 @@ My research interests are broadly in probability theory and its applications. Sp
 
 
 ## Employment
+**Market Risk Lead** *at* Barclays, Noida, India (April, 2022 - present)
+
 **Guest Faculty** *at* Indian Institute of Science and Education Research (IISER)- Pune, India (January - May 2022)
 
-**Analyst (AVP)** *at* Deutsche India, Mumbai, India (April, 2020 - April, 2022)
+**Market Risk Analyst (AVP)** *at* Deutsche India, Mumbai, India (April, 2020 - April, 2022)
 
 **Postdoctoral Associate** *at* New York University, Abu Dhabi, UAE  (October, 2016 - December, 2019)
 
