@@ -14,10 +14,10 @@
 | 2|  2024  | Review | |
 | 3|   2024  | Partial regression  |  |
 | 4|  2024  | Treatments, effects and confounders | |
-| 5|   2024  | Experiment design, SUTVA  |  |
-| 6|  2024  | ATE | |
-| 7|   2024  | Bayesian networks  |  |
-| 8|  2024  | Causal Graph | |
+| 5|   2024  | Experiment design  |  |
+| 6|  2024  | Potential outcomes framework | |
+| 7|   2024  |  ATE |  |
+| 8|  2024  | Causal Graphical Model | |
 | 9|   2024  |  d-Separation |  |
 | 10|  2024  | Rubin's G-formula | |
 | 11|   2024  | Backdoor criterion  |  |
