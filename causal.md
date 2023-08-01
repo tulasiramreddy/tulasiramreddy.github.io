@@ -21,16 +21,16 @@
 | 9|   2024  |  d-Separation |  |
 | 10|  2024  | Rubin's G-formula | |
 | 11|   2024  | *do*-operator  |  |
-| 12|  2024  | Application | |
-| 13|   2024  |  Conditional ATE |  |
-| 14|  2024  |Illustration | |
-| 15|   2024  |   |  |
-| 16|  2024  |  | |
-| 17|   2024  |   |  |
-| 18|  2024  |  | |
-| 19|   2024  |   |  |
-| 20|  2024  |  | |
-| 21|   2024  |   |  |
+| 12|  2024  | Illustrations | |
+| 13|   2024  |  Illustrations |  |
+| 14|  2024  | A/B Testing | |
+| 15|   2024  | Statistical analysis of A/B testing   |  |
+| 16|  2024  | Metrics and sensitivities | |
+| 17|   2024  | Improving sensitivities  |  |
+| 18|  2024  | Bayesian networks  | |
+| 19|   2024  | Bayesian network construction  |  |
+| 20|  2024  | Causal discovery | |
+| 21|   2024  | Causal graph discovery  |  |
 | 22|  2024  |  | |
 | 23|   2024  |   |  |
 | 24|  2024  |  | |
