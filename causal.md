@@ -27,15 +27,16 @@
 | 15|   2024  | Statistical analysis of A/B testing   |  |
 | 16|  2024  | Metrics and sensitivities | |
 | 17|   2024  | Improving sensitivities  |  |
-| 18|  2024  | Bayesian networks  | |
-| 19|   2024  | Bayesian network construction  |  |
-| 20|  2024  | Causal discovery | |
-| 21|   2024  | Causal graph discovery  |  |
-| 22|  2024  |  | |
-| 23|   2024  |   |  |
-| 24|  2024  |  | |
-| 25|   2024  |   |  |
+| 18|   2024  |   |  |
+| 19|  2024  |  | |
+| 20|   2024  |   |  |
+| 21|  2024  |  | |
+| 22|  2024  | Bayesian networks  | |
+| 23|   2024  | Bayesian network construction  |  |
+| 24|  2024  | Causal discovery | |
+| 25|   2024  | Causal graph discovery  |  |
 | 26|  2024  |  | |
+
 
 
 
