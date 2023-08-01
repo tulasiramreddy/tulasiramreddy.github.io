@@ -1,5 +1,5 @@
 **Course**: Causal Inference and Discovery
-[![Correlation](https://raw.githubusercontent.com/tulasiramreddy/tulasiramreddy.github.io/master/motivation.png)](https://xkcd.com/552/ "Correlation doesn't imply causation, but it does waggle its eyebrows suggestively and gesture furtively while mouthing 'look over there'.")
+[![Correlation](https://github.com/tulasiramreddy/tulasiramreddy.github.io/blob/master/correlation.png)](https://xkcd.com/552/ "Correlation doesn't imply causation, but it does waggle its eyebrows suggestively and gesture furtively while mouthing 'look over there'.")
 **Syllabus**
 
 **Prerequisites**
