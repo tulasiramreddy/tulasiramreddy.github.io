@@ -20,7 +20,7 @@
 | 8|  2024  | Causal Graphical Model | |
 | 9|   2024  |  d-Separation |  |
 | 10|  2024  | Rubin's G-formula | |
-| 11|   2024  | Backdoor criterion  |  |
+| 11|   2024  | *do*-operator  |  |
 | 12|  2024  | Application | |
 | 13|   2024  |  Conditional ATE |  |
 | 14|  2024  |Illustration | |
