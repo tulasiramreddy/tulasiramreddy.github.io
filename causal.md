@@ -10,8 +10,33 @@
 
 | Lecture   | Date   | Contents     | Supplementary material |
 | :------------- | :----------: | -----------: | -----------: |
-| 1|   2023  | Introduction, Simpson's Paradox  |  |
-| 2|  2023 | | |
+| 1|   2024  | Introduction, Simpson's Paradox  |  |
+| 2|  2024  | Review | |
+| 3|   2024  | Partial regression  |  |
+| 4|  2024  | Treatments, effects and confounders | |
+| 5|   2024  | Experiment design, SUTVA  |  |
+| 6|  2024  | ATE | |
+| 7|   2024  | Bayesian networks  |  |
+| 8|  2024  | Causal Graph | |
+| 9|   2024  |  d-Separation |  |
+| 10|  2024  | Rubin's G-formula | |
+| 11|   2024  | Backdoor criterion  |  |
+| 12|  2024  | Application | |
+| 13|   2024  |  Conditional ATE |  |
+| 14|  2024  |Illustration | |
+| 15|   2024  |   |  |
+| 16|  2024  |  | |
+| 17|   2024  |   |  |
+| 18|  2024  |  | |
+| 19|   2024  |   |  |
+| 20|  2024  |  | |
+| 21|   2024  |   |  |
+| 22|  2024  |  | |
+| 23|   2024  |   |  |
+| 24|  2024  |  | |
+| 25|   2024  |   |  |
+| 26|  2024  |  | |
+
 
 
 **References:**
