@@ -12,7 +12,7 @@
 [Mynvax](http://mynvax.com/) (Bio-Tech, Vaccines)\
 [Niveshi](http://niveshi.com/) (Automation, Fintech, B2B)\
 [The ePlane Co.](https://www.eplane.ai/) (eVOTL, Aerospace, Climate-Tech, Frontier-Tech)\
-[D-Nome](https://www.dnome.in/) (Bio-Tech, Diagnostics, B2B)
+[D-Nome](https://www.dnome.in/) (Bio-Tech, Diagnostics, B2B)\
 [BotLab Dynamics](https://botlabdynamics.com/) (Aerospace, Swarm tech, B2C)
 
 #### E-Commerce/Retail-tech
