@@ -10,7 +10,7 @@
 
 | Lecture   | Date   | Contents     | Supplementary material |
 | :------------- | :----------: | -----------: | -----------: |
-| 1|   2024  | Introduction, Simpson's Paradox  |  |
+| 1|   2024  | Introduction, Simpson's Paradox  | [John Snow and 1854 Cholera outbreak](https://en.wikipedia.org/wiki/1854_Broad_Street_cholera_outbreak) |
 | 2|  2024  | Review | |
 | 3|   2024  | Partial regression  |  |
 | 4|  2024  | Treatments, effects and confounders | |
