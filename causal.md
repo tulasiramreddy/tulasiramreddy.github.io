@@ -6,7 +6,7 @@
 
 **Syllabus**
 
-**Prerequisites**
+**Prerequisites**: Familiarity with basic statistical concepts such as estimation techniques, hypothesis testing, and probability distributions. Exposure to regression analysis, including simple linear regression and multiple regression, is essential. Understanding  of Linear algebra and  multivariate calculus (derivatives and integrals)  (derivatives and integrals) is necessary. Further knowledge of graphs and properties is useful.
 
 | Lecture   | Date   | Contents     | Supplementary material |
 | :------------- | :----------: | -----------: | -----------: |
