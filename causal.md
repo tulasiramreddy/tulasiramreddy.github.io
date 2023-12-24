@@ -4,7 +4,7 @@
 [![Correlation](https://raw.githubusercontent.com/tulasiramreddy/tulasiramreddy.github.io/master/correlation.png)](https://xkcd.com/552/ "Correlation doesn't imply causation, but it does waggle its eyebrows suggestively and gesture furtively while mouthing 'look over there'.")
 
 
-**Syllabus** Simpson's paradox, Structural Causal Model (SCM), Design of Experiments, Potential Outcomes Framework, Causal Graphical Model, d-separation, do-operator,  Rubin's G-formula, Causal Discovery
+**Syllabus** Simpson's paradox, Structural Causal Model (SCM), Design of Experiments, Potential Outcomes Framework, Causal Graphical Model, d-separation, do-operator,  Rubin's G-formula, Causal Discovery, If time permits: RDDs, DIDs
 
 **Prerequisites**: Familiarity with basic statistical concepts such as estimation techniques, hypothesis testing, and probability distributions. Exposure to regression analysis, including simple linear regression and multiple regression, is essential. Understanding  of Linear algebra and  multivariate calculus (derivatives and integrals)  (derivatives and integrals) is necessary. Further knowledge of graphs and properties is useful.
 
