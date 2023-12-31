@@ -85,11 +85,12 @@ My research interests are broadly in probability theory and its applications. Sp
 
 
 ## Teaching
+- [DS3223/MT3273 Causal Inference and Discovery ](https://tulasiramreddy.github.io/causal) *at IISER Pune (January 2024 - April 2024)*
 - [DS4233/DS6233 Time Series Analysis](https://tulasiramreddy.github.io/iiserp_time_series) *at IISER Pune (January 2023 - April 2023)*
 - [KSMIC04 Probability Theory](https://tulasiramreddy.github.io/ksom_prob) *at Kerala School of Mathematics (November 2021 - February 2022)*
 
 
-In the past, I was teaching assistant for the following courses.
+In the past, I was a teaching assistant for the following courses.
 
 - MATH-UH 3213 Advanced Probability *at  NYUAD (September -December 2019)*
 - MATH-UH 1003Q Introduction to Probability and Statistics *at NYUAD (February - May 2019)*
