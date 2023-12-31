@@ -1,5 +1,10 @@
-**Course**: Causal Inference and Discovery
+**Course**:  Causal Inference and Discovery (DS3223/MT3273)
 
+**Lecture hall**: LHC 301 (NKN classroom)
+
+**Teaching assistant**: Dr. Mihir Hasabnis (mihirhasabanis 'at' gmail 'dot' com)
+
+**Office hours**: 
 
 [![Correlation](https://raw.githubusercontent.com/tulasiramreddy/tulasiramreddy.github.io/master/correlation.png)](https://xkcd.com/552/ "Correlation doesn't imply causation, but it does waggle its eyebrows suggestively and gesture furtively while mouthing 'look over there'.")
 
