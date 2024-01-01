@@ -2,7 +2,9 @@
 
 **Lecture hall**: LHC 301 (NKN classroom)
 
-**Teaching assistant**: Dr. Mihir Hasabnis (mihirhasabanis 'at' gmail 'dot' com)
+**Instructor**: Tulasi Ram Reddy (tulasimath 'at' gmail 'dot' com)
+
+**Teaching assistant**: Mihir Hasabnis (mihirhasabanis 'at' gmail 'dot' com)
 
 **Office hours**: 
 
