@@ -31,10 +31,11 @@
 | 11|   30-January  | *do*-operator  |  |
 | 12|  5-February  | Illustrations | |
 | 13|   6-February  |  Illustrations |  |
-| 14|  2024  | A/B Testing | |
-| 15|   2024  | Statistical analysis of A/B testing   |  |
-| 16|  2024  | Metrics and sensitivities | |
-| 17|   2024  | Improving sensitivities  |  |
+| 14|  12-February  | A/B Testing | |
+| 15|   13-February  | Statistical analysis of A/B testing   |  |
+|| 23-February| Mid-Semester Exam| |
+| 16|  26-February  | Metrics and sensitivities | |
+| 17|   27-February  | Improving sensitivities  |  |
 | 18|   2024  |   |  |
 | 19|  2024  |  | |
 | 20|   2024  |   |  |
