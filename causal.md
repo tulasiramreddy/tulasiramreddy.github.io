@@ -17,15 +17,16 @@
 
 | Lecture   | Date   | Contents     | Supplementary material |
 | :------------- | :----------: | -----------: | -----------: |
-| 1|   2024  | Introduction, Simpson's Paradox  | [John Snow and 1854 Cholera outbreak](https://en.wikipedia.org/wiki/1854_Broad_Street_cholera_outbreak) |
-| 2|  2024  | Review | |
-| 3|   2024  | Partial regression  |  |
-| 4|  2024  | Treatments, effects and confounders | |
-| 5|   2024  | Experiment design  |  |
-| 6|  2024  | Potential outcomes framework | |
-| 7|   2024  |  ATE |  |
-| 8|  2024  | Causal Graphical Model | |
-| 9|   2024  |  d-Separation |  |
+| 1|   1-January  | Introduction  | [John Snow and 1854 Cholera outbreak](https://en.wikipedia.org/wiki/1854_Broad_Street_cholera_outbreak) |
+| 2|  11-January  | Simpson's Paradox | |
+| 3|  13-January  | Review   | |
+| 4|   13-January  | Partial regression  | Class test on 16-January |
+| 5|  15-January  | Treatments, effects and confounders | |
+| 5|  18-January  | Potential outcomes framework  |  |
+| 6|  20-January  | Design of Experiments  | |
+| 7|   20-January  |  Structural Causal Model |  |
+| 8|  23-January  | Causal Graphical Model | |
+| 9|   25-January  |  d-Separation |  |
 | 10|  2024  | Rubin's G-formula | |
 | 11|   2024  | *do*-operator  |  |
 | 12|  2024  | Illustrations | |
