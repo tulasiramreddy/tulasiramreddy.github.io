@@ -27,10 +27,10 @@
 | 7|   20-January  |  Structural Causal Model |  |
 | 8|  23-January  | Causal Graphical Model | |
 | 9|   25-January  |  d-Separation |  |
-| 10|  2024  | Rubin's G-formula | |
-| 11|   2024  | *do*-operator  |  |
-| 12|  2024  | Illustrations | |
-| 13|   2024  |  Illustrations |  |
+| 10|  29-January  | Rubin's G-formula | |
+| 11|   30-January  | *do*-operator  |  |
+| 12|  5-February  | Illustrations | |
+| 13|   6-February  |  Illustrations |  |
 | 14|  2024  | A/B Testing | |
 | 15|   2024  | Statistical analysis of A/B testing   |  |
 | 16|  2024  | Metrics and sensitivities | |
