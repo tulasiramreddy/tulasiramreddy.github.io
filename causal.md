@@ -36,15 +36,15 @@
 || 23-February| Mid-Semester Exam| |
 | 16|  26-February  | Metrics and sensitivities | |
 | 17|   27-February  | Improving sensitivities  |  |
-| 18|   2024  |   |  |
-| 19|  2024  |  | |
-| 20|   2024  |   |  |
-| 21|  2024  |  | |
-| 22|  2024  | Bayesian networks  | |
-| 23|   2024  | Bayesian network construction  |  |
-| 24|  2024  | Causal discovery | |
-| 25|   2024  | Causal graph discovery  |  |
-| 26|  2024  |  | |
+| 18|   4-March  |   |  |
+| 19|  5-March  |  | |
+| 20|   11-March  |   |  |
+| 21|  12-March  |  | |
+| 22|  18-March  | Bayesian networks  | |
+| 23|   19-March  | Bayesian network construction  |  |
+| 24|  25-March  | Causal discovery | |
+| 25|   26-March  | Causal graph discovery  |  |
+| 26|  1-April  |  | |
 
 **Problem Sets:** | [Set-1](https://www.dropbox.com/scl/fi/8mqo8azk9x221rq9gflac/CI_set-1.pdf?rlkey=l5pal6pi4vov760ot9qy14irh&dl=0) |
 
