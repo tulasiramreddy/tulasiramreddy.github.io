@@ -22,7 +22,7 @@
 | 3|  13-January  | Review   | [Properties of Gaussian random variables](http://math.iisc.ac.in/~manju/GP/1-Gaussian%20random%20variables.pdf) (From a lecture notes by Manjunath Krishnapur )|
 | 4|   13-January  | Partial regression  | *Class test-I on 16-January-2024* |
 | 5|  15-January  | Treatments, effects and confounders | |
-| 5|  18-January  | Potential outcomes framework (Rubin's causal model) |  |
+| 5|  18-January  | Potential outcomes framework (Rubin/Neyman's causal model) |  |
 | 6|   20-January  |  Causal Graphical Model  |  |
 | 7|  23-January  | d-Separation | |
 | 8|   25-January  |  Structural Causal Model |  |
