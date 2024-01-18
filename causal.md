@@ -23,28 +23,27 @@
 | 4|   13-January  | Partial regression  | *Class test-I on 16-January-2024* |
 | 5|  15-January  | Treatments, effects and confounders | |
 | 5|  18-January  | Potential outcomes framework (Rubin's causal model) |  |
-| 6|  20-January  | Design of Experiments  | |
-| 7|   20-January  |  Structural Causal Model |  |
-| 8|  23-January  | Causal Graphical Model | |
-| 9|   25-January  |  d-Separation |  |
-| 10|  29-January  | Rubin's G-formula | |
-| 11|   30-January  | *do*-operator  |  |
-| 12|  5-February  | Illustrations | |
-| 13|   6-February  |  Illustrations |  |
-| 14|  12-February  | A/B Testing | |
-| 15|   13-February  | Statistical analysis of A/B testing   |  |
+| 6|   20-January  |  Causal Graphical Model  |  |
+| 7|  23-January  | d-Separation | |
+| 8|   25-January  |  Structural Causal Model |  |
+| 9|  29-January  | Rubin's G-formula | |
+| 10|   30-January  | *do*-operator  |  |
+| 11|  5-February  | Illustrations | |
+| 12|   6-February  |  Illustrations |  |
+| 13|  12-February  | A/B Testing | |
+| 14|   13-February  | Statistical analysis of A/B testing   |  |
 || 23-February| Mid-Semester Exam| |
-| 16|  26-February  | Metrics and sensitivities | |
-| 17|   27-February  | Improving sensitivities  |  |
-| 18|   4-March  |   |  |
-| 19|  5-March  |  | |
-| 20|   11-March  |   |  |
-| 21|  12-March  |  | |
-| 22|  18-March  | Bayesian networks  | |
-| 23|   19-March  | Bayesian network construction  |  |
-| 24|  25-March  | Causal discovery | |
-| 25|   26-March  | Causal graph discovery  |  |
-| 26|  1-April  |  | |
+| 15|  26-February  | Metrics and sensitivities | |
+| 16|   27-February  | Improving sensitivities  |  |
+| 17|   4-March  |   |  |
+| 18|  5-March  |  | |
+| 19|   11-March  |   |  |
+| 20|  12-March  |  | |
+| 21|  18-March  | Bayesian networks  | |
+| 22|   19-March  | Bayesian network construction  |  |
+| 23|  25-March  | Causal discovery | |
+| 24|   26-March  | Causal graph discovery  |  |
+| 25|  1-April  |  | |
 
 **Problem Sets:** | [Set-1](https://www.dropbox.com/scl/fi/8mqo8azk9x221rq9gflac/CI_set-1.pdf?rlkey=l5pal6pi4vov760ot9qy14irh&dl=0) |
 
