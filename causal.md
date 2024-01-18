@@ -18,7 +18,7 @@
 | Lecture   | Date   | Contents     | Supplementary material |
 | :------------- | :----------: | -----------: | -----------: |
 | 1|   1-January  | Introduction  | [John Snow and 1854 Cholera outbreak](https://en.wikipedia.org/wiki/1854_Broad_Street_cholera_outbreak) |
-| 2|  11-January  | Simpson's Paradox | See Chapter-1 from [ Peng Ding](https://arxiv.org/pdf/2305.18793.pdf)'s lecture notes|
+| 2|  11-January  | Simpson's Paradox | See Chapter-1 from [ Peng Ding's lecture notes](https://arxiv.org/pdf/2305.18793.pdf)|
 | 3|  13-January  | Review   | [Properties of Gaussian random variables](http://math.iisc.ac.in/~manju/GP/1-Gaussian%20random%20variables.pdf) (From a lecture notes by Manjunath Krishnapur )|
 | 4|   13-January  | Partial regression  | *Class test-I on 16-January-2024* |
 | 5|  15-January  | Treatments, effects and confounders | |
