@@ -24,27 +24,27 @@
 | 5|  15-January  | Treatments, effects and confounders | |
 | 5|  18-January  | Potential outcomes framework (Neyman/Rubin's causal model) |  |
 | 6|   20-January  |  Causal Graphical Model  |  |
-| 7|  23-January  | d-Separation | |
-| 8|   25-January  |  Structural Causal Model |  |
-| 9|  29-January  | Rubin's G-formula | |
-| 10|   30-January  | *do*-operator  |  |
-| 11|  5-February  | Illustrations | |
-| 12|   6-February  |  Illustrations |  |
-| 13|  12-February  | A/B Testing | |
-| 14|   13-February  | Statistical analysis of A/B testing   |  |
+| 7|  25-January  | d-Separation | |
+| 8|   29-January  |  Structural Causal Model |  |
+| 9|  30-January  | Rubin's G-formula | |
+| 10|   5-February  | *do*-operator  |  |
+| 11|  6-February  | Regression Discontinuity Designs (RDD)| |
+| 12|   12-February  |  Difference in Differences (DID) -1|  |
+| 13|  13-February  | Difference in Differences (DID) -2| |
 || 23-February| Mid-Semester Exam| |
-| 15|  26-February  | Metrics and sensitivities | |
-| 16|   27-February  | Improving sensitivities  |  |
-| 17|   4-March  |   |  |
-| 18|  5-March  |  | |
-| 19|   11-March  |   |  |
-| 20|  12-March  |  | |
-| 21|  18-March  | Bayesian networks  | |
-| 22|   19-March  | Bayesian network construction  |  |
-| 23|  25-March  | Causal discovery | |
-| 24|   26-March  | Causal graph discovery  |  |
-| 25|  1-April  |  | |
-| 26| 2-April | | |
+| 14|  26-February  | Metrics and sensitivities | |
+| 15|   27-February  | Improving sensitivities  |  |
+| 16|   4-March  | Instrumental Variables-1  |  |
+| 17|  5-March  | Instrumental Variables-2  | |
+| 18|   11-March  |   |  |
+| 19|  12-March  |  | |
+| 20|  18-March  | Bayesian networks  | |
+| 21|   19-March  | Bayesian network construction  |  |
+| 22|  25-March  | Causal discovery | |
+| 23|   26-March  | Causal graph discovery  |  |
+| 24|  1-April  |  | |
+| 25| 2-April | | |
+| 26| 8-April|||
 
 **Problem Sets:** | [Set-1](https://www.dropbox.com/scl/fi/8mqo8azk9x221rq9gflac/CI_set-1.pdf?rlkey=l5pal6pi4vov760ot9qy14irh&dl=0) | [Set-2](https://www.dropbox.com/scl/fi/ic317h0yqxcgl7lbh4rc4/CI_set-2.pdf?rlkey=siv5clxk5cdn3074zqv3bs6l2&dl=0) |
 
