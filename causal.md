@@ -1,6 +1,8 @@
 **Course**:  Causal Inference and Discovery (DS3223/MT3273)
 
-**Lecture hall**: LHC 301 (NKN classroom)
+**Lecture hall**: LHC 301 (NKN classroom);
+
+**Virtual link**: [Google meet](https://meet.google.com/zcq-cdzj-qvs)
 
 **Instructor**: Tulasi Ram Reddy (tulasimath 'at' gmail 'dot' com; Room No: 406)
 
