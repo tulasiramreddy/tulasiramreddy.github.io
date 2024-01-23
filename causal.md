@@ -23,7 +23,7 @@
 | 4|   13-January  | Partial regression  | *Class test-I on 16-January-2024* |
 | 5|  15-January  | Treatments, effects and confounders | |
 | 5|  18-January  | Potential outcomes framework (Neyman/Rubin's causal model) |  |
-| 6|   20-January  |  Causal Graphical Model  |  |
+| 6|   20-January  |  Causal Graphical Model  |*Class test-II on 1-February-2024*  |
 | 7|  25-January  | d-Separation | |
 | 8|   29-January  |  Structural Causal Model |  |
 | 9|  30-January  | Rubin's G-formula | |
