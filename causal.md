@@ -24,30 +24,30 @@
 | 3|  13-January  | Review   | [Properties of Gaussian random variables](http://math.iisc.ac.in/~manju/GP/1-Gaussian%20random%20variables.pdf) (From a lecture notes by Manjunath Krishnapur )|
 | 4|   13-January  | Partial regression  | *Class test-I on 16-January-2024* |
 | 5|  15-January  | Treatments, effects and confounders | |
-| 5|  18-January  | Potential outcomes framework (Neyman/Rubin's causal model) |  |
-| 6|   20-January  |  Causal Graphical Model  |*Class test-II on 1-February-2024*  |
-| 7|  25-January  | d-Separation | |
-| 8|   29-January  |  Structural Causal Model |  |
-| 9|  30-January  | Rubin's G-formula | |
-| 10|   5-February  | *do*-operator  |  |
-| 11|  6-February  | Propensity score matching| |
-| 12|   12-February  | Matching |  |
-| 13|  13-February  | Regression Discontinuity Design (RDD) | |
+| 6|  18-January  | Potential outcomes framework (Neyman/Rubin's causal model) |  |
+| 7|   20-January  |  Causal Graphical Model  |*Class test-II on 1-February-2024*  |
+| 8|  25-January  | d-Separation | |
+| 9|   29-January  |  Structural Causal Model |  |
+| 10|  30-January  | Robin's G-formula | |
+| 11|   5-February  | *do*-operator  |  |
+| 12|  6-February  | Propensity score matching| |
+| 13|   12-February  | Matching |  |
+| 14|  13-February  | Regression Discontinuity Design (RDD) | |
 || 23-February| Mid-Semester Exam| |
-| 14|  26-February  | Metrics and sensitivities | |
-| 15|   27-February  | Improving sensitivities  |  |
-| 16|   4-March  | Instrumental Variables-1  |  |
-| 17|  5-March  | Instrumental Variables-2  | |
-| 18|   11-March  |  Difference in Differences (DID) -1 |  |
-| 19|  12-March  |  Difference in Differences (DID) -2| |
-| 20|  18-March  | Bayesian networks  | |
-| 21|   19-March  | Bayesian network construction  |  |
-| 22|  25-March  | Causal discovery | |
-| 23|   26-March  | Causal graph discovery  |  |
-| 24|  1-April  |  | |
-| 25| 2-April | | |
-| 26| 8-April|||
-|27| 9-April|||
+| 15|  26-February  | Metrics and sensitivities | |
+| 16|   27-February  | Improving sensitivities  |  |
+| 17|   4-March  | Instrumental Variables-1  |  |
+| 18|  5-March  | Instrumental Variables-2  | |
+| 19|   11-March  |  Difference in Differences (DID) -1 |  |
+| 20|  12-March  |  Difference in Differences (DID) -2| |
+| 21|  18-March  | Bayesian networks  | |
+| 22|   19-March  | Bayesian network construction  |  |
+| 23|  25-March  | Causal discovery | |
+| 24|   26-March  | Causal graph discovery  |  |
+| 25|  1-April  |  | |
+| 26| 2-April | | |
+| 27| 8-April|||
+|28| 9-April|||
 
 **Problem Sets:** | [Set-1](https://www.dropbox.com/scl/fi/8mqo8azk9x221rq9gflac/CI_set-1.pdf?rlkey=l5pal6pi4vov760ot9qy14irh&dl=0) | [Set-2](https://www.dropbox.com/scl/fi/ic317h0yqxcgl7lbh4rc4/CI_set-2.pdf?rlkey=siv5clxk5cdn3074zqv3bs6l2&dl=0) |
 
