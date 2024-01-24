@@ -30,16 +30,16 @@
 | 8|   29-January  |  Structural Causal Model |  |
 | 9|  30-January  | Rubin's G-formula | |
 | 10|   5-February  | *do*-operator  |  |
-| 11|  6-February  | Regression Discontinuity Designs (RDD)| |
-| 12|   12-February  |  Difference in Differences (DID) -1|  |
-| 13|  13-February  | Difference in Differences (DID) -2| |
+| 11|  6-February  | Propensity score matching| |
+| 12|   12-February  | Matching |  |
+| 13|  13-February  | Regression Discontinuity Design (RDD) | |
 || 23-February| Mid-Semester Exam| |
 | 14|  26-February  | Metrics and sensitivities | |
 | 15|   27-February  | Improving sensitivities  |  |
 | 16|   4-March  | Instrumental Variables-1  |  |
 | 17|  5-March  | Instrumental Variables-2  | |
-| 18|   11-March  |   |  |
-| 19|  12-March  |  | |
+| 18|   11-March  |  Difference in Differences (DID) -1 |  |
+| 19|  12-March  |  Difference in Differences (DID) -2| |
 | 20|  18-March  | Bayesian networks  | |
 | 21|   19-March  | Bayesian network construction  |  |
 | 22|  25-March  | Causal discovery | |
