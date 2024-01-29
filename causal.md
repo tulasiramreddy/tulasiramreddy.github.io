@@ -42,7 +42,7 @@
 | 20|  12-March  |  Difference in Differences (DID) -2| |
 | 21|  18-March  | Bayesian networks  | |
 | 22|   19-March  | Bayesian network construction  |  |
-| 23|  25-March  | Causal discovery | |
+| 23|  25-March  | Causal discovery | [Causal Discovery Methods Based on Graphical Models](https://www.frontiersin.org/articles/10.3389/fgene.2019.00524/full)|
 | 24|   26-March  | The PC Algorithm  |  |
 | 25|  1-April  |  | |
 | 26| 2-April | | |
