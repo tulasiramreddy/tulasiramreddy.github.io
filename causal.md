@@ -28,8 +28,8 @@
 | 7|   20-January  |  Causal Graphical Model  |*Class test-II on 1-February-2024*  |
 | 8|  25-January  | d-Separation | |
 | 9|   29-January  |  Structural Causal Model | For SCM and related topics you may see Chapters-3 and 6 from the book "Elements of Causal Inference". |
-| 10|  30-January  | Robin's G-formula | |
-| 11|   5-February  | *do*-operator  |  |
+| 10|  30-January  | Backdoor criteria | |
+| 11|   5-February  |   Robin's G-formula|  |
 | 12|  6-February  | Propensity score matching| |
 | 13|   12-February  | Matching |  |
 | 14|  13-February  | Regression Discontinuity Design (RDD) | |
