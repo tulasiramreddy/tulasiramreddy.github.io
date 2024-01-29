@@ -43,7 +43,7 @@
 | 21|  18-March  | Bayesian networks  | |
 | 22|   19-March  | Bayesian network construction  |  |
 | 23|  25-March  | Causal discovery | |
-| 24|   26-March  | Causal graph discovery  |  |
+| 24|   26-March  | The PC Algorithm  |  |
 | 25|  1-April  |  | |
 | 26| 2-April | | |
 | 27| 8-April|||
