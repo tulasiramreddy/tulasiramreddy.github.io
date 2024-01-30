@@ -51,6 +51,17 @@
 
 **Problem Sets:** | [Set-1](https://www.dropbox.com/scl/fi/8mqo8azk9x221rq9gflac/CI_set-1.pdf?rlkey=l5pal6pi4vov760ot9qy14irh&dl=0) | [Set-2](https://www.dropbox.com/scl/fi/ic317h0yqxcgl7lbh4rc4/CI_set-2.pdf?rlkey=siv5clxk5cdn3074zqv3bs6l2&dl=0) | [Set-3](https://www.dropbox.com/scl/fi/gjdz7cvszzvzi2vaqmcrb/CI_set-3.pdf?rlkey=wmouhmcqknj0vbr4kmvnfslad&dl=0)
 
+**Class Projects**
+|Title|Relevant material and links|Presentation|
+|----|----|----|
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
 
 **References:**
 - [Elements of Causal Inference: Foundations and Learning Algorithms](https://mitpress.mit.edu/9780262037310/elements-of-causal-inference/) by J. Peters, D. Janzing and B. Schölkopf
