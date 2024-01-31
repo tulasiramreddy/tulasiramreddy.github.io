@@ -53,7 +53,7 @@
 
 **Class Projects**
 
-|Title|Relevant material and links|Presentation|
+| Title | Relevant material and links | Presentation |
 |:----|:----:|:----:|
 | | | |
 | | | |
