@@ -53,15 +53,15 @@
 
 **Class Projects**
 |Title|Relevant material and links|Presentation|
-|----|----|----|
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
+|:----|:----:|:----:|
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
 
 **References:**
 - [Elements of Causal Inference: Foundations and Learning Algorithms](https://mitpress.mit.edu/9780262037310/elements-of-causal-inference/) by J. Peters, D. Janzing and B. Schölkopf
