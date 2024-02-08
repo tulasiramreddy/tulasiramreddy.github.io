@@ -34,7 +34,7 @@
 | 13|   12-February  | Propensity score matching |  |
 | 14|  13-February  | Regression Discontinuity Design (RDD) | |
 || 23-February| Mid-Semester Exam| |
-| 15|  26-February  | Metrics and sensitivities | |
+| 15|  26-February  | Metrics and sensitivities |Python packages: DoWhy, causalnex |
 | 16|   27-February  | Improving sensitivities  |  |
 | 17|   4-March  | Instrumental Variables-1  |  |
 | 18|  5-March  | Instrumental Variables-2  | |
