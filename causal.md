@@ -29,10 +29,10 @@
 | 8|  25-January  | d-Separation | |
 | 9|   29-January  |  Structural Causal Model | For SCM and related topics you may see Chapters-3 and 6 from the book [Elements of Causal Inference: Foundations and Learning Algorithms](https://mitpress.mit.edu/9780262037310/elements-of-causal-inference/) by J. Peters, D. Janzing and B. Schölkopf |
 | 10|  30-January  | Robin's G-formula/Trucated Factorization |  Check [DAGitty](https://www.dagitty.net/)|
-| 11|   5-February  |   Backdoor criteria| *Class test-III on 15-February-2024* |
-| 12|  6-February  | Front door criteria | Refer Chapters 1, 2 and 3 from the book [Causal Inference in Statistics](http://bayes.cs.ucla.edu/PRIMER/) by J. Pearl, M. Glymour, N. P. Jewell |
-| 13|   12-February  | Propensity score matching |  |
-| 14|  13-February  | Regression Discontinuity Design (RDD) | |
+| 11|   6-February  |   Backdoor criteria| *Class test-III on 15-February-2024* |
+| 12|  10-February  | Adjustment formula | Refer Chapters 1, 2 and 3 from the book [Causal Inference in Statistics](http://bayes.cs.ucla.edu/PRIMER/) by J. Pearl, M. Glymour, N. P. Jewell |
+| 13|   12-February  | Front door criteria |  |
+| 14|  13-February  | Propensity score matching | |
 || 23-February| Mid-Semester Exam| |
 | 15|  26-February  | Metrics and sensitivities |Python packages: [DoWhy](https://www.pywhy.org/dowhy/v0.8/getting_started/intro.html), [causalnex](https://causalnex.readthedocs.io/en/latest/01_introduction/01_introduction.html#) |
 | 16|   27-February  | Improving sensitivities  |  |
