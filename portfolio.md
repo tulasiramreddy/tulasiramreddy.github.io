@@ -13,7 +13,7 @@
 [Niveshi](http://niveshi.com/) (Automation, Fintech, B2B)\
 [The ePlane Co.](https://www.eplane.ai/) (eVOTL, Aerospace, Climate-Tech, Frontier-Tech)\
 [D-Nome](https://www.dnome.in/) (Bio-Tech, Diagnostics, B2B)\
-[BotLab Dynamics](https://botlabdynamics.com/) (Aerospace, Swarm tech, B2C)
+[BotLab Dynamics](https://botlabdynamics.com/) (Aerospace, Swarm tech, B2C)\
 [Beatoven.ai](https://www.beatoven.ai/) (Musictech, GenAI, B2B2C)
 
 #### E-Commerce/Retail-tech
