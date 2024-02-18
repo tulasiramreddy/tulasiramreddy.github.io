@@ -1,4 +1,4 @@
-**Course**:  Causal Inference and Discovery (DS3223/MT3273)
+**Course**:  Causal Inference and Discovery (DS3223/DS6273/MT3273/MT6433)
 
 **Lecture hall**: LHC 301 (NKN classroom);
 
