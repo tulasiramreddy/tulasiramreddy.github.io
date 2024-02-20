@@ -55,8 +55,8 @@
 
 | Title | Relevant material and links | Presentation |
 |:----|:----:|:----:|
-| | | |
-| | | |
+| An algorithm and implementation to verify d-separation| | |
+| Causal Forests | | |
 | | | |
 | | | |
 | | | |
