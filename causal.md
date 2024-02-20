@@ -34,7 +34,7 @@
 | 13|   12-February  | Front door criteria |  |
 | 14|  13-February  | Propensity score matching | |
 || 23-February| Mid-Semester Exam| |
-| 15|  26-February  | Metrics and sensitivities |Python packages: [DoWhy](https://www.pywhy.org/dowhy/v0.8/getting_started/intro.html), [causalnex](https://causalnex.readthedocs.io/en/latest/01_introduction/01_introduction.html#) |
+| 15|  26-February  | Metrics and sensitivities |Python packages: [DoWhy](https://www.pywhy.org/dowhy/v0.8/getting_started/intro.html), [EconML](https://econml.azurewebsites.net/index.html) |
 | 16|   27-February  | Improving sensitivities  |  |
 | 17|   4-March  | Instrumental Variables-1  |  |
 | 18|  5-March  | Instrumental Variables-2  | |
