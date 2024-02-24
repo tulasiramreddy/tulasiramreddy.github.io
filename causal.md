@@ -56,7 +56,7 @@
 | Title | Relevant material and links | Presentation |
 |:----|:----:|:----:|
 | An algorithm and implementation to verify d-separation| | |
-| Causal Forests | | |
+| Estimating Treatment Effects with Causal Forests: An Application | https://ar5iv.labs.arxiv.org/html/1902.07409 \\ https://doi.org/10.1214/18-AOS1709| |
 | Sensitivity analysis of linear Structural Causal Models| http://proceedings.mlr.press/v97/cinelli19a.html | |
 |Permutation-based Causal Inference Algorithms with Interventions | https://dl.acm.org/doi/10.5555/3295222.3295332 | |
 | | | |
