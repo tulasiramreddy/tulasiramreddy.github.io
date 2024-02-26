@@ -60,8 +60,8 @@
 | Estimating Treatment Effects with Causal Forests: An Application |[ArXiv link](https://ar5iv.labs.arxiv.org/html/1902.07409) \ [Related paper](https://doi.org/10.1214/18-AOS1709)| |
 | Sensitivity analysis of linear Structural Causal Models| [Paper link](http://proceedings.mlr.press/v97/cinelli19a.html) | |
 |Permutation-based Causal Inference Algorithms with Interventions | [Paper link](https://dl.acm.org/doi/10.5555/3295222.3295332) | |
-| | | |
-| | | |
+| Instrumental Variables| | |
+| RDD/DID | | |
 | Causal Reasoning and Large Language Models: Opening a New Frontier for Causality | [ArXiv link](https://ar5iv.labs.arxiv.org/html/2305.00050) | |
 
 
