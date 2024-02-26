@@ -34,20 +34,20 @@
 | 13|   12-February  | Front door criteria |  |
 | 14|  13-February  | Propensity score matching | |
 || 23-February| Mid-Semester Exam| |
-| 15|  26-February  | Metrics and sensitivities |Python packages: [DoWhy](https://www.pywhy.org/dowhy/v0.8/getting_started/intro.html), [EconML](https://econml.azurewebsites.net/index.html), [causal-learn](https://causal-learn.readthedocs.io/en/latest/index.html) |
+| 15|  27-February  | Metrics and sensitivities |Python packages: [DoWhy](https://www.pywhy.org/dowhy/v0.8/getting_started/intro.html), [EconML](https://econml.azurewebsites.net/index.html), [causal-learn](https://causal-learn.readthedocs.io/en/latest/index.html) |
 | 16|   27-February  | Improving sensitivities  |  |
-| 17|   4-March  | Instrumental Variables-1  |  |
-| 18|  5-March  | Instrumental Variables-2  | |
-| 19|   11-March  |  Difference in Differences (DID) -1 |  |
-| 20|  12-March  |  Difference in Differences (DID) -2| |
-| 21|  18-March  | Bayesian networks  | |
-| 22|   19-March  | Bayesian network construction  |  |
-| 23|  25-March  | Causal discovery | [Causal Discovery Methods Based on Graphical Models](https://www.frontiersin.org/articles/10.3389/fgene.2019.00524/full)|
-| 24|   26-March  | The PC Algorithm  |  |
-| 25|  1-April  |  | |
-| 26| 2-April | | |
-| 27| 8-April|||
-|28| 9-April|||
+| 17|   5-March  | Instrumental Variables-1  |  |
+| 18|  11-March  | Instrumental Variables-2  | |
+| 19|   12-March  |  Difference in Differences (DID) -1 |  |
+| 20|  18-March  |  Difference in Differences (DID) -2| |
+| 21|  19-March  | Bayesian networks  | |
+| 22|   25-March  | Bayesian network construction  |  |
+| 23|  26-March  | Causal discovery | [Causal Discovery Methods Based on Graphical Models](https://www.frontiersin.org/articles/10.3389/fgene.2019.00524/full)|
+| 24|   1-April  | The PC Algorithm  |  |
+| 25|  2-April  |  | |
+| 26| 8-April | | |
+| 27| 9-April|||
+|28| 15-April|||
 
 **Problem Sets:** | [Set-1](https://www.dropbox.com/scl/fi/8mqo8azk9x221rq9gflac/CI_set-1.pdf?rlkey=l5pal6pi4vov760ot9qy14irh&dl=0) | [Set-2](https://www.dropbox.com/scl/fi/ic317h0yqxcgl7lbh4rc4/CI_set-2.pdf?rlkey=siv5clxk5cdn3074zqv3bs6l2&dl=0) | [Set-3](https://www.dropbox.com/scl/fi/gjdz7cvszzvzi2vaqmcrb/CI_set-3.pdf?rlkey=wmouhmcqknj0vbr4kmvnfslad&dl=0)
 
