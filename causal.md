@@ -36,8 +36,8 @@
 || 23-February| Mid-Semester Exam| |
 | 15|  27-February  | Metrics and sensitivities |Python packages: [DoWhy](https://www.pywhy.org/dowhy/v0.8/getting_started/intro.html), [EconML](https://econml.azurewebsites.net/index.html), [causal-learn](https://causal-learn.readthedocs.io/en/latest/index.html) |
 | 16|   4-March  | Improving sensitivities  |  |
-| 17|   5-March  | Instrumental Variables-1  |  |
-| 18|  11-March  | Instrumental Variables-2  |[Identification and Estimation of Local Average Treatment Effects](https://www.jstor.org/stable/2951620) |
+| 17|   5-March  | Instrumental Variables-1  | [Identification and Estimation of Local Average Treatment Effects](https://www.jstor.org/stable/2951620)  |
+| 18|  11-March  | Instrumental Variables-2  |[Two-Stage Least Squares Estimation of Average Causal Effects in Models with Variable Treatment Intensity](https://www.tandfonline.com/doi/abs/10.1080/01621459.1995.10476535)|
 | 19|   16-March  |  Difference in Differences (DID) -1 |  |
 | 20|  18-March  |  Difference in Differences (DID) -2| |
 | 21|  19-March  | Bayesian networks  | |
