@@ -37,7 +37,7 @@
 | 15|  27-February  | Metrics and sensitivities |Python packages: [DoWhy](https://www.pywhy.org/dowhy/v0.8/getting_started/intro.html), [EconML](https://econml.azurewebsites.net/index.html), [causal-learn](https://causal-learn.readthedocs.io/en/latest/index.html) |
 | 16|   27-February  | Improving sensitivities  |  |
 | 17|   5-March  | Instrumental Variables-1  |  |
-| 18|  11-March  | Instrumental Variables-2  | |
+| 18|  11-March  | Instrumental Variables-2  |[Identification and Estimation of Local Average Treatment Effects](https://www.jstor.org/stable/2951620) |
 | 19|   12-March  |  Difference in Differences (DID) -1 |  |
 | 20|  18-March  |  Difference in Differences (DID) -2| |
 | 21|  19-March  | Bayesian networks  | |
