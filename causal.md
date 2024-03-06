@@ -53,11 +53,11 @@
 
 **Class Projects**
 
-| Title | Relevant material and links | Presentation |
+| Title | Relevant material and links | Presenters |
 |:----|:----:|:----:|
 | Proof of equivalence of Bayesian Factorization and Markov Property| | |
 | An algorithm and implementation to verify d-separation| | |
-| Estimating Treatment Effects with Causal Forests: An Application |[ArXiv link](https://ar5iv.labs.arxiv.org/html/1902.07409) \ [Related paper](https://doi.org/10.1214/18-AOS1709)| |
+| Estimating Treatment Effects with Causal Forests: An Application |[ArXiv link](https://ar5iv.labs.arxiv.org/html/1902.07409) \ [Related paper](https://doi.org/10.1214/18-AOS1709)| Vihang Vaidya, Vivek Sabarad|
 | Sensitivity analysis of linear Structural Causal Models| [Paper link](http://proceedings.mlr.press/v97/cinelli19a.html) | |
 |Introduction to Double Robust Methods for Incomplete Data| [Paper link](https://projecteuclid.org/journals/statistical-science/volume-33/issue-2/Introduction-to-Double-Robust-Methods-for-Incomplete-Data/10.1214/18-STS647.full)||
 |Permutation-based Causal Inference Algorithms with Interventions | [Paper link](https://dl.acm.org/doi/10.5555/3295222.3295332) | |
