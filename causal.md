@@ -58,11 +58,11 @@
 | Proof of equivalence of Bayesian Factorization and Markov Property| | |
 | An algorithm and implementation to verify d-separation| | |
 | Estimating Treatment Effects with Causal Forests: An Application |[ArXiv link](https://ar5iv.labs.arxiv.org/html/1902.07409) \ [Related paper](https://doi.org/10.1214/18-AOS1709)| Vihang Vaidya, Vivek Sabarad|
-| Sensitivity analysis of linear Structural Causal Models| [Paper link](http://proceedings.mlr.press/v97/cinelli19a.html) | |
-|Introduction to Double Robust Methods for Incomplete Data| [Paper link](https://projecteuclid.org/journals/statistical-science/volume-33/issue-2/Introduction-to-Double-Robust-Methods-for-Incomplete-Data/10.1214/18-STS647.full)||
-|Permutation-based Causal Inference Algorithms with Interventions | [Paper link](https://dl.acm.org/doi/10.5555/3295222.3295332) | |
+| Sensitivity analysis of linear Structural Causal Models| [JMLR link](http://proceedings.mlr.press/v97/cinelli19a.html) | |
+|Introduction to Double Robust Methods for Incomplete Data| [Journal Paper link](https://projecteuclid.org/journals/statistical-science/volume-33/issue-2/Introduction-to-Double-Robust-Methods-for-Incomplete-Data/10.1214/18-STS647.full)||
+|Permutation-based Causal Inference Algorithms with Interventions | [NIPS link](https://papers.nips.cc/paper/2017/hash/275d7fb2fd45098ad5c3ece2ed4a2824-Abstract.html) | |
 | The Effect of Age at School Entry on Educational Attainment: An Application of Instrumental Variables with Moments from Two Samples| [JSTOR Link](https://www.jstor.org/stable/2290263) | |
-|Kernel Instrumental Variable Regression|[Paper Link](https://proceedings.neurips.cc/paper/2019/hash/17b3c7061788dbe82de5abe9f6fe22b3-Abstract.html)||
+|Kernel Instrumental Variable Regression|[NIPS Link](https://proceedings.neurips.cc/paper/2019/hash/17b3c7061788dbe82de5abe9f6fe22b3-Abstract.html)||
 | RDD/DID | | |
 | Causal Reasoning and Large Language Models: Opening a New Frontier for Causality | [ArXiv link](https://ar5iv.labs.arxiv.org/html/2305.00050) | |
 
