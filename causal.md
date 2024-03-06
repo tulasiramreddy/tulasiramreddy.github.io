@@ -38,7 +38,7 @@
 | 16|   4-March  | Improving sensitivities  |  |
 | 17|   5-March  | Instrumental Variables-1  | [Identification and Estimation of Local Average Treatment Effects](https://www.jstor.org/stable/2951620) by Guido W. Imbens and Joshua D. Angrist |
 | 18|  11-March  | Instrumental Variables-2  |[Two-Stage Least Squares Estimation of Average Causal Effects in Models with Variable Treatment Intensity](https://www.tandfonline.com/doi/abs/10.1080/01621459.1995.10476535) by Guido W. Imbens and Joshua D. Angrist|
-| 19|   16-March  |  Difference in Differences (DID) -1 | [Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania](https://www.jstor.org/stable/2118030) |
+| 19|   16-March  |  Difference in Differences (DID) -1 | [Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania](https://www.jstor.org/stable/2118030) by David Card and Alan B. Krueger |
 | 20|  18-March  |  Difference in Differences (DID) -2| |
 | 21|  19-March  | Bayesian networks  | |
 | 22|   25-March  | Bayesian network construction  |  |
