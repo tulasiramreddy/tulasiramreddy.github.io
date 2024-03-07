@@ -65,7 +65,7 @@
 |Kernel Instrumental Variable Regression|[NIPS Link](https://proceedings.neurips.cc/paper/2019/hash/17b3c7061788dbe82de5abe9f6fe22b3-Abstract.html)||
 |Causal inference in economics and marketing|[PNAS Link](https://www.pnas.org/doi/full/10.1073/pnas.1510479113#bibliography)|Sushant Maske, Vishnu Kadam|
 | RDD/DID | | |
-<!--| Causal Reasoning and Large Language Models: Opening a New Frontier for Causality | [ArXiv link](https://ar5iv.labs.arxiv.org/html/2305.00050) | Shashwati H., Nakul Wewhare|-->
+| Causal Reasoning and Large Language Models: Opening a New Frontier for Causality | [ArXiv link](https://ar5iv.labs.arxiv.org/html/2305.00050) | |
 
 
 **References:**
