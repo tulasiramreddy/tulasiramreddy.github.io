@@ -55,7 +55,7 @@
 
 | Title | Relevant material and links | Presenters |
 |:----|:----:|:----:|
-| Proof of equivalence of Bayesian Factorization and Markov Property and  an algorithm (with implementation) to verify d-separation| |Nikhil, Amruthamshu, Moksh |
+| Proof of equivalence of Bayesian Factorization and Markov Property and  an algorithm (with implementation) to verify d-separation| |Nikhil, Amruthamshu, Moksh, Sneha |
 | Estimating Treatment Effects with Causal Forests: An Application |[ArXiv link](https://ar5iv.labs.arxiv.org/html/1902.07409) \ [Related paper](https://doi.org/10.1214/18-AOS1709)| Vihang, Vivek and Aastha, Paarth, Shinjini|
 | Sensitivity analysis of linear Structural Causal Models| [JMLR link](http://proceedings.mlr.press/v97/cinelli19a.html) | |
 |Introduction to Double Robust Methods for Incomplete Data| [Journal Paper link](https://projecteuclid.org/journals/statistical-science/volume-33/issue-2/Introduction-to-Double-Robust-Methods-for-Incomplete-Data/10.1214/18-STS647.full)||
