@@ -36,18 +36,16 @@
 || 23-February| Mid-Semester Exam| |
 | 15|  27-February  | Metrics and sensitivities |Python packages: [DoWhy](https://www.pywhy.org/dowhy/v0.8/getting_started/intro.html), [EconML](https://econml.azurewebsites.net/index.html), [causal-learn](https://causal-learn.readthedocs.io/en/latest/index.html) |
 | 16|   4-March  | Improving sensitivities  |  |
-| 17|   5-March  | Instrumental Variables-1  | [Identification and Estimation of Local Average Treatment Effects](https://www.jstor.org/stable/2951620) by Guido W. Imbens and Joshua D. Angrist |
-| 18|  11-March  | Instrumental Variables-2  |[Two-Stage Least Squares Estimation of Average Causal Effects in Models with Variable Treatment Intensity](https://www.tandfonline.com/doi/abs/10.1080/01621459.1995.10476535) by Guido W. Imbens and Joshua D. Angrist|
-| 19|   16-March  |  Difference in Differences (DID) -1 | [Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania](https://www.jstor.org/stable/2118030) by David Card and Alan B. Krueger |
-| 20|  18-March  |  Difference in Differences (DID) -2| |
-| 21|  19-March  | Bayesian networks  | |
-| 22|   25-March  | Bayesian network construction  |  |
-| 23|  26-March  | Causal discovery |[Introduction to the foundations of causal discovery](https://link.springer.com/article/10.1007/s41060-016-0038-6)|
-| 24|   1-April  | The PC Algorithm  |  [Causal Discovery Methods Based on Graphical Models](https://www.frontiersin.org/articles/10.3389/fgene.2019.00524/full)|
-| 25|  2-April  |  | |
-| 26| 8-April | | |
-| 27| 9-April|||
-|28| 15-April|||
+| 17|   11-March  | Instrumental Variables-1  | [Identification and Estimation of Local Average Treatment Effects](https://www.jstor.org/stable/2951620) by Guido W. Imbens and Joshua D. Angrist |
+| 18|  18-March  | Instrumental Variables-2  |[Two-Stage Least Squares Estimation of Average Causal Effects in Models with Variable Treatment Intensity](https://www.tandfonline.com/doi/abs/10.1080/01621459.1995.10476535) by Guido W. Imbens and Joshua D. Angrist|
+| 19|   19-March  |  Difference in Differences (DID) -1 | [Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania](https://www.jstor.org/stable/2118030) by David Card and Alan B. Krueger |
+| 20|  26-March  |  Difference in Differences (DID) -2| |
+| 21|  30-March  | Bayesian networks  | |
+| 22|   30-March  | Bayesian network construction  |  |
+| 23|    1-April| Causal discovery |[Introduction to the foundations of causal discovery](https://link.springer.com/article/10.1007/s41060-016-0038-6)|
+| 24|   2-April  | The PC Algorithm  |  [Causal Discovery Methods Based on Graphical Models](https://www.frontiersin.org/articles/10.3389/fgene.2019.00524/full)|
+| 25| 8-April | | |
+| 26| 9-April|||
 
 **Problem Sets:** | [Set-1](https://www.dropbox.com/scl/fi/8mqo8azk9x221rq9gflac/CI_set-1.pdf?rlkey=l5pal6pi4vov760ot9qy14irh&dl=0) | [Set-2](https://www.dropbox.com/scl/fi/ic317h0yqxcgl7lbh4rc4/CI_set-2.pdf?rlkey=siv5clxk5cdn3074zqv3bs6l2&dl=0) | [Set-3](https://www.dropbox.com/scl/fi/gjdz7cvszzvzi2vaqmcrb/CI_set-3.pdf?rlkey=wmouhmcqknj0vbr4kmvnfslad&dl=0)
 
