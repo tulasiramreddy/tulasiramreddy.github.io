@@ -32,17 +32,17 @@
 | 11|   6-February  |   Backdoor criteria| *Class test-III on 15-February-2024* |
 | 12|  10-February  | Adjustment formula | Refer Chapters 1, 2 and 3 from the book [Causal Inference in Statistics](http://bayes.cs.ucla.edu/PRIMER/) by J. Pearl, M. Glymour, N. P. Jewell |
 | 13|   12-February  | Front door criteria |  |
-| 14|  13-February  | Propensity score matching | |
+| 14|  13-February  | Matching | |
 || 23-February| Mid-Semester Exam| |
-| 15|  27-February  | Metrics and sensitivities |Python packages: [DoWhy](https://www.pywhy.org/dowhy/v0.8/getting_started/intro.html), [EconML](https://econml.azurewebsites.net/index.html), [causal-learn](https://causal-learn.readthedocs.io/en/latest/index.html) |
+| 15|  27-February  | Propensity score |Python packages: [DoWhy](https://www.pywhy.org/dowhy/v0.8/getting_started/intro.html), [EconML](https://econml.azurewebsites.net/index.html), [causal-learn](https://causal-learn.readthedocs.io/en/latest/index.html) |
 | 16|   4-March  | Improving sensitivities  |  |
-| 17|   11-March  | Instrumental Variables-1  | [Identification and Estimation of Local Average Treatment Effects](https://www.jstor.org/stable/2951620) by Guido W. Imbens and Joshua D. Angrist |
-| 18|  18-March  | Instrumental Variables-2  |[Two-Stage Least Squares Estimation of Average Causal Effects in Models with Variable Treatment Intensity](https://www.tandfonline.com/doi/abs/10.1080/01621459.1995.10476535) by Guido W. Imbens and Joshua D. Angrist|
-| 19|   19-March  |  Difference in Differences (DID) -1 | [Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania](https://www.jstor.org/stable/2118030) by David Card and Alan B. Krueger |
-| 20|  26-March  |  Difference in Differences (DID) -2| |
-| 21|  30-March  | Bayesian networks  | |
-| 22|   30-March  | Bayesian network construction  |  |
-| 23|    1-April| Causal discovery |[Introduction to the foundations of causal discovery](https://link.springer.com/article/10.1007/s41060-016-0038-6)|
+| 17|   11-March  |   |  |
+| 18|  18-March  | Instrumental Variables-1  |[Two-Stage Least Squares Estimation of Average Causal Effects in Models with Variable Treatment Intensity](https://www.tandfonline.com/doi/abs/10.1080/01621459.1995.10476535) by Guido W. Imbens and Joshua D. Angrist|
+| 19|   19-March  |  Instrumental Variables -2 | [Identification and Estimation of Local Average Treatment Effects](https://www.jstor.org/stable/2951620) by Guido W. Imbens and Joshua D. Angrist|
+| 20|  26-March  | Instrumental Variables-3 |  |
+| 21|  30-March  | Discontinuity Designs| |
+| 22|   30-March  | Difference in Differences (DID) -1  | [Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania](https://www.jstor.org/stable/2118030) by David Card and Alan B. Krueger |
+| 23|    1-April| Difference in Differences (DID) -2 |[Introduction to the foundations of causal discovery](https://link.springer.com/article/10.1007/s41060-016-0038-6)|
 | 24|   2-April  | The PC Algorithm  |  [Causal Discovery Methods Based on Graphical Models](https://www.frontiersin.org/articles/10.3389/fgene.2019.00524/full)|
 | 25| 8-April | | |
 | 26| 9-April|||
