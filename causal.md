@@ -49,7 +49,8 @@
 
 **Problem Sets:** | [Set-1](https://www.dropbox.com/scl/fi/8mqo8azk9x221rq9gflac/CI_set-1.pdf?rlkey=l5pal6pi4vov760ot9qy14irh&dl=0) | [Set-2](https://www.dropbox.com/scl/fi/ic317h0yqxcgl7lbh4rc4/CI_set-2.pdf?rlkey=siv5clxk5cdn3074zqv3bs6l2&dl=0) | [Set-3](https://www.dropbox.com/scl/fi/gjdz7cvszzvzi2vaqmcrb/CI_set-3.pdf?rlkey=wmouhmcqknj0vbr4kmvnfslad&dl=0)
 
-**Class Projects**
+
+<!--- **Class Projects**
 
 | Title | Relevant material and links | Presenters |
 |:----|:----:|:----:|
@@ -63,7 +64,7 @@
 |Causal inference in economics and marketing|[PNAS Link](https://www.pnas.org/doi/full/10.1073/pnas.1510479113#bibliography)|Sushant, Vishnu |
 |Mendelian randomization in health research: Using appropriate genetic variants and avoiding biased estimates|[Journal Paper Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3989031/)||
 | RDD/DID | | |
-| Causal Reasoning and Large Language Models: Opening a New Frontier for Causality | [ArXiv link](https://ar5iv.labs.arxiv.org/html/2305.00050) | |
+| Causal Reasoning and Large Language Models: Opening a New Frontier for Causality | [ArXiv link](https://ar5iv.labs.arxiv.org/html/2305.00050) | | --->
 
 
 **References:**
