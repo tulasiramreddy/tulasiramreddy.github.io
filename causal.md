@@ -46,6 +46,8 @@
 | 24|   2-April  |  A/B testing | |
 | 25| 8-April | | [Introduction to the foundations of causal discovery](https://link.springer.com/article/10.1007/s41060-016-0038-6) |
 | 26| 9-April|The PC Algorithm| [Causal Discovery Methods Based on Graphical Models](https://www.frontiersin.org/articles/10.3389/fgene.2019.00524/full)|
+||29-April| End-Semester Exam|Due date for class projects submission|
+
 
 **Problem Sets:** | [Set-1](https://www.dropbox.com/scl/fi/8mqo8azk9x221rq9gflac/CI_set-1.pdf?rlkey=l5pal6pi4vov760ot9qy14irh&dl=0) | [Set-2](https://www.dropbox.com/scl/fi/ic317h0yqxcgl7lbh4rc4/CI_set-2.pdf?rlkey=siv5clxk5cdn3074zqv3bs6l2&dl=0) | [Set-3](https://www.dropbox.com/scl/fi/gjdz7cvszzvzi2vaqmcrb/CI_set-3.pdf?rlkey=wmouhmcqknj0vbr4kmvnfslad&dl=0)
 
