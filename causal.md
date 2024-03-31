@@ -30,20 +30,20 @@
 | 9|   29-January  |  Structural Causal Model | For SCM and related topics you may see Chapters-3 and 6 from the book [Elements of Causal Inference: Foundations and Learning Algorithms](https://mitpress.mit.edu/9780262037310/elements-of-causal-inference/) by J. Peters, D. Janzing and B. Schölkopf |
 | 10|  30-January  | Robin's G-formula/Trucated Factorization |  Check [DAGitty](https://www.dagitty.net/)|
 | 11|   6-February  |   Backdoor criteria| *Class test-III on 15-February-2024* |
-| 12|  10-February  | Adjustment formula | Refer Chapters 1, 2 and 3 from the book [Causal Inference in Statistics](http://bayes.cs.ucla.edu/PRIMER/) by J. Pearl, M. Glymour, N. P. Jewell |
+| 12|  10-February  | Adjustment formula | For topics until Mid-Sem, you may refer Chapters 1, 2 and 3 from the book [Causal Inference in Statistics](http://bayes.cs.ucla.edu/PRIMER/) by J. Pearl, M. Glymour, N. P. Jewell |
 | 13|   12-February  | Front door criteria |  |
 | 14|  13-February  | Matching | |
 || 23-February| Mid-Semester Exam| |
 | 15|  27-February  | Propensity score |Python packages: [DoWhy](https://www.pywhy.org/dowhy/v0.8/getting_started/intro.html), [EconML](https://econml.azurewebsites.net/index.html), [causal-learn](https://causal-learn.readthedocs.io/en/latest/index.html) |
-| 16|   4-March  | Improving sensitivities  |  |
+| 16|   4-March  | IPW  |  |
 | 17|   11-March  |  Makeup Lecture |  |
 | 18|  18-March  | Instrumental Variables-1  |[Two-Stage Least Squares Estimation of Average Causal Effects in Models with Variable Treatment Intensity](https://www.tandfonline.com/doi/abs/10.1080/01621459.1995.10476535) by Guido W. Imbens and Joshua D. Angrist|
 | 19|   19-March  |  Instrumental Variables -2 | [Identification and Estimation of Local Average Treatment Effects](https://www.jstor.org/stable/2951620) by Guido W. Imbens and Joshua D. Angrist|
 | 20|  26-March  | Instrumental Variables-3 |  |
-| 21|  30-March  | Difference in Differences (DID) -1| |
-| 22|   30-March  | Difference in Differences (DID) -2 | [Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania](https://www.jstor.org/stable/2118030) by David Card and Alan B. Krueger |
-| 23|    1-April| Metrics and sensitivities ||
-| 24|   2-April  |  A/B testing | |
+| 21|  30-March  | Regression Discontinuity Designs - 1 | |
+| 22|   30-March  | Regression Discontinuity Designs - 2 | For topics after Mid-Sem, you may refer Chapters 5, 6, 7, 9  in [Causal Inference: The mixtape](https://mixtape.scunning.com/) by Scott Cunningham   |
+| 23|    1-April| Difference in Differences (DID) -1 |   [Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania](https://www.jstor.org/stable/2118030) by David Card and Alan B. Krueger|
+| 24|   2-April  |Difference in Differences (DID) -2 | |
 | 25| 8-April | | [Introduction to the foundations of causal discovery](https://link.springer.com/article/10.1007/s41060-016-0038-6) |
 | 26| 9-April|The PC Algorithm| [Causal Discovery Methods Based on Graphical Models](https://www.frontiersin.org/articles/10.3389/fgene.2019.00524/full)|
 ||29-April| End-Semester Exam|Due date for class projects submission|
