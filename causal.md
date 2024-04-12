@@ -41,9 +41,9 @@
 | 19|   19-March  |  Instrumental Variables -2 | [Identification and Estimation of Local Average Treatment Effects](https://www.jstor.org/stable/2951620) by Guido W. Imbens and Joshua D. Angrist|
 | 20|  26-March  | Instrumental Variables-3 |  |
 | 21|  30-March  | Regression Discontinuity Designs - 1 | |
-| 22|   30-March  | Regression Discontinuity Designs - 2 | For topics after Mid-Sem, you may refer Chapters 5, 6, 7, 9  in [Causal Inference: The mixtape](https://mixtape.scunning.com/) by Scott Cunningham   |
+| 22|   30-March  | Regression Discontinuity Designs - 2 |    |
 | 23|    1-April| Difference in Differences (DID) -1 |   [Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania](https://www.jstor.org/stable/2118030) by David Card and Alan B. Krueger|
-| 24|   2-April  |Difference in Differences (DID) -2 | |
+| 24|   2-April  |Difference in Differences (DID) -2 | For topics after Mid-Sem, you may refer Chapters 5, 6, 7, 9  in [Causal Inference: The mixtape](https://mixtape.scunning.com/) by Scott Cunningham |
 | 25| 8-April | Causal Discovery (PC Algorithm)| [Introduction to the foundations of causal discovery](https://link.springer.com/article/10.1007/s41060-016-0038-6) |
 | 26| 13-April|Independence tests, Algorithms(FCI/GES/LiNGAM)| [Causal Discovery Methods Based on Graphical Models](https://www.frontiersin.org/articles/10.3389/fgene.2019.00524/full)|
 ||29-April| End-Semester Exam|Due date for class projects submission|
