@@ -14,9 +14,9 @@
           color: #333;
       }
       header {
-          background: #007BFF; /* Adjusted to a softer blue */
+          background-color: rgba(0, 123, 255, 0.8); /* Soft blue with transparency */
           color: #fff;
-          padding: 30px 0;
+          padding: 20px 0;
           text-align: center;
       }
       header h1 {
@@ -25,18 +25,28 @@
       header p {
           margin: 0;
       }
-      nav .nav-link {
-          color: #ffffff; /* White color for better readability */
-          transition: color 0.3s ease-in-out;
+      nav {
+          background: transparent; /* Transparent background for navbar */
       }
-      nav .nav-link:hover {
-          color: #B0C4DE; /* Lighter blue for hover state */
-          text-decoration: none;
+      .navbar {
+          padding: 0;
       }
-      .img-fluid {
-          margin-top: 20px;
-          box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-          border-radius: 5px;
+      .navbar-toggler {
+          border-color: rgba(255, 255, 255, 0.5); /* Lighter border color for toggler */
+      }
+      .navbar-toggler-icon {
+          background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255, 255, 255, 0.7)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+      }
+      .navbar-nav .nav-link {
+          color: #fff;
+          transition: color 0.3s;
+      }
+      .navbar-nav .nav-link:hover, .navbar-nav .nav-link:focus {
+          color: #B0C4DE;
+          background-color: transparent;
+      }
+      .collapse.navbar-collapse {
+          justify-content: center;
       }
       h2 {
           background-color: #e9ecef;
@@ -63,7 +73,7 @@
 <body>
   <header>
     <div class="container">
-      <nav class="navbar navbar-expand-md justify-content-between">
+      <nav class="navbar navbar-expand-md navbar-light">
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -89,6 +99,8 @@
       </nav>
     </div>
   </header>
+</body>
+
 
 
   <main>
