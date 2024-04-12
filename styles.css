@@ -1,84 +1,39 @@
 body {
-  font-family: 'Raleway', sans-serif;
-  line-height: 1.6;
-  margin: 0;
-  padding: 0;
-  color: #333;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    color: #333;
 }
 
-header {
-  background-color: #1E90FF;
-  color: #fff;
-  padding: 20px 0;
+header, nav, section, footer {
+    padding: 20px;
 }
 
-.nav-link {
-  color: #fff !important;
-  font-weight: bold;
-  margin-right: 20px;
-  padding: 10px 0;
+nav ul {
+    list-style: none;
+    padding: 0;
 }
 
-.nav-link:hover {
-  color: #ccc !important;
+nav ul li {
+    display: inline;
+    margin-right: 10px;
 }
 
-main {
-  padding: 60px 0;
+/* Responsive design adjustments */
+@media (max-width: 600px) {
+    nav ul {
+        text-align: center;
+    }
+    nav ul li {
+        display: block;
+        margin-bottom: 10px;
+    }
 }
 
-h1, h2, h3 {
-  margin-top: 30px;
-  font-weight: 700;
-}
-
-.section-heading {
-  margin-top: 50px;
-  font-weight: 600;
-}
-
-.subsection-heading {
-  margin-top: 30px;
-  font-weight: 600;
-}
-
-.container {
-  max-width: 800px;
-  margin: 0 auto;
-}
-
-.employment-list,
-.education-list,
-.publication-list,
-.teaching-list {
-  padding-left: 20px;
-  list-style-type: none;
-}
-
-.employment-list li,
-.education-list li,
-.publication-list li,
-.teaching-list li {
-  margin-bottom: 10px;
-}
-
-a {
-  color: #1E90FF;
-  font-weight: 600;
-  text-decoration: none;
-}
-
-a:hover {
-  color: #1674c2;
-  text-decoration: underline;
-}
-
-@media (max-width: 767px) {
-  header {
-    padding: 10px 0;
-  }
-
-  main {
-    padding: 30px 0;
-  }
+/* More specific adjustments for smaller devices */
+@media (max-width: 400px) {
+    header, nav, section, footer {
+        padding: 10px;
+    }
 }
