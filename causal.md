@@ -45,7 +45,7 @@
 | 23|    1-April| Difference in Differences (DID) -1 |   [Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania](https://www.jstor.org/stable/2118030) by David Card and Alan B. Krueger|
 | 24|   2-April  |Difference in Differences (DID) -2 | |
 | 25| 8-April | Causal Discovery (PC Algorithm)| [Introduction to the foundations of causal discovery](https://link.springer.com/article/10.1007/s41060-016-0038-6) |
-| 26| 13-April|FCI/GES/LiNGAM| [Causal Discovery Methods Based on Graphical Models](https://www.frontiersin.org/articles/10.3389/fgene.2019.00524/full)|
+| 26| 13-April|Independence tests/FCI/GES/LiNGAM| [Causal Discovery Methods Based on Graphical Models](https://www.frontiersin.org/articles/10.3389/fgene.2019.00524/full)|
 ||29-April| End-Semester Exam|Due date for class projects submission|
 
 
