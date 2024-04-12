@@ -1,39 +1,29 @@
 body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    margin: 0;
-    padding: 0;
-    color: #333;
+  font-family: 'Raleway', sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  color: #333;
 }
 
-header, nav, section, footer {
-    padding: 20px;
+header {
+  background-color: #1E90FF;
+  color: #fff;
+  padding: 20px 0;
 }
 
-nav ul {
-    list-style: none;
-    padding: 0;
+.nav-link {
+  color: #fff !important;
+  font-weight: bold;
+  margin-right: 20px;
 }
 
-nav ul li {
-    display: inline;
-    margin-right: 10px;
+.nav-link:hover {
+  color: #ccc !important;
 }
 
-/* Responsive design adjustments */
-@media (max-width: 600px) {
-    nav ul {
-        text-align: center;
-    }
-    nav ul li {
-        display: block;
-        margin-bottom: 10px;
-    }
+main {
+  padding: 60px 0;
 }
 
-/* More specific adjustments for smaller devices */
-@media (max-width: 400px) {
-    header, nav, section, footer {
-        padding: 10px;
-    }
-}
+h1, h2, h
