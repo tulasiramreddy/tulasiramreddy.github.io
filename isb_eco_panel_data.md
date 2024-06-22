@@ -6,14 +6,17 @@
 
 **Office Hours:**
 
+**Topics covered:**
+
+
 **Pre-requisites:** Familiarity with basic statistical concepts such as estimation techniques, hypothesis testing, and probability distributions. 
 Exposure to regression analysis, including simple linear regression and multiple regression, is essential.
 Understanding of Linear algebra and multivariate calculus (derivatives and integrals) (derivatives and integrals) is necessary. 
 
 | Lecture   | Date   | Contents     | Supplementary material |
 | :------------- | :----------: | -----------: | -----------: |
-|  1 | July | | |
-|  2 | July | | |
+|  1 | July | Introduction | |
+|  2 | July | Review | |
 |  3 | July | | |
 |  4 | July | | |
 |  5 | July | | |
@@ -22,10 +25,10 @@ Understanding of Linear algebra and multivariate calculus (derivatives and integ
 |  8 | July | | |
 |  9 | July | | |
 |  10 | July | | |
-|  11 | August | | |
-|  12 | August | | |
-|  13 | August | | |
-|  14 | August | | |
+|  11 | August | Instrumental Variables - 1 | |
+|  12 | August | Instrumental Variables - 2 | |
+|  13 | August | GMM | |
+|  14 | August | GMM | |
 |  15 | August | | |
 |  16 | August | | |
 |  17 | August | | |
