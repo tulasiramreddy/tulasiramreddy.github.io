@@ -6,7 +6,9 @@
 
 **Office Hours:**
 
-**Topics covered:** OLS Regression, Generalized OLS, One way fixed and random effects model, Two way fixed and random effects model, Seemingly Unrelated Regressions (SUR), Dynamic SUR, Instrumental Variables, 2SLS Estimators, M-Estimation, Genaralised Method of Moments (GMM), System GMM, Asymptotic Theory, (if time permits, we will cover some Machine Learning aspects of panel data).
+**Topics covered:**  OLS Regression, Generalized OLS, One way fixed and random effects model, Two way fixed and random effects model, Seemingly Unrelated Regressions (SUR), Dynamic SUR, Instrumental Variables, 2SLS Estimators, M-Estimation, Genaralised Method of Moments (GMM), System GMM, Asymptotic Theory, (if time permits, we will cover some Machine Learning aspects of panel data). 
+
+*Additional topics:* Models with varying intercepts,  dummy variables model,  random  coefficient  models (Swamy's and Hildreth-Houck),  switching  regression model and adaptive regression model. 
 
 
 **Pre-requisites:** Familiarity with basic statistical concepts such as estimation techniques, hypothesis testing, and probability distributions. 
@@ -41,3 +43,7 @@ Understanding of Linear algebra and multivariate calculus (derivatives and integ
 **Problem Sets:** | [Set-1]() | [Set-2]() | [Set-3]()
 
 **References:**
+- Econometric Analysis of Cross Section and Panel Data by J. M. Wooldridge
+- Econometric Analysis of Panel Data by B. H. Baltagi
+- 
+
