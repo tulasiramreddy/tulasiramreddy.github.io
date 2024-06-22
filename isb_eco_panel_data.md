@@ -43,7 +43,7 @@ Understanding of Linear algebra and multivariate calculus (derivatives and integ
 **Problem Sets:** | [Set-1]() | [Set-2]() | [Set-3]()|
 
 **References:**
-- Econometric Analysis of Cross Section and Panel Data by J. M. Wooldridge
-- Econometric Analysis of Panel Data by B. H. Baltagi
-- Mostly Harmless Econometrics: An Empiricist’s Companion by Angrist, Joshua and Jorn-Steffen Pischke. 
-
+- [Econometric Analysis of Cross Section and Panel Data](https://mitpress.mit.edu/9780262232586/econometric-analysis-of-cross-section-and-panel-data/) by J. M. Wooldridge
+- [Econometric Analysis of Panel Data](https://bcs.wiley.com/he-bcs/Books?action=index&bcsId=4338&itemId=1118672321) by B. H. Baltagi
+- [Mostly Harmless Econometrics: An Empiricist’s Companion](https://press.princeton.edu/books/paperback/9780691120355/mostly-harmless-econometrics) by J. Angrist and J-S. Pischke. 
+- [Analysis of Panel Data](https://www.cambridge.org/core/books/analysis-of-panel-data/C24D71CDE5844F602E3F43526E207C70) by H. Cheng
