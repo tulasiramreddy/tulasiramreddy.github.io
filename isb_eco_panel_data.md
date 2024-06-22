@@ -1,4 +1,4 @@
-**Course:** Econometrics of Panel Data
+**Course:** Econometric Analysis of Panel Data
 
 **Lecture Hall:**
 
