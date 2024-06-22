@@ -28,7 +28,7 @@ Understanding of Linear algebra and multivariate calculus (derivatives and integ
 |  11 | August | Instrumental Variables - 1 | |
 |  12 | August | Instrumental Variables - 2 | |
 |  13 | August | GMM | |
-|  14 | August | GMM | |
+|  14 | August | System GMM | |
 |  15 | August | | |
 |  16 | August | | |
 |  17 | August | | |
