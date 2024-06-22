@@ -6,7 +6,7 @@
 
 **Office Hours:**
 
-**Topics covered:**  OLS Regression, Generalized OLS, One way fixed and random effects model, Two way fixed and random effects model, Seemingly Unrelated Regressions (SUR), Dynamic SUR, Instrumental Variables, 2SLS Estimators, M-Estimation, Genaralised Method of Moments (GMM), System GMM, Asymptotic Theory, (if time permits, we will cover some Machine Learning aspects of panel data). 
+**Topics covered:**  OLS Regression, Generalized OLS, One way fixed and random effects model, Two way fixed and random effects model, Seemingly Unrelated Regressions (SUR), Dynamic SUR, Instrumental Variables, 2SLS Estimators, Regression Discontinuity Design, Difference in Differences, M-Estimation, Genaralised Method of Moments (GMM), System GMM, Asymptotic Theory, (if time permits, we will cover some Machine Learning aspects of panel data). 
 
 *Additional topics:* Models with varying intercepts,  dummy variables model,  random  coefficient  models (Swamy's and Hildreth-Houck),  switching  regression model and adaptive regression model. 
 
@@ -27,12 +27,12 @@ Understanding of Linear algebra and multivariate calculus (derivatives and integ
 |  8 | July | Two way fixed and random effects model | |
 |  9 | July | SUR Model | |
 |  10 | July | Dynamic SUR Model | |
-|  11 | August | Instrumental Variables - 1 | |
-|  12 | August | Instrumental Variables - 2 | |
-|  13 | August | GMM | |
-|  14 | August | System GMM | |
-|  15 | August | M-estimation| |
-|  16 | August | M-estimation | |
+|  11 | August | Instrumental Variables | |
+|  12 | August | Regression Discontinuity Designs | |
+|  13 | August | Difference in Differences | |
+|  14 | August |  M-Estimation | |
+|  15 | August |GMM | |
+|  16 | August | System GMM | |
 |  17 | August | Asymptotic analysis | |
 |  18 | August | Asymptotic analysis | |
 |  19 | August | ML for panel data | |
@@ -45,5 +45,5 @@ Understanding of Linear algebra and multivariate calculus (derivatives and integ
 **References:**
 - Econometric Analysis of Cross Section and Panel Data by J. M. Wooldridge
 - Econometric Analysis of Panel Data by B. H. Baltagi
-- 
+- Mostly Harmless Econometrics: An Empiricist’s Companion by Angrist, Joshua and Jorn-Steffen Pischke. 
 
