@@ -1,39 +1,79 @@
 body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.header {
+    background-color: #282c34;
+    color: white;
+    padding: 1rem 2rem;
+    text-align: center;
+}
+
+.tab-nav {
+    background-color: #f4f4f4;
+    border-bottom: 1px solid #ccc;
+}
+
+.tab-nav ul {
+    list-style: none;
     margin: 0;
     padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.tab-nav ul li {
+    margin: 0;
+}
+
+.tab-nav ul li a {
+    display: block;
+    padding: 1rem;
+    text-decoration: none;
     color: #333;
 }
 
-header, nav, section, footer {
-    padding: 20px;
+.tab-nav ul li a:hover,
+.tab-nav ul li a.active {
+    background-color: #ddd;
 }
 
-nav ul {
-    list-style: none;
-    padding: 0;
+.tab-content {
+    padding: 2rem;
 }
 
-nav ul li {
-    display: inline;
-    margin-right: 10px;
+.tab-section {
+    display: none;
 }
 
-/* Responsive design adjustments */
-@media (max-width: 600px) {
-    nav ul {
-        text-align: center;
+.tab-section.active {
+    display: block;
+}
+
+.footer {
+    background-color: #282c34;
+    color: white;
+    text-align: center;
+    padding: 1rem 2rem;
+}
+
+@media (max-width: 768px) {
+    .header {
+        padding: 1rem;
     }
-    nav ul li {
-        display: block;
-        margin-bottom: 10px;
-    }
-}
 
-/* More specific adjustments for smaller devices */
-@media (max-width: 400px) {
-    header, nav, section, footer {
-        padding: 10px;
+    .tab-nav ul {
+        flex-direction: column;
+    }
+
+    .tab-nav ul li a {
+        padding: 0.5rem;
+    }
+
+    .tab-content {
+        padding: 1rem;
     }
 }
