@@ -25,7 +25,7 @@
       display: flex;
       align-items: center;
       justify-content: space-between;
-      background: transparent;
+      background: #0056b3;
       padding: 10px;
     }
 
@@ -37,26 +37,6 @@
 
     .navbar-header span {
       color: #007bff;
-    }
-
-    .navbar-toggler {
-      border: none;
-      background: none;
-      cursor: pointer;
-      outline: none;
-    }
-
-    .navbar-toggler span {
-      display: block;
-      width: 25px;
-      height: 2px;
-      background-color: #fff;
-      margin: 5px 0;
-      transition: 0.4s;
-    }
-
-    .navbar-menu {
-      display: none;
     }
 
     .navbar-nav {
@@ -80,20 +60,8 @@
       color: #007bff;
     }
 
-    /* Responsive */
-    @media (max-width: 768px) {
-      .navbar-menu {
-        display: block;
-      }
-
-      .navbar-nav {
-        flex-direction: column;
-        display: none;
-      }
-
-      .navbar-nav li {
-        padding: 10px 0;
-      }
+    section {
+      margin-top: 20px;
     }
   </style>
 </head>
@@ -103,25 +71,18 @@
     <div class="container">
       <nav class="navbar">
         <div class="navbar-header">
-          <button class="navbar-toggler" onclick="toggleNavbar('open-navbar1')">
-            <span></span>
-            <span></span>
-            <span></span>
-          </button>
           <a href="#">
             <h4>Tulasi Ram Reddy<span>Annapareddy</span></h4>
           </a>
         </div>
-        <div class="navbar-menu" id="open-navbar1">
-          <ul class="navbar-nav">
-            <li class="active"><a href="#">Home</a></li>
-            <li><a href="#publications">Publications</a></li>
-            <li><a href="#about">About</a></li>
-            <li><a href="#employment">Employment</a></li>
-            <li><a href="#education">Education</a></li>
-            <li><a href="#teaching">Teaching</a></li>
-          </ul>
-        </div>
+        <ul class="navbar-nav">
+          <li class="active"><a href="#">Home</a></li>
+          <li><a href="#publications">Publications</a></li>
+          <li><a href="#about">About</a></li>
+          <li><a href="#employment">Employment</a></li>
+          <li><a href="#education">Education</a></li>
+          <li><a href="#teaching">Teaching</a></li>
+        </ul>
       </nav>
     </div>
   </header>
@@ -156,12 +117,6 @@
     <p>Information about my teaching experience will be displayed here.</p>
   </section>
 
-  <script>
-    function toggleNavbar(collapseId) {
-      var element = document.getElementById(collapseId);
-      element.style.display = (element.style.display === 'block' ? 'none' : 'block');
-    }
-  </script>
 </body>
 
 </html>
