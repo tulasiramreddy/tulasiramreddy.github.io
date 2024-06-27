@@ -17,26 +17,26 @@ Understanding of Linear algebra and multivariate calculus (derivatives and integ
 
 | Lecture   | Date   | Contents     | Supplementary material |
 | :------------- | :----------: | -----------: | -----------: |
-|  1 | July | Introduction | |
-|  2 | July | Review (properties of Gaussian distribution) | |
-|  3 | July | OLS and generalised OLS | |
-|  4 | July | Issues with OLS | |
-|  5 | July | One way fixed and random effects model | |
-|  6 | July | One way fixed and random effects model | |
-|  7 | July | Two way fixed and random effects model | |
-|  8 | July | Two way fixed and random effects model | |
-|  9 | July | SUR Model | |
-|  10 | July | Dynamic SUR Model | |
-|  11 | August | Instrumental Variables | |
-|  12 | August | Regression Discontinuity Designs | |
-|  13 | August | Difference in Differences | |
-|  14 | August |  M-Estimation | |
-|  15 | August |GMM | |
-|  16 | August | System GMM | |
-|  17 | August | Asymptotic analysis | |
-|  18 | August | Sampling and Bias | |
-|  19 | August | ML for panel data | |
-|  20 | August | ML for panel data | |
+|  1 | 15 July | Introduction | |
+|  2 | 15 July | Review (properties of Gaussian distribution) | |
+|  3 | 17 July | OLS and generalised OLS | |
+|  4 | 17 July | Issues with OLS | |
+|  5 | 22 July | One way fixed and random effects model | |
+|  6 | 22 July | One way fixed and random effects model | |
+|  7 | 24 July | Two way fixed and random effects model | |
+|  8 | 24 July | Two way fixed and random effects model | |
+|  9 | 29 July | SUR Model | |
+|  10 |29 July | Dynamic SUR Model | |
+|  11 |31 July | Instrumental Variables | |
+|  12 |31 July | Regression Discontinuity Designs | |
+|  13 |5 August | Difference in Differences | |
+|  14 |5 August |  M-Estimation | |
+|  15 |7 August |GMM | |
+|  16 |7 August | System GMM | |
+|  17 |12 August | Asymptotic analysis | |
+|  18 |12 August | Sampling and Bias | |
+|  19 |14 August | ML for panel data | |
+|  20 |14 August | ML for panel data | |
 
 
 
