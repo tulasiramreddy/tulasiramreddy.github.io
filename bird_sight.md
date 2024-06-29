@@ -23,6 +23,7 @@
 |            |Red Vented Bulbul| Atmakur                 |                          |
 |            |Red Wattled Lapwing     | Atmakur                 |                          |
 |            |Jungle Crow  | Atmakur                 |                          |
+|            |Indian Silverbill  | Atmakur                 |                          |
 |            |Indian Golden Oriole | Srungarapuram                 |                          |
 |            |Malabar Whistling Thrush| Kukkethody (farm stay)  |                          |
 |            |Malabar Flameback| Kukkethody (farm stay)  |                          |
