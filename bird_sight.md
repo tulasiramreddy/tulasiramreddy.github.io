@@ -47,7 +47,7 @@
 |            |Black-Hooded Oriole| Kukkethody (farm stay)  |                          |
 |            |Asian White Eye | Noida (sector 50)       |                          |
 |            |Yellow Footed Green Pigeon| Noida (sector 50)       |                          |
-|            |Barbet ()  | Noida (sector 50)       |                          |
+|            |Coppersmith Barbet  | Noida (sector 50)       |                          |
 |            |Laughing Dove| Noida (sector 50)       |                          |
 |            |Red Wwhiskered bulbul| Noida (sector 50)       |                          |
 |            |Brown Rockchat| Surajpur Wetlands       |                          |
