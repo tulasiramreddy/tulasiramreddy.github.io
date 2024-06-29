@@ -45,7 +45,6 @@
 |            |Asian Green Bee-Eater| Kukkethody (farm stay)  |                          |
 |            |Chest Headed Bee-Eater| Kukkethody (farm stay)  |                          |
 |            |Blackcapped Kingfisher| Kukkethody (farm stay)  |                          |
-
 |            |Black-Hooded Oriole| Kukkethody (farm stay)  |                          |
 |            |Asian White Eye | Noida (sector 50)       |                          |
 |            |Yellow Footed Green Pigeon| Noida (sector 50)       |                          |
