@@ -20,6 +20,7 @@
 |            |Purple Rumped Sunbird| Atmakur                 |                          |
 |            |Drongo        | Atmakur|                          |
 |            |Jungle Babbler| Atmakur                 |                          |
+|            |Yellow Billed Babbler| Atmakur                 |                          |
 |            |Red Vented Bulbul| Atmakur                 |                          |
 |            |Red Wattled Lapwing     | Atmakur                 |                          |
 |            |Jungle Crow  | Atmakur                 |                          |
