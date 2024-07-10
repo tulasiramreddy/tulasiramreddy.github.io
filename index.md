@@ -24,6 +24,7 @@ My research interests are broadly in probability theory and its applications. Sp
 
 ## Employment
 **Analyst (Traded Risk Lead, VP)** *at* Barclays, Noida, India (April, 2022 - Present)
+
 **Visiting Faculty** *at* Indian School of Business, Hyderabad, India (July, 2024 - Present)
 
 **Guest Faculty** *at* Indian Institute of Science and Education Research (IISER)- Pune, India (January, 2023 - Present)
