@@ -1,6 +1,6 @@
 **Course:** Econometric Analysis of Panel Data
 
-**Lecture Hall:**
+**Lecture Hall:** AC2 NMLT
 
 **Instructor:** Tulasi Ram Reddy (tulasi 'dot' math 'at' gmail 'dot' com)
 
@@ -17,26 +17,26 @@ Understanding of Linear algebra and multivariate calculus (derivatives and integ
 
 | Lecture   | Date   | Contents     | Supplementary material |
 | :------------- | :----------: | -----------: | -----------: |
-|  1 | 15 July | Introduction | |
-|  2 | 15 July | Review (properties of Gaussian distribution) | |
-|  3 | 17 July | OLS and generalised OLS | |
-|  4 | 17 July | Issues with OLS | |
-|  5 | 22 July | One way fixed and random effects model | |
-|  6 | 22 July | One way fixed and random effects model | |
-|  7 | 24 July | Two way fixed and random effects model | |
-|  8 | 24 July | Two way fixed and random effects model | |
-|  9 | 29 July | SUR Model | |
-|  10 |29 July | Dynamic SUR Model | |
-|  11 |31 July | Instrumental Variables | |
-|  12 |31 July | Regression Discontinuity Designs | |
-|  13 |5 August | Difference in Differences | |
-|  14 |5 August |  M-Estimation | |
-|  15 |7 August |GMM | |
-|  16 |7 August | System GMM | |
-|  17 |12 August | Asymptotic analysis | |
-|  18 |12 August | Sampling and Bias | |
-|  19 |14 August | ML for panel data | |
-|  20 |14 August | ML for panel data | |
+|  1 | 22 July | Introduction | |
+|  2 | 22 July | Review (properties of Gaussian distribution) | |
+|  3 | 24 July | OLS and generalised OLS | |
+|  4 | 24 July | Issues with OLS | |
+|  5 | 29 July | One way fixed and random effects model | |
+|  6 | 29 July | One way fixed and random effects model | |
+|  7 | 31 July | Two way fixed and random effects model | |
+|  8 | 31 July | Two way fixed and random effects model | |
+|  9 | 5 August | SUR Model | |
+|  10 |5 August | Dynamic SUR Model | |
+|  11 |7 August | Instrumental Variables | |
+|  12 |7 August | Regression Discontinuity Designs | |
+|  13 |12 August | Difference in Differences | |
+|  14 |12 August |  M-Estimation | |
+|  15 |14 August |GMM | |
+|  16 |14 August | System GMM | |
+|  17 |19 August | Asymptotic analysis | |
+|  18 |19 August | Sampling and Bias | |
+|  19 |21 August | ML for panel data | |
+|  20 |21 August | ML for panel data | |
 
 
 
