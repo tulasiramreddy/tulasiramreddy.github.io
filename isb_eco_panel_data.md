@@ -4,7 +4,7 @@
 
 **Instructor:** Tulasi Ram Reddy (tulasi 'dot' math 'at' gmail 'dot' com)
 
-**Office Hours:**
+**Office:** 1016 (courtyard level)
 
 **Topics covered:**  OLS Regression, Generalized OLS, One way fixed and random effects model, Two way fixed and random effects model, Seemingly Unrelated Regressions (SUR), Dynamic SUR, Instrumental Variables, 2SLS Estimators, Regression Discontinuity Design, Difference in Differences, M-Estimation, Genaralised Method of Moments (GMM), System GMM, Asymptotic Theory, issues with sampling (if time permits, we will cover some Machine Learning aspects of panel data). 
 
