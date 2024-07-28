@@ -21,11 +21,11 @@ Understanding of Linear algebra and multivariate calculus (derivatives and integ
 |  2 | 22 July | Review (properties of Gaussian distribution) | |
 |  3 | 27 July | OLS and generalised OLS | |
 |  4 | 27 July | Issues with OLS | |
-|  5 | 29 July | SUR Model | |
-|  6 | 29 July | Dynamic SUR | |
-|  7 | 31 July | One way fixed and random effects model | |
-|  8 | 31 July | One way fixed and random effects model | |
-|  9 | 5 August | Two way fixed and random effects model | |
+|  5 | 29 July |  | |
+|  6 | 29 July |  | |
+|  7 | 31 July | SUR Model | |
+|  8 | 31 July | Dynamic SUR| |
+|  9 | 5 August | One way fixed and random effects model | |
 |  10 |5 August | Two way fixed and random effects model | |
 |  11 |7 August | Instrumental Variables | |
 |  12 |7 August | Regression Discontinuity Designs | |
