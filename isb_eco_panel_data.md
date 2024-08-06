@@ -40,6 +40,13 @@ Understanding of Linear algebra and multivariate calculus (derivatives and integ
 |  18 |19 August | System GMM| |
 |  19 |21 August | ML for panel data | |
 |  20 |21 August | ML for panel data | |
+|  21 |21 August | ML for panel data | |
+|  22 |21 August | ML for panel data | |
+|  23 |21 August | ML for panel data | |
+|  24 |21 August | ML for panel data | |
+
+
+
 
 
 
