@@ -28,10 +28,10 @@ Understanding of Linear algebra and multivariate calculus (derivatives and integ
 |  6 | 29 July | Diagnostics | |
 |  7 | 31 July | SUR Model | |
 |  8 | 31 July | Dynamic SUR| |
-|  9 | 5 August | One way fixed and random effects model | |
-|  10 |5 August | One way fixed and random effects model | |
-|  11 |7 August | Two way fixed and random effects model| |
-|  12 |7 August | Two way fixed and random effects model | |
+|  9 | 5 August | One way fixed and random effects model | Chapters 2, 3 and 4 of Baltagi|
+|  10 |5 August | One way fixed and random effects model | Chapters 2 and 3 of Hsiao Cheng|
+|  11 |7 August | Two way fixed and random effects model| Chapters 2, 3 and 4 of Baltagi |
+|  12 |7 August | Two way fixed and random effects model | Chapters 2 and 3 of Hsiao Cheng|
 |  13 |12 August | Regression Discontinuity Designs | |
 |  14 |12 August | Difference in Differences  | |
 |  15 |14 August |Instrumental Variables | |
