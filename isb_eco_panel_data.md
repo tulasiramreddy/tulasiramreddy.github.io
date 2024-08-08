@@ -51,7 +51,8 @@ Understanding of Linear algebra and multivariate calculus (derivatives and integ
 
 
 
-**Problem Sets:** Posted on LMS
+**Problem Sets (Posted on LMS):** |Assignment - 1 (Due on 8-Aug)|Assignment - 2 (Due on )|
+
 
 **References:**
 - [Econometric Analysis of Cross Section and Panel Data](https://mitpress.mit.edu/9780262232586/econometric-analysis-of-cross-section-and-panel-data/) by J. M. Wooldridge
