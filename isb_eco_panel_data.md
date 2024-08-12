@@ -11,7 +11,7 @@
 
 **Topics covered:**  OLS Regression, Generalized OLS, One way fixed and random effects model, Two way fixed and random effects model, Seemingly Unrelated Regressions (SUR), Dynamic SUR, Instrumental Variables, 2SLS Estimators, Regression Discontinuity Design, Difference in Differences, M-Estimation, Genaralised Method of Moments (GMM), System GMM, Asymptotic Theory, issues with sampling (if time permits, we will cover some Machine Learning aspects of panel data). 
 
-*Additional topics:* Models with varying intercepts,  dummy variables model,  random  coefficient  models (Swamy's and Hildreth-Houck),  switching  regression model and adaptive regression model. 
+<!---*Additional topics:* Models with varying intercepts,  dummy variables model,  random  coefficient  models (Swamy's and Hildreth-Houck),  switching  regression model and adaptive regression model. --->
 
 
 **Pre-requisites:** Familiarity with basic statistical concepts such as estimation techniques, hypothesis testing, and probability distributions. 
