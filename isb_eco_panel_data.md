@@ -40,11 +40,9 @@ Understanding of Linear algebra and multivariate calculus (derivatives and integ
 |  18 |19 August | Synthetic Control| |
 |  19 |21 August | ML for panel data | |
 |  20 |21 August | ML for panel data | |
-<!---|  21 |26 August | ML for panel data | |
-|  22 |26 August | ML for panel data | |
-|  23 |28 August | ML for panel data | |
-|  24 |28 August | ML for panel data | | 
---->
+
+
+
 
 
 
