@@ -39,8 +39,8 @@ Understanding of Linear algebra and multivariate calculus (derivatives and integ
 |   |16 August | Class Presentations  | Sudheer Kumar/Rohan Bapat/Shubh Mittal|
 |  17 |19 August |  Regression Discontinuity Designs | |
 |  18 |19 August | Difference in Differences | [Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania](https://www.jstor.org/stable/2118030) by David Card and Alan B. Krueger|
-|  19 |21 August | Synthetic Control | [Synthetic Difference-in-Differences](https://www.aeaweb.org/articles?id=10.1257/aer.20190159) by  D. Arkhangelsky, S. Athey, D. A. Hirshberg, G. W. Imbens and S. Wager|
-|  20 |21 August | Synthetic Control | |
+|  19 |21 August | Synthetic Inference | [Synthetic Difference-in-Differences](https://www.aeaweb.org/articles?id=10.1257/aer.20190159) by  D. Arkhangelsky, S. Athey, D. A. Hirshberg, G. W. Imbens and S. Wager|
+|  20 |21 August | Synthetic Inference | |
 |  21 |23 August | ML for panel data | |
 |  22 |23 August | ML for panel data | |
 |  23 |25 August | ML for panel data | |
