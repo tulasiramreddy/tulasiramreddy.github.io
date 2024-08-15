@@ -32,7 +32,7 @@ Understanding of Linear algebra and multivariate calculus (derivatives and integ
 |  10 |5 August | One way fixed and random effects model | Chapters 2 and 3 of Hsiao Cheng|
 |  11 |7 August | Two way fixed and random effects model| Chapters 2, 3 and 4 of Baltagi |
 |  12 |7 August | Two way fixed and random effects model | Chapters 2 and 3 of Hsiao Cheng|
-|  13 |12 August | Causal Framework  | |
+|  13 |12 August | Potential Outcomes Framework  | |
 |  14 |12 August | Endogenity  | |
 |  15 |14 August |Instrumental Variables | [Two-Stage Least Squares Estimation of Average Causal Effects in Models with Variable Treatment Intensity](https://www.tandfonline.com/doi/abs/10.1080/01621459.1995.10476535) by Guido W. Imbens and Joshua D. Angrist |
 |  16 |14 August | Instrumental Variables | [Identification and Estimation of Local Average Treatment Effects](https://www.jstor.org/stable/2951620) by Guido W. Imbens and Joshua D. Angrist |
