@@ -36,7 +36,7 @@ Understanding of Linear algebra and multivariate calculus (derivatives and integ
 |  14 |12 August | Endogenity  | |
 |  15 |14 August |Instrumental Variables | [Two-Stage Least Squares Estimation of Average Causal Effects in Models with Variable Treatment Intensity](https://www.tandfonline.com/doi/abs/10.1080/01621459.1995.10476535) by Guido W. Imbens and Joshua D. Angrist |
 |  16 |14 August | Instrumental Variables | [Identification and Estimation of Local Average Treatment Effects](https://www.jstor.org/stable/2951620) by Guido W. Imbens and Joshua D. Angrist |
-|   |16 August | Class Presentations  | Sudheer Kumar/Rohan Bapat/Shubh Mittal|
+|   |16 August | Class Presentations  | Sudheer Kumar/Rohan Bapat/Bishav Raj/Shubh Mittal|
 |  17 |19 August |  Regression Discontinuity Designs | |
 |  18 |19 August | Difference in Differences | [Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania](https://www.jstor.org/stable/2118030) by David Card and Alan B. Krueger|
 |  19 |21 August | Synthetic Inference | [Synthetic Difference-in-Differences](https://www.aeaweb.org/articles?id=10.1257/aer.20190159) by  D. Arkhangelsky, S. Athey, D. A. Hirshberg, G. W. Imbens and S. Wager|
