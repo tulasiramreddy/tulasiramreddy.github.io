@@ -53,7 +53,7 @@ Understanding of Linear algebra and multivariate calculus (derivatives and integ
 
 
 
-**Problem Sets (Posted on LMS):** |Assignment - 1 (Due on 8-Aug)|Assignment - 2 (Due on )|
+**Problem Sets (Posted on LMS):** |Assignment - 1 (Due on 8-Aug)|Assignment - 2 (Due on 23-Aug )|Assignment - 3 (Due on )|
 
 
 **References:**
