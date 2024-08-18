@@ -43,8 +43,8 @@ Understanding of Linear algebra and multivariate calculus (derivatives and integ
 |  20 |21 August | Synthetic Inference | |
 |  21 |23 August | ML for panel data | |
 |  22 |23 August | ML for panel data | |
-|  23 |25 August | ML for panel data | |
-|  24 |25 August | ML for panel data | |
+|  23 |26 August | ML for panel data | |
+|  24 |26 August | ML for panel data | |
 
 
 
