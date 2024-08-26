@@ -39,12 +39,12 @@ Understanding of Linear algebra and multivariate calculus (derivatives and integ
 |   |16 August | Class Presentations  | Sudheer Kumar/Rohan Bapat/Bishav Raj/Shubh Mittal|
 |  17 |19 August |  Regression Discontinuity Designs | |
 |  18 |19 August | Difference in Differences | [Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania](https://www.jstor.org/stable/2118030) by David Card and Alan B. Krueger|
-|  19 |21 August | Synthetic Inference | [Synthetic Difference-in-Differences](https://www.aeaweb.org/articles?id=10.1257/aer.20190159) by  D. Arkhangelsky, S. Athey, D. A. Hirshberg, G. W. Imbens and S. Wager|
-|  20 |21 August | Synthetic Inference | |
-|  21 |23 August | ML for panel data | |
-|  22 |23 August | ML for panel data | |
-|  23 |26 August | ML for panel data | |
-|  24 |26 August | ML for panel data | |
+|  19 |21 August | Difference in Differences | |
+|  20 |21 August | Staggered Designs | |
+|  21 |23 August | Synthetic Inference |[Synthetic Difference-in-Differences](https://www.aeaweb.org/articles?id=10.1257/aer.20190159) by  D. Arkhangelsky, S. Athey, D. A. Hirshberg, G. W. Imbens and S. Wager |
+|  22 |23 August | Synthetic Inference | |
+|  23 |26 August | Generalized Method of Moments | |
+|  24 |26 August | Copula Method | |
 
 
 
@@ -54,7 +54,7 @@ Understanding of Linear algebra and multivariate calculus (derivatives and integ
 
 
 
-**Problem Sets (Posted on LMS):** |Assignment - 1 (Due on 8-Aug)|Assignment - 2 (Due on 23-Aug )|Assignment - 3 (Due on )|
+**Problem Sets (Posted on LMS):** |Assignment - 1 (Due on 8-Aug)|Assignment - 2 (Due on 23-Aug )|
 
 
 **References:**
