@@ -26,7 +26,7 @@ My research interests are broadly in probability theory and its applications. Sp
 
 #### Industry:
 
-**Analyst (VP)** *at* Blackrock, Gurgaon, India (September, 2024 - Present)
+**Analyst (Portfolio Risk, VP)** *at* Blackrock, Gurgaon, India (September, 2024 - Present)
 
 **Analyst (Traded Risk Lead, VP)** *at* Barclays, Noida, India (April, 2022 - July, 2024)
 
