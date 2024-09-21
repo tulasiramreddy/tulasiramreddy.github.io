@@ -78,4 +78,5 @@
 |            |                | Pune (IISER)       |                          |
 |            |                | Pune (IISER)       |                          |
 |            |White Capped Redstart| Kashmir (GLT) |                          |
-
+|            |Himalayan Griffon| Kashmir (GLT)| |
+|            |White Wagtail| Kashmir (GLT) |    |
