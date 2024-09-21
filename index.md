@@ -17,7 +17,7 @@
 [![Motivation](https://raw.githubusercontent.com/tulasiramreddy/tulasiramreddy.github.io/master/motivation.png)](https://xkcd.com/2154/ "What's even worse is, a month ago they transferred me to work on the game I was already playing, and suddenly I found myself procrastinating by playing the one I'd been assigned before. It's possible they're onto me and this is all part of the plan.")
 
 
-I work for Blackrock  in the portfolio risk domain. I also teach at IISER, Pune and ISB, Hyderabad.
+I work for BlackRock  in the portfolio risk domain. I also teach at IISER, Pune and ISB, Hyderabad.
 
 My research interests are broadly in probability theory and its applications. Specifically, my works are in the topics comprising random matrices, random polynomials, loop measures, conformal fields, discrete probability, random graphs and systematic risks. I also explore aspects of machine learning theory and its various applications. Recently I am exploring various ascpects of causality and its applications.
 
@@ -26,7 +26,7 @@ My research interests are broadly in probability theory and its applications. Sp
 
 #### Industry:
 
-**Analyst (Portfolio Risk, VP)** *at* Blackrock, Gurgaon, India (September, 2024 - Present)
+**Analyst (Portfolio Risk, VP)** *at* BlackRock, Gurgaon, India (September, 2024 - Present)
 
 **Analyst (Traded Risk Lead, VP)** *at* Barclays, Noida, India (April, 2022 - July, 2024)
 
