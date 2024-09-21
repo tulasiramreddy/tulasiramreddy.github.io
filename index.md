@@ -19,7 +19,7 @@
 
 I work for Blackrock  in the portfolio risk domain. I also teach at IISER, Pune and ISB, Hyderabad.
 
-My research interests are broadly in probability theory and its applications. Specifically, my works are in the topics comprising random matrices, random polynomials, loop measures, conformal fields, discrete probability, random graphs and systematic risks. I also explore aspects of machine learning theory and its various applications.
+My research interests are broadly in probability theory and its applications. Specifically, my works are in the topics comprising random matrices, random polynomials, loop measures, conformal fields, discrete probability, random graphs and systematic risks. I also explore aspects of machine learning theory and its various applications. Recently I am exploring various ascpects of causality and its applications.
 
 
 ## Employment
