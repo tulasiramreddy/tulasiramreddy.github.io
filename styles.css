@@ -22,44 +22,49 @@ body {
 
 /* Header */
 header {
-  margin-bottom: 50px;  /* Added more space below the header */
+  margin-bottom: 50px;
   padding-bottom: 20px;
-  border-bottom: 1px solid #ddd;  /* Subtle border to separate header */
+  border-bottom: 1px solid #ddd;
 }
 
 header h1 a {
   text-decoration: none;
   color: #333;
   font-size: 2.5em;
-  letter-spacing: -0.02em;  /* Tightened the space between letters */
+  letter-spacing: -0.02em;
 }
 
 header p {
   font-size: 1.2em;
   color: #666;
-  margin-top: 8px;  /* Small space after the main title */
+  margin-top: 8px;
 }
 
 nav {
-  margin-top: 15px;
+  margin-top: 20px;
+  text-align: center; /* Center the navigation bar */
 }
 
 nav ul {
   list-style-type: none;
   padding: 0;
-  text-align: left;
+  margin: 0;
 }
 
 nav ul li {
-  display: inline-block;
-  margin-right: 15px;
+  display: inline; /* Inline display to make the nav horizontal */
+  margin-right: 20px; /* Space between each link */
+}
+
+nav ul li:last-child {
+  margin-right: 0; /* Remove space after the last link */
 }
 
 nav ul li a {
   text-decoration: none;
   color: #333;
   font-size: 1.1em;
-  padding: 5px 0;
+  padding: 10px;
   border-bottom: 2px solid transparent;
   transition: border-bottom 0.3s ease-in-out;
 }
@@ -72,7 +77,7 @@ nav ul li a:hover {
 main .content {
   background-color: #fff;
   padding: 40px;
-  margin-bottom: 60px;  /* Added more space between main content and footer */
+  margin-bottom: 60px;
   border-radius: 8px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
 }
@@ -84,8 +89,8 @@ main h1, main h2, main h3 {
 }
 
 main p {
-  margin-bottom: 24px;  /* Increased space between paragraphs */
-  font-size: 1.15em;  /* Slightly increased font size for readability */
+  margin-bottom: 24px;
+  font-size: 1.15em;
 }
 
 main a {
@@ -101,7 +106,7 @@ main a:hover {
 footer {
   text-align: center;
   padding-top: 20px;
-  border-top: 1px solid #ddd;  /* Separator line above footer */
+  border-top: 1px solid #ddd;
   color: #777;
   font-size: 0.9em;
   margin-top: 60px;
