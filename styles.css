@@ -1,79 +1,58 @@
+/* Basic reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 body {
-    margin: 0;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-color: #f4f4f4;
 }
 
-.header {
-    background-color: #282c34;
-    color: white;
-    padding: 1rem 2rem;
-    text-align: center;
+header {
+  background: #333;
+  color: white;
+  padding: 10px 0;
+  text-align: center;
 }
 
-.tab-nav {
-    background-color: #f4f4f4;
-    border-bottom: 1px solid #ccc;
+nav ul {
+  list-style: none;
+  background: #444;
+  text-align: center;
 }
 
-.tab-nav ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    justify-content: center;
+nav ul li {
+  display: inline;
+  margin-right: 20px;
 }
 
-.tab-nav ul li {
-    margin: 0;
+nav ul li a {
+  color: white;
+  text-decoration: none;
 }
 
-.tab-nav ul li a {
+.content {
+  margin-top: 20px;
+  background: white;
+  padding: 20px;
+}
+
+footer {
+  text-align: center;
+  margin-top: 20px;
+  color: #888;
+}
+
+@media (max-width: 600px) {
+  nav ul {
     display: block;
-    padding: 1rem;
-    text-decoration: none;
-    color: #333;
-}
+  }
 
-.tab-nav ul li a:hover,
-.tab-nav ul li a.active {
-    background-color: #ddd;
-}
-
-.tab-content {
-    padding: 2rem;
-}
-
-.tab-section {
-    display: none;
-}
-
-.tab-section.active {
+  nav ul li {
     display: block;
-}
-
-.footer {
-    background-color: #282c34;
-    color: white;
-    text-align: center;
-    padding: 1rem 2rem;
-}
-
-@media (max-width: 768px) {
-    .header {
-        padding: 1rem;
-    }
-
-    .tab-nav ul {
-        flex-direction: column;
-    }
-
-    .tab-nav ul li a {
-        padding: 0.5rem;
-    }
-
-    .tab-content {
-        padding: 1rem;
-    }
+    margin: 10px 0;
+  }
 }
