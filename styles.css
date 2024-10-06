@@ -40,24 +40,26 @@ header p {
   margin-top: 8px;
 }
 
+/* Horizontal Navigation */
 nav {
   margin-top: 20px;
-  text-align: center; /* Center the navigation bar */
+  text-align: center;
 }
 
 nav ul {
   list-style-type: none;
   padding: 0;
   margin: 0;
+  display: flex; /* Use flexbox to ensure horizontal layout */
+  justify-content: center; /* Center the navigation links horizontally */
 }
 
 nav ul li {
-  display: inline; /* Inline display to make the nav horizontal */
-  margin-right: 20px; /* Space between each link */
+  margin-right: 20px;
 }
 
 nav ul li:last-child {
-  margin-right: 0; /* Remove space after the last link */
+  margin-right: 0; /* Remove the margin from the last item */
 }
 
 nav ul li a {
@@ -128,12 +130,12 @@ footer a:hover {
   }
 
   nav ul {
-    text-align: center;
+    flex-direction: column; /* Stack the links vertically on smaller screens */
   }
 
   nav ul li {
-    display: block;
-    margin: 10px 0;
+    margin-bottom: 10px;
+    margin-right: 0;
   }
 
   header {
