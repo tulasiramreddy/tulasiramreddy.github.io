@@ -1,4 +1,4 @@
-hi| Date       | Coomon Name        | Location                | Notes                    |
+| Date       | Coomon Name        | Location                | Notes                    |
 |------------|----------------|-------------------------|--------------------------|
 | M           | Sparrow    | Atmakur                 | Behavior, habitat, etc.  |
 |            |Ashy Prinia      | Atmakur                 |                          |
