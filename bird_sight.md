@@ -52,7 +52,7 @@
 |            |Yellow Footed Green Pigeon| Noida (sector 50)       |                          |
 |            |Coppersmith Barbet  | Noida (sector 50)       |                          |
 |            |Laughing Dove| Noida (sector 50)       |                          |
-|            |Red Wwhiskered bulbul| Noida (sector 50)       |                          |
+|            |Red Whiskered bulbul| Noida (sector 50)       |                          |
 |            |Brown Rockchat| Surajpur Wetlands       |                          |
 |            |Pied Bushchat| Surajpur Wetlands       |                          |
 |            |Purple Swamphen| Surajpur Wetlands       |                          |
