@@ -34,9 +34,9 @@ My research interests are broadly in probability theory and its applications. Sp
 
 #### Academic:
 
-**Visiting Faculty** *at* Indian School of Business, Hyderabad, India (July, 2024 - Present)
+**Visiting Faculty** *at* Indian School of Business, Hyderabad, India (July, 2024 - August, 2024)
 
-**Guest Faculty** *at* Indian Institute of Science and Education Research (IISER)- Pune, India (January, 2023 - Present)
+**Guest Faculty** *at* Indian Institute of Science and Education Research (IISER)- Pune, India (January, 2023 - December, 2024)
 
 **Postdoctoral Associate** *at* New York University, Abu Dhabi, UAE  (October, 2016 - December, 2019)
 
