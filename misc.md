@@ -1,4 +1,4 @@
-## Treks and hikes: 
+hi## Treks and hikes: 
 Coorg-1 (Karnataka)
 
 Coorg-2 (Karnataka)
@@ -183,6 +183,10 @@ Mahabalipuram
 Chennai
 
 Montevideo
+
+## Skiing
+
+Harsil valley (Cholmi and Raata) 
 
 
 
