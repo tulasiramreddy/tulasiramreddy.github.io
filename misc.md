@@ -1,4 +1,5 @@
-hi## Treks and hikes: 
+## Treks and hikes: 
+
 Coorg-1 (Karnataka)
 
 Coorg-2 (Karnataka)
@@ -160,7 +161,7 @@ Amarkantak
 
 Moodbidre
 
-Sunsets
+## Sunsets:
 
 Trieste
 
@@ -184,7 +185,7 @@ Chennai
 
 Montevideo
 
-## Skiing
+## Skiing:
 
 Harsil valley (Cholmi and Raata) 
 
