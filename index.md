@@ -94,7 +94,7 @@ My research interests are broadly in probability theory and its applications. Sp
 
 
 ## Teaching
-- Econometric Analysis of Panel Data *at ISB Hyderabad ([July 2024 - August 2024](https://tulasiramreddy.github.io/isb_eco_panel_data) and [May 2025 - June 2025](https://tulasiramreddy.github.io/Isb_Panel_Data_2))*
+- Econometric Analysis of Panel Data *at ISB Hyderabad ([July 2024 - August 2024](https://tulasiramreddy.github.io/isb_eco_panel_data) and [May 2025 - June 2025](https://tulasiramreddy.github.io/ISB_Panel_Data_2))*
 - [DS3223/DS6273/MT3273/MT6433 Causal Inference and Discovery ](https://tulasiramreddy.github.io/causal) *at IISER Pune (January 2024 - April 2024)*
 - [DS4233/DS6233 Time Series Analysis](https://tulasiramreddy.github.io/iiserp_time_series) *at IISER Pune (January 2023 - April 2023)*
 - [KSMIC04 Probability Theory](https://tulasiramreddy.github.io/ksom_prob) *at Kerala School of Mathematics (November 2021 - February 2022)*
