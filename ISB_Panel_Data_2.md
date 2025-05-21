@@ -29,7 +29,7 @@ Understanding of Linear algebra and multivariate calculus (derivatives and integ
 |  8 | Synthetic Inference| [Synthetic Difference-in-Differences](https://www.aeaweb.org/articles?id=10.1257/aer.20190159) by  D. Arkhangelsky, S. Athey, D. A. Hirshberg, G. W. Imbens and S. Wager |
 |  9 | ML for panel data | |
 |  10 |Class Presentations | |
-<!---*|  11 |7 August | Two way fixed and random effects model| Chapters 2, 3 and 4 of Baltagi |
+[]: # (|  11 |7 August | Two way fixed and random effects model| Chapters 2, 3 and 4 of Baltagi |
 |  12 |7 August | Two way fixed and random effects model | Chapters 2 and 3 of Hsiao Cheng|
 |  13 |12 August | Potential Outcomes Framework  | |
 |  14 |12 August | Endogenity  | |
@@ -44,7 +44,7 @@ Understanding of Linear algebra and multivariate calculus (derivatives and integ
 |  22 |23 August | Synthetic Inference | |
 |  23 |26 August | Generalized Method of Moments | |
 |  24 |26 August | Copula Method | Extended lecture: Presentation by Amarendra|
-|   |28 August | Class Presentations | Poonamjot/Denis/Ashwini | --->
+|   |28 August | Class Presentations | Poonamjot/Denis/Ashwini |)
 
 
 
