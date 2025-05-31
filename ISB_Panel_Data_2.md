@@ -50,3 +50,4 @@ Understanding of Linear algebra and multivariate calculus (derivatives and integ
 - [Analysis of Panel Data](https://www.cambridge.org/core/books/analysis-of-panel-data/C24D71CDE5844F602E3F43526E207C70) by H. Cheng
 - [Panel Data Econometrics](https://academic.oup.com/book/34755?login=true) by Manuel Arellano
 - [Causal Inference - The Mixtape](https://mixtape.scunning.com/) by Scott Cunningham
+- [The Effect: An Introduction to Research Design and Causality](https://theeffectbook.net/index.html) by Nick Huntington-Klein
