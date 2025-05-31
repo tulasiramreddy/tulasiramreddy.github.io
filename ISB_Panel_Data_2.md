@@ -21,7 +21,7 @@ Understanding of Linear algebra and multivariate calculus (derivatives and integ
 | :------------- |  -----------: | -----------: |
 |  1 |  Introduction and Review| |
 |  2 |  SUR Model | |
-|  3 |  Fixed and Random Effects |Chapters 2, 3 and 4 of Baltagi |
+|  3 |  Fixed and Random Effects | Chapters 2 and 3 of Arellano; Aditionally refer Chapter 16 of the [Effect book](https://theeffectbook.net/ch-FixedEffects.html)|
 |  4 | Fixed and Random Effects | Chapters 2 and 3 of Hsiao Cheng|
 |  5 | Interacting Effects | |
 |  6 | Discontinuity Designs|
