@@ -10,7 +10,7 @@
 
 **Topics covered:**  OLS Regression, Generalized OLS, One way fixed and random effects model, Two way fixed and random effects model, Seemingly Unrelated Regressions (SUR), Regression Discontinuity Design, Difference in Differences, M-Estimation, Asymptotic Theory, issues with sampling (if time permits, we will cover some Machine Learning aspects of panel data). 
 
-<!--*Additional topics:* Models with varying intercepts,  dummy variables model,  random  coefficient  models (Swamy's and Hildreth-Houck),  switching  regression model and adaptive regression model. --->
+<!--*Additional topics:* Models with varying intercepts,  random  coefficient  models (Swamy's and Hildreth-Houck),  switching  regression model and adaptive regression model. --->
 
 
 **Pre-requisites:** Familiarity with basic statistical concepts such as estimation techniques, hypothesis testing, and probability distributions. 
@@ -29,6 +29,7 @@ Understanding of Linear algebra and multivariate calculus (derivatives and integ
 |  8 | Difference in Differences| [Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania](https://www.jstor.org/stable/2118030) by David Card and Alan B. Krueger |
 |  9 | Synthetic Inference | [Synthetic Difference-in-Differences](https://www.aeaweb.org/articles?id=10.1257/aer.20190159) by  D. Arkhangelsky, S. Athey, D. A. Hirshberg, G. W. Imbens and S. Wager |
 |  10 |Staggered Designs | |
+|28-June|Class Presentations||
 
 
 
