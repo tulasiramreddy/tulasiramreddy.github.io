@@ -8,7 +8,7 @@
 [![Confounding](https://imgs.xkcd.com/comics/confounding_variables.png)](https://xkcd.com/2560/ "You can find a perfect correlation if you just control for the residual.")
 
 
-**Topics covered:**  OLS Regression, Generalized OLS, One way fixed and random effects model, Two way fixed and random effects model, Seemingly Unrelated Regressions (SUR), Regression Discontinuity Design, Difference in Differences, M-Estimation, Asymptotic Theory, issues with sampling (if time permits, we will cover some Machine Learning aspects of panel data). 
+**Topics covered:**  OLS Regression, Generalized OLS, One way fixed and random effects model, Two way fixed and random effects model, Seemingly Unrelated Regressions (SUR), Regression Discontinuity Design, Difference in Differences, Synthetic Inference, Staggered Designs, M-Estimation, Asymptotic Theory, issues with sampling (if time permits, we will cover some Machine Learning aspects of panel data). 
 
 <!--*Additional topics:* Models with varying intercepts,  random  coefficient  models (Swamy's and Hildreth-Houck),  switching  regression model and adaptive regression model. --->
 
