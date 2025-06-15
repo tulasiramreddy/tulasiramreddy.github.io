@@ -23,12 +23,12 @@ Understanding of Linear algebra and multivariate calculus (derivatives and integ
 |  2 |  SUR Model | |
 |  3 |  Fixed and Random Effects | Chapters 2 and 3 of Arellano; Aditionally refer Chapter 16 of the [Effect book](https://theeffectbook.net/ch-FixedEffects.html)|
 |  4 | Fixed and Random Effects | Chapters 2 and 3 of Hsiao Cheng|
-|  5 | Interacting Effects | |
-|  6 | Discontinuity Designs|
-|  7 | Difference in Differences | [Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania](https://www.jstor.org/stable/2118030) by David Card and Alan B. Krueger|
-|  8 | Synthetic Inference| [Synthetic Difference-in-Differences](https://www.aeaweb.org/articles?id=10.1257/aer.20190159) by  D. Arkhangelsky, S. Athey, D. A. Hirshberg, G. W. Imbens and S. Wager |
-|  9 | ML for panel data | |
-|  10 |Class Presentations | |
+|  5 | Estimating Effects | |
+|  6 | Tests on Effects|
+|  7 | Discontinuity Designs | |
+|  8 | Difference in Differences| [Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania](https://www.jstor.org/stable/2118030) by David Card and Alan B. Krueger |
+|  9 | Synthetic Inference | [Synthetic Difference-in-Differences](https://www.aeaweb.org/articles?id=10.1257/aer.20190159) by  D. Arkhangelsky, S. Athey, D. A. Hirshberg, G. W. Imbens and S. Wager |
+|  10 |Staggered Designs | |
 
 
 
