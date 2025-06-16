@@ -28,7 +28,7 @@ Understanding of Linear algebra and multivariate calculus (derivatives and integ
 |  7 | Discontinuity Designs | See [Chapter-06](https://mixtape.scunning.com/06-regression_discontinuity) in Causal Inference - The Mixtape book; See [Chapter 20](https://theeffectbook.net/ch-RegressionDiscontinuity.html) in the Effect book.|
 |  8 | Difference in Differences| See [Chapter-09](https://mixtape.scunning.com/09-difference_in_differences) in Causal Inference - The Mixtape book; See [Chapter 18](https://theeffectbook.net/ch-DifferenceinDifference.html) in the Effect book; [Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania](https://www.jstor.org/stable/2118030) by David Card and Alan B. Krueger |
 |  9 | Synthetic Inference | See [Chapter-10](https://mixtape.scunning.com/10-synthetic_control) in Causal Inference - The Mixtape; See [Synthetic Difference-in-Differences](https://www.aeaweb.org/articles?id=10.1257/aer.20190159) by  D. Arkhangelsky, S. Athey, D. A. Hirshberg, G. W. Imbens and S. Wager |
-|  10 |Staggered Designs | [Difference-in-Differences with multiple time periods](https://www.sciencedirect.com/science/article/pii/S0304407620303948?via%3Dihub) by Brantly Callaway, Pedro H.C. Sant’Anna |
+|  10 |Staggered Designs | See [Chapter-09](https://mixtape.scunning.com/09-difference_in_differences) in Causal Inference - The Mixtape book; See [Difference-in-Differences with multiple time periods](https://www.sciencedirect.com/science/article/pii/S0304407620303948?via%3Dihub) by Brantly Callaway, Pedro H.C. Sant’Anna |
 |28-June-2025|Class Presentations||
 
 
